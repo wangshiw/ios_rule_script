@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-18 02:11:19
+# UPDATED: 2021-06-19 02:08:26
 # DOMAIN-KEYWORD: 86
 # DOMAIN-SUFFIX: 47844
-# DOMAIN: 20695
+# DOMAIN: 20690
 # IP-CIDR: 253
 # IP-CIDR6: 1
-# TOTAL: 68879
+# TOTAL: 68874
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -935,7 +935,6 @@ payload:
   - 'acompanhantesdeportugal.com'
   - 'acornpointlodge.com'
   - 'acortame.net'
-  - 'acourseinpresence.com'
   - 'acoustoopticmodulator.com'
   - 'acp.fyber.com'
   - 'acproyectos.com'
@@ -2487,7 +2486,6 @@ payload:
   - 'agpaving.com'
   - 'agpix02.touchcommerce.com'
   - 'agreeablestew.com'
-  - 'agricolamarsole.com'
   - 'agsteier.com'
   - 'agstracker.com'
   - 'agvutil02.inq.com'
@@ -2746,7 +2744,6 @@ payload:
   - 'ameriplanet.com'
   - 'amfashionindia.com'
   - 'amhfortrade.com'
-  - 'amholistics.com'
   - 'amicsdelkayak.net'
   - 'aminev.com'
   - 'amino-cn.com'
@@ -3585,6 +3582,7 @@ payload:
   - 'baileyplants.com'
   - 'baingrants.com'
   - 'baixar-musicas-gratis.com'
+  - 'baizun.bi2vl.com'
   - 'baja-pro.com'
   - 'bajajpaints.com'
   - 'bakesquare.com'
@@ -11199,7 +11197,6 @@ payload:
   - 'landingpages.sunnytoolz.com'
   - 'landisbaptist.com'
   - 'landoftracking.com'
-  - 'landongs.posdone.com'
   - 'landrine.com'
   - 'langbrosleathers.com'
   - 'langillesmetalrecycling.com'
@@ -12628,7 +12625,6 @@ payload:
   - 'moneywin24.com'
   - 'monofeel.com'
   - 'monsieuradz.zapto.org'
-  - 'monsterlamp.cn'
   - 'monsterlegendshack.com'
   - 'monsterlegendshacker.com'
   - 'monsterpops.com'
@@ -13226,6 +13222,7 @@ payload:
   - 'nicheshopping.net'
   - 'nickholmer.com'
   - 'nicoletteweber.com'
+  - 'nihilxaos.com'
   - 'nildoviana.com'
   - 'nile.works'
   - 'nilesolution.net'
@@ -13584,7 +13581,6 @@ payload:
   - 'onesecondimpression.com'
   - 'onestatfree.com'
   - 'onetricks.com'
-  - 'onetw.posdone.com'
   - 'onfaucet.com'
   - 'onhitads.net'
   - 'onixcase.com'
@@ -16269,6 +16265,7 @@ payload:
   - 'shopcocofleur.com'
   - 'shopeasy.by'
   - 'shopify.retargetapp.com'
+  - 'shopmiscere.com'
   - 'shopperpromotions.com'
   - 'shopping-homme.com'
   - 'shopping-offer.com'
@@ -18117,7 +18114,6 @@ payload:
   - 'topmeds10.com'
   - 'topmmorpgsites.com'
   - 'topmoviehd.com'
-  - 'topofpromo.com'
   - 'toponlineagent.com'
   - 'toppstock.com'
   - 'toprebates.com'
@@ -20437,7 +20433,6 @@ payload:
   - 'your.dailytopdealz.com'
   - 'yourbestway.cn'
   - 'yourblocksite.com'
-  - 'yourdigitalsearcher.com'
   - 'yourflowergirlflorist.com'
   - 'yourfree360games.com'
   - 'yourfreegamesnow.com'

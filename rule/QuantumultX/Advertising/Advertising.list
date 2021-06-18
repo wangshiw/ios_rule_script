@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-18 02:11:18
+# UPDATED: 2021-06-19 02:08:25
 # HOST-KEYWORD: 86
 # HOST-SUFFIX: 47844
-# HOST: 20695
+# HOST: 20690
 # IP-CIDR: 253
 # IP6-CIDR: 1
-# TOTAL: 68879
+# TOTAL: 68874
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -934,7 +934,6 @@ HOST,acoachat.org,Advertising
 HOST,acompanhantesdeportugal.com,Advertising
 HOST,acornpointlodge.com,Advertising
 HOST,acortame.net,Advertising
-HOST,acourseinpresence.com,Advertising
 HOST,acoustoopticmodulator.com,Advertising
 HOST,acp.fyber.com,Advertising
 HOST,acproyectos.com,Advertising
@@ -2486,7 +2485,6 @@ HOST,agl-intl.hotstar.com,Advertising
 HOST,agpaving.com,Advertising
 HOST,agpix02.touchcommerce.com,Advertising
 HOST,agreeablestew.com,Advertising
-HOST,agricolamarsole.com,Advertising
 HOST,agsteier.com,Advertising
 HOST,agstracker.com,Advertising
 HOST,agvutil02.inq.com,Advertising
@@ -2745,7 +2743,6 @@ HOST,americash.com,Advertising
 HOST,ameriplanet.com,Advertising
 HOST,amfashionindia.com,Advertising
 HOST,amhfortrade.com,Advertising
-HOST,amholistics.com,Advertising
 HOST,amicsdelkayak.net,Advertising
 HOST,aminev.com,Advertising
 HOST,amino-cn.com,Advertising
@@ -3584,6 +3581,7 @@ HOST,baijiahao.ledrgb.cn,Advertising
 HOST,baileyplants.com,Advertising
 HOST,baingrants.com,Advertising
 HOST,baixar-musicas-gratis.com,Advertising
+HOST,baizun.bi2vl.com,Advertising
 HOST,baja-pro.com,Advertising
 HOST,bajajpaints.com,Advertising
 HOST,bakesquare.com,Advertising
@@ -11198,7 +11196,6 @@ HOST,landingpage.novaonx.com,Advertising
 HOST,landingpages.sunnytoolz.com,Advertising
 HOST,landisbaptist.com,Advertising
 HOST,landoftracking.com,Advertising
-HOST,landongs.posdone.com,Advertising
 HOST,landrine.com,Advertising
 HOST,langbrosleathers.com,Advertising
 HOST,langillesmetalrecycling.com,Advertising
@@ -12627,7 +12624,6 @@ HOST,moneytreebillingllc.com,Advertising
 HOST,moneywin24.com,Advertising
 HOST,monofeel.com,Advertising
 HOST,monsieuradz.zapto.org,Advertising
-HOST,monsterlamp.cn,Advertising
 HOST,monsterlegendshack.com,Advertising
 HOST,monsterlegendshacker.com,Advertising
 HOST,monsterpops.com,Advertising
@@ -13225,6 +13221,7 @@ HOST,nichedia.com,Advertising
 HOST,nicheshopping.net,Advertising
 HOST,nickholmer.com,Advertising
 HOST,nicoletteweber.com,Advertising
+HOST,nihilxaos.com,Advertising
 HOST,nildoviana.com,Advertising
 HOST,nile.works,Advertising
 HOST,nilesolution.net,Advertising
@@ -13583,7 +13580,6 @@ HOST,oneness4all.org,Advertising
 HOST,onesecondimpression.com,Advertising
 HOST,onestatfree.com,Advertising
 HOST,onetricks.com,Advertising
-HOST,onetw.posdone.com,Advertising
 HOST,onfaucet.com,Advertising
 HOST,onhitads.net,Advertising
 HOST,onixcase.com,Advertising
@@ -16268,6 +16264,7 @@ HOST,shopcarolinas.com,Advertising
 HOST,shopcocofleur.com,Advertising
 HOST,shopeasy.by,Advertising
 HOST,shopify.retargetapp.com,Advertising
+HOST,shopmiscere.com,Advertising
 HOST,shopperpromotions.com,Advertising
 HOST,shopping-homme.com,Advertising
 HOST,shopping-offer.com,Advertising
@@ -18116,7 +18113,6 @@ HOST,toplistcity.com,Advertising
 HOST,topmeds10.com,Advertising
 HOST,topmmorpgsites.com,Advertising
 HOST,topmoviehd.com,Advertising
-HOST,topofpromo.com,Advertising
 HOST,toponlineagent.com,Advertising
 HOST,toppstock.com,Advertising
 HOST,toprebates.com,Advertising
@@ -20436,7 +20432,6 @@ HOST,your-gift-zone.com,Advertising
 HOST,your.dailytopdealz.com,Advertising
 HOST,yourbestway.cn,Advertising
 HOST,yourblocksite.com,Advertising
-HOST,yourdigitalsearcher.com,Advertising
 HOST,yourflowergirlflorist.com,Advertising
 HOST,yourfree360games.com,Advertising
 HOST,yourfreegamesnow.com,Advertising

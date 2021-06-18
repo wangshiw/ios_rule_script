@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-18 02:11:20
+# UPDATED: 2021-06-19 02:08:27
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 86
-# DOMAIN-SUFFIX: 77297
-# DOMAIN: 14302
+# DOMAIN-SUFFIX: 77313
+# DOMAIN: 14297
 # IP-CIDR: 253
 # IP-CIDR6: 1
 # URL-REGEX: 301
-# TOTAL: 92240
+# TOTAL: 92251
 0.up.qingdaonews.com
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -511,7 +511,6 @@ acoachat.org
 acompanhantesdeportugal.com
 acornpointlodge.com
 acortame.net
-acourseinpresence.com
 acoustoopticmodulator.com
 acproyectos.com
 acquireenglish.org
@@ -1102,7 +1101,6 @@ agiuvdbcxdirh.com
 agl-intl.hotstar.com
 agpaving.com
 agpix02.touchcommerce.com
-agricolamarsole.com
 agsteier.com
 agstracker.com
 agvutil02.inq.com
@@ -1321,7 +1319,6 @@ americanfriendsofreuth.org
 ameriplanet.com
 amfashionindia.com
 amhfortrade.com
-amholistics.com
 amicsdelkayak.net
 aminev.com
 amino-cn.com
@@ -1895,6 +1892,7 @@ baijiahao.ledrgb.cn
 baileyplants.com
 baingrants.com
 baixar-musicas-gratis.com
+baizun.bi2vl.com
 baja-pro.com
 bajajpaints.com
 bakesquare.com
@@ -7558,7 +7556,6 @@ landground.com
 landingpages.sunnytoolz.com
 landisbaptist.com
 landoftracking.com
-landongs.posdone.com
 landrine.com
 langbrosleathers.com
 langillesmetalrecycling.com
@@ -8575,7 +8572,6 @@ moneytreebillingllc.com
 moneywin24.com
 monofeel.com
 monsieuradz.zapto.org
-monsterlamp.cn
 monsterlegendshack.com
 monsterlegendshacker.com
 montbservice.com
@@ -9035,6 +9031,7 @@ nichedia.com
 nicheshopping.net
 nickholmer.com
 nicoletteweber.com
+nihilxaos.com
 nildoviana.com
 nile.works
 nilesolution.net
@@ -9280,7 +9277,6 @@ onelovehacks.com
 oneness4all.org
 onesecondimpression.com
 onetricks.com
-onetw.posdone.com
 onfaucet.com
 onixcase.com
 online-cheats.com
@@ -11163,6 +11159,7 @@ shopalliedpools.com
 shopcarolinas.com
 shopcocofleur.com
 shopify.retargetapp.com
+shopmiscere.com
 shopping-homme.com
 shoppingcctv.com
 shoppingdaily.com
@@ -12472,7 +12469,6 @@ tophostbg.net
 topicmonster.com
 topmmorpgsites.com
 topmoviehd.com
-topofpromo.com
 toponlineagent.com
 toppstock.com
 topsafelist.net
@@ -14126,7 +14122,6 @@ younqone.com
 youpaiwang.com
 your-free-hack.com
 yourbestway.cn
-yourdigitalsearcher.com
 yourflowergirlflorist.com
 yourfree360games.com
 yourfreegamesnow.com
@@ -26155,6 +26150,7 @@ zzz.clickbank.net
 .audit.macworld.co.uk
 .audit.median.hu
 .audit.pcadvisor.co.uk
+.audit.shaa.it
 .audit.webinform.hu
 .audit8.com
 .auditioneasterhelm.com
@@ -35371,6 +35367,7 @@ zzz.clickbank.net
 .dajean.com
 .dajiyuan.com
 .dajiyuan.org
+.dakang-energy.com
 .dakawm.cc
 .dake.net.cn
 .dakic-ia-300.com
@@ -38836,6 +38833,7 @@ zzz.clickbank.net
 .egeszsegespont.hu
 .egfqtvewksktz.com
 .eggplant.cloud
+.eggyey.com
 .eginnisseco.top
 .egjcio.diamondmansion.com
 .egjq.com.cn
@@ -39139,6 +39137,7 @@ zzz.clickbank.net
 .em.getsimpleprints.com
 .em.touchtunes.com
 .em.touchtunesmail.com
+.em1.yoursantander.co.uk
 .emagazing.fun
 .email-match.com
 .email-particuliers.engie.fr
@@ -41245,6 +41244,7 @@ zzz.clickbank.net
 .ffychb.com
 .ffyoo.com
 .ffyyfy.top
+.fg-z.com
 .fg.softguy.com
 .fg09t.com
 .fgangstsur.club
@@ -47619,6 +47619,7 @@ zzz.clickbank.net
 .ijugatdyiuwxq.com
 .ijuns.com
 .ijuny.com
+.ijvvsearfavi.mobi
 .ijwtkojhc.com
 .ijxfkfsvzvnyk.com
 .ijypyy.fool.ca
@@ -52679,6 +52680,7 @@ zzz.clickbank.net
 .lfhgumhsrjjgrt.com
 .lfhnkp.com
 .lfkesv.seeplaces.com
+.lflable.com
 .lflili.com
 .lflucky.com
 .lfnzmp.bestdeco.nl
@@ -56022,6 +56024,7 @@ zzz.clickbank.net
 .mbxt.net
 .mbzl-pro.xyz
 .mc-nudes.com
+.mc-ya.ru
 .mc.admetrica.ru
 .mc.bruker.com
 .mc.hujiang.com
@@ -66643,6 +66646,7 @@ zzz.clickbank.net
 .punctualbuzzerleaflet.com
 .punkgameswear.com
 .punkrevealed.com
+.punosy.best
 .punosy.com
 .punosy.top
 .punpisurn.site
@@ -67620,6 +67624,7 @@ zzz.clickbank.net
 .quant.jp
 .quanta-wave.com
 .quanta.la
+.quantao8.top
 .quantcast.com
 .quantcount.com
 .quantomcoding.com
@@ -67722,6 +67727,7 @@ zzz.clickbank.net
 .quxveblgxgsi.com
 .quyaoya.com
 .quyejianzhan.tech
+.quzhizhongye.top
 .quziuh.beliani.dk
 .qvfwckuehf.com
 .qvi0.ru
@@ -74639,6 +74645,7 @@ zzz.clickbank.net
 .socketboredomdigital.com
 .socketviking.net
 .sockjs-goguardian.pusher.com
+.socksorient.com
 .soclone.com
 .socom.es
 .socsi.in
@@ -82418,6 +82425,7 @@ zzz.clickbank.net
 .ttqr58.cn
 .ttrace.ru
 .ttriggestspardiansc.info
+.ttshort.xyz
 .ttsipyxgpihy.com
 .ttspikbeglki.com
 .ttts.miyue17.com
@@ -84496,6 +84504,7 @@ zzz.clickbank.net
 .vggxxhton.com
 .vghd.com
 .vghjsrae.com
+.vgimer.cn
 .vgjackpot5.com
 .vgkknrbzwfau.com
 .vgnlhfdkmcdc.com
@@ -85315,6 +85324,7 @@ zzz.clickbank.net
 .vuabai9.com
 .vuaclub1008.club
 .vuahb.com
+.vubihasdtbadiq.com
 .vucovorise.com
 .vudjof.tiu.ru
 .vuhaupso.net
@@ -90707,6 +90717,7 @@ zzz.clickbank.net
 .zarazazapolaza.com
 .zarget.com
 .zargutivisor.info
+.zariumhb.com
 .zarlomgog.com
 .zarozinski.info
 .zarpop.com

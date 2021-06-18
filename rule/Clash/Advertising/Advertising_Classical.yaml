@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-18 02:11:20
+# UPDATED: 2021-06-19 02:08:26
 # DOMAIN-KEYWORD: 86
 # DOMAIN-SUFFIX: 47844
-# DOMAIN: 20695
+# DOMAIN: 20690
 # IP-CIDR: 253
 # IP-CIDR6: 1
-# TOTAL: 68879
+# TOTAL: 68874
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -935,7 +935,6 @@ payload:
   - DOMAIN,acompanhantesdeportugal.com
   - DOMAIN,acornpointlodge.com
   - DOMAIN,acortame.net
-  - DOMAIN,acourseinpresence.com
   - DOMAIN,acoustoopticmodulator.com
   - DOMAIN,acp.fyber.com
   - DOMAIN,acproyectos.com
@@ -2487,7 +2486,6 @@ payload:
   - DOMAIN,agpaving.com
   - DOMAIN,agpix02.touchcommerce.com
   - DOMAIN,agreeablestew.com
-  - DOMAIN,agricolamarsole.com
   - DOMAIN,agsteier.com
   - DOMAIN,agstracker.com
   - DOMAIN,agvutil02.inq.com
@@ -2746,7 +2744,6 @@ payload:
   - DOMAIN,ameriplanet.com
   - DOMAIN,amfashionindia.com
   - DOMAIN,amhfortrade.com
-  - DOMAIN,amholistics.com
   - DOMAIN,amicsdelkayak.net
   - DOMAIN,aminev.com
   - DOMAIN,amino-cn.com
@@ -3585,6 +3582,7 @@ payload:
   - DOMAIN,baileyplants.com
   - DOMAIN,baingrants.com
   - DOMAIN,baixar-musicas-gratis.com
+  - DOMAIN,baizun.bi2vl.com
   - DOMAIN,baja-pro.com
   - DOMAIN,bajajpaints.com
   - DOMAIN,bakesquare.com
@@ -11199,7 +11197,6 @@ payload:
   - DOMAIN,landingpages.sunnytoolz.com
   - DOMAIN,landisbaptist.com
   - DOMAIN,landoftracking.com
-  - DOMAIN,landongs.posdone.com
   - DOMAIN,landrine.com
   - DOMAIN,langbrosleathers.com
   - DOMAIN,langillesmetalrecycling.com
@@ -12628,7 +12625,6 @@ payload:
   - DOMAIN,moneywin24.com
   - DOMAIN,monofeel.com
   - DOMAIN,monsieuradz.zapto.org
-  - DOMAIN,monsterlamp.cn
   - DOMAIN,monsterlegendshack.com
   - DOMAIN,monsterlegendshacker.com
   - DOMAIN,monsterpops.com
@@ -13226,6 +13222,7 @@ payload:
   - DOMAIN,nicheshopping.net
   - DOMAIN,nickholmer.com
   - DOMAIN,nicoletteweber.com
+  - DOMAIN,nihilxaos.com
   - DOMAIN,nildoviana.com
   - DOMAIN,nile.works
   - DOMAIN,nilesolution.net
@@ -13584,7 +13581,6 @@ payload:
   - DOMAIN,onesecondimpression.com
   - DOMAIN,onestatfree.com
   - DOMAIN,onetricks.com
-  - DOMAIN,onetw.posdone.com
   - DOMAIN,onfaucet.com
   - DOMAIN,onhitads.net
   - DOMAIN,onixcase.com
@@ -16269,6 +16265,7 @@ payload:
   - DOMAIN,shopcocofleur.com
   - DOMAIN,shopeasy.by
   - DOMAIN,shopify.retargetapp.com
+  - DOMAIN,shopmiscere.com
   - DOMAIN,shopperpromotions.com
   - DOMAIN,shopping-homme.com
   - DOMAIN,shopping-offer.com
@@ -18117,7 +18114,6 @@ payload:
   - DOMAIN,topmeds10.com
   - DOMAIN,topmmorpgsites.com
   - DOMAIN,topmoviehd.com
-  - DOMAIN,topofpromo.com
   - DOMAIN,toponlineagent.com
   - DOMAIN,toppstock.com
   - DOMAIN,toprebates.com
@@ -20437,7 +20433,6 @@ payload:
   - DOMAIN,your.dailytopdealz.com
   - DOMAIN,yourbestway.cn
   - DOMAIN,yourblocksite.com
-  - DOMAIN,yourdigitalsearcher.com
   - DOMAIN,yourflowergirlflorist.com
   - DOMAIN,yourfree360games.com
   - DOMAIN,yourfreegamesnow.com

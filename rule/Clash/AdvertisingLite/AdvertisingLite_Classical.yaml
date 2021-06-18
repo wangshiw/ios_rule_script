@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-18 02:11:19
+# UPDATED: 2021-06-19 02:08:26
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12707
-# DOMAIN: 14634
+# DOMAIN: 14632
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27528
+# TOTAL: 27526
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -411,6 +411,7 @@ payload:
   - DOMAIN,5etv.com
   - DOMAIN,5eyz.flzee.com
   - DOMAIN,5f8fbbfc2244adc9.com
+  - DOMAIN,5leji.com
   - DOMAIN,5mnh.com
   - DOMAIN,5nt1gx7o57.com
   - DOMAIN,5ubei.com
@@ -4882,7 +4883,6 @@ payload:
   - DOMAIN,dynsrvtyu.com
   - DOMAIN,dyntrk.com
   - DOMAIN,dyscb.cn
-  - DOMAIN,dywjcc.top
   - DOMAIN,dz4ad.com
   - DOMAIN,dzmxze7hxwn6b.cloudfront.net
   - DOMAIN,dzsstye.com
@@ -8287,6 +8287,7 @@ payload:
   - DOMAIN,mignoops.net
   - DOMAIN,mileporn.com
   - DOMAIN,milleniumpapelaria.com.br
+  - DOMAIN,millioncounter.com
   - DOMAIN,milotree.com
   - DOMAIN,miltauru.net
   - DOMAIN,mimgoal.com
@@ -11057,7 +11058,6 @@ payload:
   - DOMAIN,secondstreetmedia.com
   - DOMAIN,secretbehindporn.com
   - DOMAIN,secretmedia.com
-  - DOMAIN,secretrune.com
   - DOMAIN,secretturtle.com
   - DOMAIN,secure.ifbyphone.com
   - DOMAIN,secureboom.net
@@ -11411,7 +11411,6 @@ payload:
   - DOMAIN,site-submit.com.ua
   - DOMAIN,site.flashx.cc
   - DOMAIN,site24x7rum.com
-  - DOMAIN,siteanaliz.org
   - DOMAIN,siteapps.com
   - DOMAIN,sitebot.cn
   - DOMAIN,sitebrand.com
@@ -12816,7 +12815,6 @@ payload:
   - DOMAIN,treasuredata.com
   - DOMAIN,trebleperfect.com
   - DOMAIN,tredirect.com
-  - DOMAIN,trekmedia.net
   - DOMAIN,treksol.net
   - DOMAIN,trendcounter.com
   - DOMAIN,trendcounter.de

@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-18 02:11:18
+# UPDATED: 2021-06-19 02:08:25
 # HOST-KEYWORD: 28
 # HOST-SUFFIX: 12707
-# HOST: 14634
+# HOST: 14632
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 27528
+# TOTAL: 27526
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -410,6 +410,7 @@ HOST,5e8bba5e95ec.com,AdvertisingLite
 HOST,5etv.com,AdvertisingLite
 HOST,5eyz.flzee.com,AdvertisingLite
 HOST,5f8fbbfc2244adc9.com,AdvertisingLite
+HOST,5leji.com,AdvertisingLite
 HOST,5mnh.com,AdvertisingLite
 HOST,5nt1gx7o57.com,AdvertisingLite
 HOST,5ubei.com,AdvertisingLite
@@ -4881,7 +4882,6 @@ HOST,dynsrv.wps.cn,AdvertisingLite
 HOST,dynsrvtyu.com,AdvertisingLite
 HOST,dyntrk.com,AdvertisingLite
 HOST,dyscb.cn,AdvertisingLite
-HOST,dywjcc.top,AdvertisingLite
 HOST,dz4ad.com,AdvertisingLite
 HOST,dzmxze7hxwn6b.cloudfront.net,AdvertisingLite
 HOST,dzsstye.com,AdvertisingLite
@@ -8286,6 +8286,7 @@ HOST,mieru-ca.com,AdvertisingLite
 HOST,mignoops.net,AdvertisingLite
 HOST,mileporn.com,AdvertisingLite
 HOST,milleniumpapelaria.com.br,AdvertisingLite
+HOST,millioncounter.com,AdvertisingLite
 HOST,milotree.com,AdvertisingLite
 HOST,miltauru.net,AdvertisingLite
 HOST,mimgoal.com,AdvertisingLite
@@ -11056,7 +11057,6 @@ HOST,seccoads.com,AdvertisingLite
 HOST,secondstreetmedia.com,AdvertisingLite
 HOST,secretbehindporn.com,AdvertisingLite
 HOST,secretmedia.com,AdvertisingLite
-HOST,secretrune.com,AdvertisingLite
 HOST,secretturtle.com,AdvertisingLite
 HOST,secure.ifbyphone.com,AdvertisingLite
 HOST,secureboom.net,AdvertisingLite
@@ -11410,7 +11410,6 @@ HOST,sistacked.com,AdvertisingLite
 HOST,site-submit.com.ua,AdvertisingLite
 HOST,site.flashx.cc,AdvertisingLite
 HOST,site24x7rum.com,AdvertisingLite
-HOST,siteanaliz.org,AdvertisingLite
 HOST,siteapps.com,AdvertisingLite
 HOST,sitebot.cn,AdvertisingLite
 HOST,sitebrand.com,AdvertisingLite
@@ -12815,7 +12814,6 @@ HOST,trc.adsage.com,AdvertisingLite
 HOST,treasuredata.com,AdvertisingLite
 HOST,trebleperfect.com,AdvertisingLite
 HOST,tredirect.com,AdvertisingLite
-HOST,trekmedia.net,AdvertisingLite
 HOST,treksol.net,AdvertisingLite
 HOST,trendcounter.com,AdvertisingLite
 HOST,trendcounter.de,AdvertisingLite
