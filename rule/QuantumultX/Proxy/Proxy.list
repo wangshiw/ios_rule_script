@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-20 02:06:04
+# UPDATED: 2021-06-21 02:06:12
 # HOST: 46
-# HOST-SUFFIX: 31792
+# HOST-SUFFIX: 31807
 # USER-AGENT: 11
 # HOST-KEYWORD: 29
 # IP-CIDR: 88
 # IP6-CIDR: 3
-# TOTAL: 31969
+# TOTAL: 31984
 HOST,amp.akamaized.net,Proxy
 HOST,apple.com.akadns.net,Proxy
 HOST,assets-priconne-redive-us.akamaized.net,Proxy
@@ -455,6 +455,7 @@ HOST-SUFFIX,17pps.com,Proxy
 HOST-SUFFIX,17t17p.com,Proxy
 HOST-SUFFIX,17xtv.com,Proxy
 HOST-SUFFIX,17xtv.net,Proxy
+HOST-SUFFIX,18-luck.com,Proxy
 HOST-SUFFIX,18123.com,Proxy
 HOST-SUFFIX,1818.net,Proxy
 HOST-SUFFIX,1818558.com,Proxy
@@ -1091,6 +1092,7 @@ HOST-SUFFIX,4everproxy.com,Proxy
 HOST-SUFFIX,4freemam.myfw.us,Proxy
 HOST-SUFFIX,4freeproxy.com,Proxy
 HOST-SUFFIX,4irc.com,Proxy
+HOST-SUFFIX,4jok.com,Proxy
 HOST-SUFFIX,4musclemen.com,Proxy
 HOST-SUFFIX,4mydomain.com,Proxy
 HOST-SUFFIX,4myminicard.com,Proxy
@@ -1559,7 +1561,6 @@ HOST-SUFFIX,777905x.com,Proxy
 HOST-SUFFIX,777905z.com,Proxy
 HOST-SUFFIX,777amgj.com,Proxy
 HOST-SUFFIX,77883885.com,Proxy
-HOST-SUFFIX,778zy.com,Proxy
 HOST-SUFFIX,77av.net,Proxy
 HOST-SUFFIX,78081.com,Proxy
 HOST-SUFFIX,7817a8.com,Proxy
@@ -1577,6 +1578,7 @@ HOST-SUFFIX,78xtv.com,Proxy
 HOST-SUFFIX,7911hh.com,Proxy
 HOST-SUFFIX,7966.com,Proxy
 HOST-SUFFIX,799299.com,Proxy
+HOST-SUFFIX,79ten.com,Proxy
 HOST-SUFFIX,7capture.com,Proxy
 HOST-SUFFIX,7cow.com,Proxy
 HOST-SUFFIX,7hg8.vip,Proxy
@@ -2095,6 +2097,7 @@ HOST-SUFFIX,abc.com,Proxy
 HOST-SUFFIX,abc.com.py,Proxy
 HOST-SUFFIX,abc.net.au,Proxy
 HOST-SUFFIX,abc.xyz,Proxy
+HOST-SUFFIX,abc1111.com,Proxy
 HOST-SUFFIX,abc92.ru,Proxy
 HOST-SUFFIX,abcheadphones.com,Proxy
 HOST-SUFFIX,abchinese.com,Proxy
@@ -2390,6 +2393,8 @@ HOST-SUFFIX,ag9.ygcp5.com,Proxy
 HOST-SUFFIX,agakhan,Proxy
 HOST-SUFFIX,agapp.net,Proxy
 HOST-SUFFIX,agc90.com,Proxy
+HOST-SUFFIX,agencias.renfe.com,Proxy
+HOST-SUFFIX,agent-jbty.aschcct.com,Proxy
 HOST-SUFFIX,agent.10kgame.com,Proxy
 HOST-SUFFIX,agent.xinhuangyule88899.com,Proxy
 HOST-SUFFIX,agentwho.net,Proxy
@@ -4551,7 +4556,6 @@ HOST-SUFFIX,bf168.pomiav.com,Proxy
 HOST-SUFFIX,bf2468.com,Proxy
 HOST-SUFFIX,bf550.com,Proxy
 HOST-SUFFIX,bf633.com,Proxy
-HOST-SUFFIX,bf730.com,Proxy
 HOST-SUFFIX,bf740.com,Proxy
 HOST-SUFFIX,bf750.com,Proxy
 HOST-SUFFIX,bfbet.com,Proxy
@@ -4597,7 +4601,6 @@ HOST-SUFFIX,bidbay.com,Proxy
 HOST-SUFFIX,bidorbuyindia.com,Proxy
 HOST-SUFFIX,biec.us,Proxy
 HOST-SUFFIX,biedian.me,Proxy
-HOST-SUFFIX,bifa007.com,Proxy
 HOST-SUFFIX,bifa1990.com,Proxy
 HOST-SUFFIX,bifa2006.com,Proxy
 HOST-SUFFIX,bifa2008.com,Proxy
@@ -4742,7 +4745,6 @@ HOST-SUFFIX,bj.ssvps.site,Proxy
 HOST-SUFFIX,bj6666.com,Proxy
 HOST-SUFFIX,bjh6.com,Proxy
 HOST-SUFFIX,bjl11.com,Proxy
-HOST-SUFFIX,bjl2044.com,Proxy
 HOST-SUFFIX,bjl666.com,Proxy
 HOST-SUFFIX,bjl6666.com,Proxy
 HOST-SUFFIX,bjl7999.com,Proxy
@@ -5924,7 +5926,6 @@ HOST-SUFFIX,ca897.com,Proxy
 HOST-SUFFIX,ca899.com,Proxy
 HOST-SUFFIX,ca9033.com,Proxy
 HOST-SUFFIX,ca9055.com,Proxy
-HOST-SUFFIX,ca912.com,Proxy
 HOST-SUFFIX,ca925.com,Proxy
 HOST-SUFFIX,ca962.com,Proxy
 HOST-SUFFIX,ca963.com,Proxy
@@ -6169,6 +6170,7 @@ HOST-SUFFIX,catch22.net,Proxy
 HOST-SUFFIX,catchgod.com,Proxy
 HOST-SUFFIX,catchvideo.net,Proxy
 HOST-SUFFIX,catfightpayperview.xxx,Proxy
+HOST-SUFFIX,cathay.com,Proxy
 HOST-SUFFIX,cathnews.com,Proxy
 HOST-SUFFIX,catholic.org.hk,Proxy
 HOST-SUFFIX,catholic.org.tw,Proxy
@@ -6548,6 +6550,7 @@ HOST-SUFFIX,chinadailymail.com,Proxy
 HOST-SUFFIX,chinadecoding.com,Proxy
 HOST-SUFFIX,chinadialogue.net,Proxy
 HOST-SUFFIX,chinadigitaltimes.net,Proxy
+HOST-SUFFIX,chinadigitaltimes.org,Proxy
 HOST-SUFFIX,chinaeconomicreview.com,Proxy
 HOST-SUFFIX,chinaeforum.com,Proxy
 HOST-SUFFIX,chinaelections.org,Proxy
@@ -6959,8 +6962,10 @@ HOST-SUFFIX,cn.man866.com,Proxy
 HOST-SUFFIX,cn.man892.com,Proxy
 HOST-SUFFIX,cn.man960.com,Proxy
 HOST-SUFFIX,cn.man981.com,Proxy
+HOST-SUFFIX,cn.man993.com,Proxy
 HOST-SUFFIX,cn.manvip610.com,Proxy
 HOST-SUFFIX,cn.manxbridge.com,Proxy
+HOST-SUFFIX,cn.mdrpmx.com,Proxy
 HOST-SUFFIX,cn.tdna.me,Proxy
 HOST-SUFFIX,cn.theaustralian.com.au,Proxy
 HOST-SUFFIX,cn.venetianmacau.com,Proxy
@@ -7109,7 +7114,6 @@ HOST-SUFFIX,compress.to,Proxy
 HOST-SUFFIX,compresspdf.new,Proxy
 HOST-SUFFIX,compusa.com,Proxy
 HOST-SUFFIX,compuserve.com,Proxy
-HOST-SUFFIX,computacenter.com,Proxy
 HOST-SUFFIX,computer.org,Proxy
 HOST-SUFFIX,computing.net,Proxy
 HOST-SUFFIX,computingreviews.com,Proxy
@@ -7576,7 +7580,6 @@ HOST-SUFFIX,d42i.r5.cr.rs,Proxy
 HOST-SUFFIX,d5253.com,Proxy
 HOST-SUFFIX,d5350.com,Proxy
 HOST-SUFFIX,d5359.com,Proxy
-HOST-SUFFIX,d5555.co,Proxy
 HOST-SUFFIX,d5572.com,Proxy
 HOST-SUFFIX,d6565.com,Proxy
 HOST-SUFFIX,d6767.com,Proxy
@@ -7864,6 +7867,7 @@ HOST-SUFFIX,decodet.co,Proxy
 HOST-SUFFIX,decolores.cl,Proxy
 HOST-SUFFIX,deconversion.org,Proxy
 HOST-SUFFIX,dedelu.com,Proxy
+HOST-SUFFIX,deeper.com,Proxy
 HOST-SUFFIX,deepl.com,Proxy
 HOST-SUFFIX,deepmind.com,Proxy
 HOST-SUFFIX,deepthroatfrenzy.com,Proxy
@@ -7987,7 +7991,6 @@ HOST-SUFFIX,df237.com,Proxy
 HOST-SUFFIX,df2global.weebly.com,Proxy
 HOST-SUFFIX,df2world.weebly.com,Proxy
 HOST-SUFFIX,df369369.com,Proxy
-HOST-SUFFIX,df888766.com,Proxy
 HOST-SUFFIX,df888788.com,Proxy
 HOST-SUFFIX,df8aa.com,Proxy
 HOST-SUFFIX,df8bb.com,Proxy
@@ -8017,6 +8020,7 @@ HOST-SUFFIX,diafilme.ro,Proxy
 HOST-SUFFIX,dialga.com,Proxy
 HOST-SUFFIX,dialogflow.com,Proxy
 HOST-SUFFIX,diamond.jp,Proxy
+HOST-SUFFIX,dianzidesigns.com,Proxy
 HOST-SUFFIX,diaoyuislands.org,Proxy
 HOST-SUFFIX,diaz.com.tw,Proxy
 HOST-SUFFIX,diazifood.com,Proxy
@@ -8280,7 +8284,6 @@ HOST-SUFFIX,dns.nextdns.io,Proxy
 HOST-SUFFIX,dns.oszx.co,Proxy
 HOST-SUFFIX,dns.quad9.net,Proxy
 HOST-SUFFIX,dns.sb,Proxy
-HOST-SUFFIX,dns.switch.ch,Proxy
 HOST-SUFFIX,dns.t53.de,Proxy
 HOST-SUFFIX,dns.therifleman.name,Proxy
 HOST-SUFFIX,dns.twnic.tw,Proxy
@@ -8301,6 +8304,7 @@ HOST-SUFFIX,dnsdojo.net,Proxy
 HOST-SUFFIX,dnsdojo.org,Proxy
 HOST-SUFFIX,dnses.alekberg.net,Proxy
 HOST-SUFFIX,dnset.com,Proxy
+HOST-SUFFIX,dnsforge.de,Proxy
 HOST-SUFFIX,dnsfre.xyz,Proxy
 HOST-SUFFIX,dnsfree.xyz,Proxy
 HOST-SUFFIX,dnsget.xyz,Proxy
@@ -8363,6 +8367,7 @@ HOST-SUFFIX,doh.familyshield.opendns.com,Proxy
 HOST-SUFFIX,doh.ffmuc.net,Proxy
 HOST-SUFFIX,doh.in.ahadns.net,Proxy
 HOST-SUFFIX,doh.la.ahadns.net,Proxy
+HOST-SUFFIX,doh.li,Proxy
 HOST-SUFFIX,doh.libredns.gr,Proxy
 HOST-SUFFIX,doh.linuxsec.org,Proxy
 HOST-SUFFIX,doh.opendns.com,Proxy
@@ -9181,6 +9186,7 @@ HOST-SUFFIX,embedly.com,Proxy
 HOST-SUFFIX,embr.in,Proxy
 HOST-SUFFIX,embs.org,Proxy
 HOST-SUFFIX,emcs.org,Proxy
+HOST-SUFFIX,emediate.eu,Proxy
 HOST-SUFFIX,emerck,Proxy
 HOST-SUFFIX,emerson,Proxy
 HOST-SUFFIX,emersonbrookforest.org,Proxy
@@ -11287,6 +11293,7 @@ HOST-SUFFIX,gd,Proxy
 HOST-SUFFIX,gdansk-amazon.com,Proxy
 HOST-SUFFIX,gdbt.net,Proxy
 HOST-SUFFIX,gdg.com.ar,Proxy
+HOST-SUFFIX,gdgdocs.org,Proxy
 HOST-SUFFIX,gdssecurity.com,Proxy
 HOST-SUFFIX,gdzf.org,Proxy
 HOST-SUFFIX,ge,Proxy
@@ -12253,6 +12260,7 @@ HOST-SUFFIX,gvt7.com,Proxy
 HOST-SUFFIX,gvt9.com,Proxy
 HOST-SUFFIX,gvtube.com,Proxy
 HOST-SUFFIX,gw,Proxy
+HOST-SUFFIX,gw.ipfspin.com,Proxy
 HOST-SUFFIX,gwins.org,Proxy
 HOST-SUFFIX,gwtproject.org,Proxy
 HOST-SUFFIX,gx08s1635.deflanid.com,Proxy
@@ -12657,6 +12665,7 @@ HOST-SUFFIX,hh176.net,Proxy
 HOST-SUFFIX,hh2267.com,Proxy
 HOST-SUFFIX,hh22hh.com,Proxy
 HOST-SUFFIX,hh383.net,Proxy
+HOST-SUFFIX,hh61234.com,Proxy
 HOST-SUFFIX,hhdcb3office.org,Proxy
 HOST-SUFFIX,hhh26.net,Proxy
 HOST-SUFFIX,hhh337.net,Proxy
@@ -14002,6 +14011,7 @@ HOST-SUFFIX,intralot.it,Proxy
 HOST-SUFFIX,introes.com,Proxy
 HOST-SUFFIX,intuit,Proxy
 HOST-SUFFIX,intunewiki.com,Proxy
+HOST-SUFFIX,inversionesmatulic.cl,Proxy
 HOST-SUFFIX,invidio.us,Proxy
 HOST-SUFFIX,invidious.fdn.fr,Proxy
 HOST-SUFFIX,invidious.snopyta.org,Proxy
@@ -14320,6 +14330,7 @@ HOST-SUFFIX,ivieasia.com,Proxy
 HOST-SUFFIX,ivpn.net,Proxy
 HOST-SUFFIX,ivyseeds.com,Proxy
 HOST-SUFFIX,iwancai.com,Proxy
+HOST-SUFFIX,iwank.tv,Proxy
 HOST-SUFFIX,iwantclips.com,Proxy
 HOST-SUFFIX,iwanttheodora.com,Proxy
 HOST-SUFFIX,iwc,Proxy
@@ -14348,7 +14359,6 @@ HOST-SUFFIX,izlesene.com,Proxy
 HOST-SUFFIX,izlet.com.ar,Proxy
 HOST-SUFFIX,j-14.com,Proxy
 HOST-SUFFIX,j-cast.com,Proxy
-HOST-SUFFIX,j-channels.com,Proxy
 HOST-SUFFIX,j-goods.net,Proxy
 HOST-SUFFIX,j-proxy.net,Proxy
 HOST-SUFFIX,j.joe.dj,Proxy
@@ -14498,6 +14508,7 @@ HOST-SUFFIX,jb.wojb.org,Proxy
 HOST-SUFFIX,jb25522.app,Proxy
 HOST-SUFFIX,jb288.com,Proxy
 HOST-SUFFIX,jb33275.com,Proxy
+HOST-SUFFIX,jb6868.com,Proxy
 HOST-SUFFIX,jb79997.com,Proxy
 HOST-SUFFIX,jb91122.com,Proxy
 HOST-SUFFIX,jbe-platform.com,Proxy
@@ -14987,7 +14998,6 @@ HOST-SUFFIX,ketubruk.biz,Proxy
 HOST-SUFFIX,kevinvuilleumier.net,Proxy
 HOST-SUFFIX,kex.com,Proxy
 HOST-SUFFIX,keycdn.com,Proxy
-HOST-SUFFIX,keychainserver.net,Proxy
 HOST-SUFFIX,keyhole.com,Proxy
 HOST-SUFFIX,keytransparency.com,Proxy
 HOST-SUFFIX,keytransparency.foo,Proxy
@@ -15543,6 +15553,7 @@ HOST-SUFFIX,let51.com,Proxy
 HOST-SUFFIX,let558.com,Proxy
 HOST-SUFFIX,let59.com,Proxy
 HOST-SUFFIX,let66.net,Proxy
+HOST-SUFFIX,let77.net,Proxy
 HOST-SUFFIX,let78.net,Proxy
 HOST-SUFFIX,let79.net,Proxy
 HOST-SUFFIX,let94.com,Proxy
@@ -15554,13 +15565,13 @@ HOST-SUFFIX,lethean.io,Proxy
 HOST-SUFFIX,letou-bet.com,Proxy
 HOST-SUFFIX,letou.com,Proxy
 HOST-SUFFIX,letou.link,Proxy
-HOST-SUFFIX,letou01.com,Proxy
 HOST-SUFFIX,letou05.com,Proxy
 HOST-SUFFIX,letou1.com,Proxy
 HOST-SUFFIX,letou114.net,Proxy
 HOST-SUFFIX,letou123.com,Proxy
 HOST-SUFFIX,letou123.net,Proxy
 HOST-SUFFIX,letou188.net,Proxy
+HOST-SUFFIX,letou2.com,Proxy
 HOST-SUFFIX,letou2560.com,Proxy
 HOST-SUFFIX,letou3.com,Proxy
 HOST-SUFFIX,letou310.com,Proxy
@@ -15578,6 +15589,7 @@ HOST-SUFFIX,letou811.com,Proxy
 HOST-SUFFIX,letou868.com,Proxy
 HOST-SUFFIX,letou899.com,Proxy
 HOST-SUFFIX,letou928.com,Proxy
+HOST-SUFFIX,letou988.net,Proxy
 HOST-SUFFIX,letou989.com,Proxy
 HOST-SUFFIX,letou99.net,Proxy
 HOST-SUFFIX,letou995.com,Proxy
@@ -15585,7 +15597,6 @@ HOST-SUFFIX,letou996.com,Proxy
 HOST-SUFFIX,letou999.net,Proxy
 HOST-SUFFIX,letscorp.net,Proxy
 HOST-SUFFIX,letsencrypt.org,Proxy
-HOST-SUFFIX,letv311.net,Proxy
 HOST-SUFFIX,letwatch.us,Proxy
 HOST-SUFFIX,leungdikhin.net76.net,Proxy
 HOST-SUFFIX,levanovich.com.ar,Proxy
@@ -15665,6 +15676,7 @@ HOST-SUFFIX,lifemiles.com,Proxy
 HOST-SUFFIX,lifequestwellness.com,Proxy
 HOST-SUFFIX,lifeselector.com,Proxy
 HOST-SUFFIX,lifesitenews.com,Proxy
+HOST-SUFFIX,lifestylegroup.hk,Proxy
 HOST-SUFFIX,lifetimeshares.com,Proxy
 HOST-SUFFIX,liftoff.io,Proxy
 HOST-SUFFIX,lightboxcdn.com,Proxy
@@ -15922,6 +15934,7 @@ HOST-SUFFIX,love7.xyz,Proxy
 HOST-SUFFIX,loveav.org,Proxy
 HOST-SUFFIX,lovebeatsdr.com,Proxy
 HOST-SUFFIX,loved.hk,Proxy
+HOST-SUFFIX,loveherbsoap.com,Proxy
 HOST-SUFFIX,lovemarca.com,Proxy
 HOST-SUFFIX,lovemov.cc,Proxy
 HOST-SUFFIX,lovemyanime.com,Proxy
@@ -16367,6 +16380,7 @@ HOST-SUFFIX,manyhats.pao-pao.org,Proxy
 HOST-SUFFIX,manyvids.com,Proxy
 HOST-SUFFIX,manyvoices.news,Proxy
 HOST-SUFFIX,mao.fi,Proxy
+HOST-SUFFIX,maomiapp.skxtv.com,Proxy
 HOST-SUFFIX,maopost.com,Proxy
 HOST-SUFFIX,maotan888.com,Proxy
 HOST-SUFFIX,mapbox.com,Proxy
@@ -16413,7 +16427,6 @@ HOST-SUFFIX,marshalls,Proxy
 HOST-SUFFIX,martau.com,Proxy
 HOST-SUFFIX,martincartoons.com,Proxy
 HOST-SUFFIX,martindonnelly.com.au,Proxy
-HOST-SUFFIX,martinez-perez.es,Proxy
 HOST-SUFFIX,martinoei.com,Proxy
 HOST-SUFFIX,martinoticias.com,Proxy
 HOST-SUFFIX,martinoticias.org,Proxy
@@ -17189,7 +17202,6 @@ HOST-SUFFIX,mondediplo.com,Proxy
 HOST-SUFFIX,mondex.org,Proxy
 HOST-SUFFIX,mondomedia.com,Proxy
 HOST-SUFFIX,money-link.com.tw,Proxy
-HOST-SUFFIX,money.yandex.ru,Proxy
 HOST-SUFFIX,moneydodo.idv.tw,Proxy
 HOST-SUFFIX,moneyhome.biz,Proxy
 HOST-SUFFIX,moneynet.tw,Proxy
@@ -17605,7 +17617,6 @@ HOST-SUFFIX,myfontastic.com,Proxy
 HOST-SUFFIX,myfonts.com,Proxy
 HOST-SUFFIX,myfonts.net,Proxy
 HOST-SUFFIX,myforum.com.hk,Proxy
-HOST-SUFFIX,myforwarders.com,Proxy
 HOST-SUFFIX,myfoxatlanta.com,Proxy
 HOST-SUFFIX,myfoxaustin.com,Proxy
 HOST-SUFFIX,myfoxboston.com,Proxy
@@ -17726,6 +17737,7 @@ HOST-SUFFIX,myucla.com,Proxy
 HOST-SUFFIX,myvalleynews.com,Proxy
 HOST-SUFFIX,myvisaluxuryhotels.com,Proxy
 HOST-SUFFIX,myvnc.com,Proxy
+HOST-SUFFIX,myvpnpp.us,Proxy
 HOST-SUFFIX,myway.com,Proxy
 HOST-SUFFIX,mywaytopay.info,Proxy
 HOST-SUFFIX,mywaytopay.net,Proxy
@@ -17839,7 +17851,6 @@ HOST-SUFFIX,naughtymag.com,Proxy
 HOST-SUFFIX,nauu66.com,Proxy
 HOST-SUFFIX,nav.dj0020.com,Proxy
 HOST-SUFFIX,nav.jbb0016.com,Proxy
-HOST-SUFFIX,nav.qm20000.com,Proxy
 HOST-SUFFIX,navarroaxel.com.ar,Proxy
 HOST-SUFFIX,navarroreport.com,Proxy
 HOST-SUFFIX,naver.co.jp,Proxy
@@ -17972,6 +17983,7 @@ HOST-SUFFIX,netvigator.com,Proxy
 HOST-SUFFIX,network54.com,Proxy
 HOST-SUFFIX,networkedblogs.com,Proxy
 HOST-SUFFIX,networktunnel.net,Proxy
+HOST-SUFFIX,networldsolutions.org,Proxy
 HOST-SUFFIX,netxtv.site,Proxy
 HOST-SUFFIX,neulion.com,Proxy
 HOST-SUFFIX,neuralink.com,Proxy
@@ -19496,7 +19508,6 @@ HOST-SUFFIX,pcloud.com,Proxy
 HOST-SUFFIX,pcre.org,Proxy
 HOST-SUFFIX,pcstore.com.tw,Proxy
 HOST-SUFFIX,pct.org.tw,Proxy
-HOST-SUFFIX,pcvip3.com,Proxy
 HOST-SUFFIX,pcworld.co.uk,Proxy
 HOST-SUFFIX,pdetails.com,Proxy
 HOST-SUFFIX,pdf.new,Proxy
@@ -19594,7 +19605,6 @@ HOST-SUFFIX,perkd.me,Proxy
 HOST-SUFFIX,perl.org,Proxy
 HOST-SUFFIX,perma.cc,Proxy
 HOST-SUFFIX,permatapulsaku.com,Proxy
-HOST-SUFFIX,perplex.at,Proxy
 HOST-SUFFIX,persagg.com,Proxy
 HOST-SUFFIX,persecution.net,Proxy
 HOST-SUFFIX,persecution.org,Proxy
@@ -19633,7 +19643,6 @@ HOST-SUFFIX,ph666.vip,Proxy
 HOST-SUFFIX,phamhong.com,Proxy
 HOST-SUFFIX,phantomjs.org,Proxy
 HOST-SUFFIX,phapluan.org,Proxy
-HOST-SUFFIX,pharmacie-grand-littoral.com,Proxy
 HOST-SUFFIX,phayul.com,Proxy
 HOST-SUFFIX,philborges.com,Proxy
 HOST-SUFFIX,philips,Proxy
@@ -19810,7 +19819,6 @@ HOST-SUFFIX,pjdc5522.com,Proxy
 HOST-SUFFIX,pjdc5566.com,Proxy
 HOST-SUFFIX,pjdc5577.com,Proxy
 HOST-SUFFIX,pjdc6622.com,Proxy
-HOST-SUFFIX,pjdc6688.com,Proxy
 HOST-SUFFIX,pjdc8866.com,Proxy
 HOST-SUFFIX,pjdc8877.com,Proxy
 HOST-SUFFIX,pjdc9900.com,Proxy
@@ -19832,6 +19840,7 @@ HOST-SUFFIX,plant-seeds.idv.tw,Proxy
 HOST-SUFFIX,plantsvszombies2.com,Proxy
 HOST-SUFFIX,plasson.com.ar,Proxy
 HOST-SUFFIX,play-asia.com,Proxy
+HOST-SUFFIX,play.baleship2.xyz,Proxy
 HOST-SUFFIX,play.bst218.com,Proxy
 HOST-SUFFIX,play4free.com,Proxy
 HOST-SUFFIX,playapex.com,Proxy
@@ -19986,7 +19995,6 @@ HOST-SUFFIX,pornfun.com,Proxy
 HOST-SUFFIX,porngals4.com,Proxy
 HOST-SUFFIX,porngo.com,Proxy
 HOST-SUFFIX,pornhd.com,Proxy
-HOST-SUFFIX,pornhome.com,Proxy
 HOST-SUFFIX,pornhost.com,Proxy
 HOST-SUFFIX,pornhub.com,Proxy
 HOST-SUFFIX,pornhub.com.hk,Proxy
@@ -20927,6 +20935,7 @@ HOST-SUFFIX,rehabforum.org,Proxy
 HOST-SUFFIX,rehan.com.pk,Proxy
 HOST-SUFFIX,reimu.net,Proxy
 HOST-SUFFIX,reindeervpn.com,Proxy
+HOST-SUFFIX,reisrelaas.nl,Proxy
 HOST-SUFFIX,rejectccp.com,Proxy
 HOST-SUFFIX,rejecttheccp.com,Proxy
 HOST-SUFFIX,rejoiceatsameway.org.au,Proxy
@@ -20957,6 +20966,7 @@ HOST-SUFFIX,rentmen.com,Proxy
 HOST-SUFFIX,renyurenquan.org,Proxy
 HOST-SUFFIX,renzhe.cloud,Proxy
 HOST-SUFFIX,renzhecloud.com,Proxy
+HOST-SUFFIX,repo.akii.art,Proxy
 HOST-SUFFIX,repo.brucezhang.cf,Proxy
 HOST-SUFFIX,report4you.com.au,Proxy
 HOST-SUFFIX,repsneakermall.com,Proxy
@@ -21005,6 +21015,7 @@ HOST-SUFFIX,reviewcamp.com,Proxy
 HOST-SUFFIX,reviewcentre.com,Proxy
 HOST-SUFFIX,revleft.com,Proxy
 HOST-SUFFIX,revocationcheck.com,Proxy
+HOST-SUFFIX,revolutionradiomiami.com,Proxy
 HOST-SUFFIX,revolv.com,Proxy
 HOST-SUFFIX,revver.com,Proxy
 HOST-SUFFIX,rewrite-anime.tv,Proxy
@@ -21031,6 +21042,7 @@ HOST-SUFFIX,rheet.com,Proxy
 HOST-SUFFIX,rhodeislandbmw.com,Proxy
 HOST-SUFFIX,rhythmusic.net,Proxy
 HOST-SUFFIX,richardli,Proxy
+HOST-SUFFIX,richardssarah.iforums.us,Proxy
 HOST-SUFFIX,richart.tw,Proxy
 HOST-SUFFIX,richbelson.co.uk,Proxy
 HOST-SUFFIX,richdad-joinus.weebly.com,Proxy
@@ -21156,7 +21168,6 @@ HOST-SUFFIX,routledgehandbooks.com,Proxy
 HOST-SUFFIX,royalcams.com,Proxy
 HOST-SUFFIX,royalsocietypublishing.org,Proxy
 HOST-SUFFIX,royaltec.com.ar,Proxy
-HOST-SUFFIX,rozendaal-multimedia.nl,Proxy
 HOST-SUFFIX,rpever1.ccub168.com,Proxy
 HOST-SUFFIX,rpmfusion.org,Proxy
 HOST-SUFFIX,rprimelab.com,Proxy
@@ -21429,7 +21440,6 @@ HOST-SUFFIX,sb-telecom.net,Proxy
 HOST-SUFFIX,sb-y6.onlinegamegoonline.com,Proxy
 HOST-SUFFIX,sb.188188188188b.com,Proxy
 HOST-SUFFIX,sb.188bet.com,Proxy
-HOST-SUFFIX,sb.bogou188.com,Proxy
 HOST-SUFFIX,sb.sb,Proxy
 HOST-SUFFIX,sb0919.com,Proxy
 HOST-SUFFIX,sb1-bob.burubudur.com,Proxy
@@ -21537,6 +21547,7 @@ HOST-SUFFIX,scribserver.ga,Proxy
 HOST-SUFFIX,scriptspot.com,Proxy
 HOST-SUFFIX,sd,Proxy
 HOST-SUFFIX,sd-bbs.net,Proxy
+HOST-SUFFIX,sd.domain888.pw,Proxy
 HOST-SUFFIX,sd.freepac.pw,Proxy
 HOST-SUFFIX,sd.sino.tw,Proxy
 HOST-SUFFIX,sdarabia.com,Proxy
@@ -22020,6 +22031,7 @@ HOST-SUFFIX,sinchew.com.my,Proxy
 HOST-SUFFIX,sineed.com,Proxy
 HOST-SUFFIX,sineplex.net,Proxy
 HOST-SUFFIX,sing68.com,Proxy
+HOST-SUFFIX,singaporeair.com,Proxy
 HOST-SUFFIX,singaporepools.com.sg,Proxy
 HOST-SUFFIX,singfortibet.com,Proxy
 HOST-SUFFIX,singpao.com.hk,Proxy
@@ -22057,7 +22069,6 @@ HOST-SUFFIX,sis.hkwesee.xyz,Proxy
 HOST-SUFFIX,sis.powayusd.com,Proxy
 HOST-SUFFIX,sis.xxx,Proxy
 HOST-SUFFIX,sis001.com,Proxy
-HOST-SUFFIX,sis001.hkwesee.xyz,Proxy
 HOST-SUFFIX,sis001.us,Proxy
 HOST-SUFFIX,sismonda.com,Proxy
 HOST-SUFFIX,sismonda.com.ar,Proxy
@@ -22378,7 +22389,6 @@ HOST-SUFFIX,sougouwiki.com,Proxy
 HOST-SUFFIX,soul-plus.net,Proxy
 HOST-SUFFIX,soulcaliburhentai.net,Proxy
 HOST-SUFFIX,soumo.info,Proxy
-HOST-SUFFIX,souncloud.com,Proxy
 HOST-SUFFIX,soundcloud.com,Proxy
 HOST-SUFFIX,soundcloud.org,Proxy
 HOST-SUFFIX,soundofhope.kr,Proxy
@@ -22725,7 +22735,6 @@ HOST-SUFFIX,stboy.net,Proxy
 HOST-SUFFIX,stc,Proxy
 HOST-SUFFIX,stc-server.com,Proxy
 HOST-SUFFIX,stc.com.sa,Proxy
-HOST-SUFFIX,stcath.net,Proxy
 HOST-SUFFIX,stcgroup,Proxy
 HOST-SUFFIX,stcroixmosquito.com,Proxy
 HOST-SUFFIX,stcroixmosquitoproject.com,Proxy
@@ -24694,7 +24703,6 @@ HOST-SUFFIX,umcconnections.org,Proxy
 HOST-SUFFIX,umeinc.com,Proxy
 HOST-SUFFIX,umi.im,Proxy
 HOST-SUFFIX,umich.edu,Proxy
-HOST-SUFFIX,umii22.tk,Proxy
 HOST-SUFFIX,ummah.com,Proxy
 HOST-SUFFIX,umnet.com,Proxy
 HOST-SUFFIX,umxtv.com,Proxy
@@ -27021,6 +27029,7 @@ HOST-SUFFIX,www.882111133.com,Proxy
 HOST-SUFFIX,www.882111177.com,Proxy
 HOST-SUFFIX,www.882111188.com,Proxy
 HOST-SUFFIX,www.882117777.com,Proxy
+HOST-SUFFIX,www.88223885.com,Proxy
 HOST-SUFFIX,www.884aa.com,Proxy
 HOST-SUFFIX,www.886kj.com,Proxy
 HOST-SUFFIX,www.886vpn.com,Proxy
@@ -27121,7 +27130,6 @@ HOST-SUFFIX,www.aak90.com,Proxy
 HOST-SUFFIX,www.ab1988.com,Proxy
 HOST-SUFFIX,www.abacusnews.com,Proxy
 HOST-SUFFIX,www.abc.com.au,Proxy
-HOST-SUFFIX,www.abc1111.com,Proxy
 HOST-SUFFIX,www.abcde.com,Proxy
 HOST-SUFFIX,www.abem.org,Proxy
 HOST-SUFFIX,www.abet.cc,Proxy
@@ -27672,6 +27680,7 @@ HOST-SUFFIX,www.chinasfailedtibetpolicies.org,Proxy
 HOST-SUFFIX,www.chinatibetfriendship.org,Proxy
 HOST-SUFFIX,www.chineseconferenceinterpreters.com,Proxy
 HOST-SUFFIX,www.chineselovelinks.com,Proxy
+HOST-SUFFIX,www.chinesewinnipeg.com,Proxy
 HOST-SUFFIX,www.chineseypage.com,Proxy
 HOST-SUFFIX,www.chipchat.com,Proxy
 HOST-SUFFIX,www.chitujsq.com,Proxy
@@ -28082,6 +28091,7 @@ HOST-SUFFIX,www.fh32.com,Proxy
 HOST-SUFFIX,www.fhm.com.tw,Proxy
 HOST-SUFFIX,www.fhtzvip.com,Proxy
 HOST-SUFFIX,www.fia.gov.tw,Proxy
+HOST-SUFFIX,www.fideo.com,Proxy
 HOST-SUFFIX,www.fides.org,Proxy
 HOST-SUFFIX,www.filepoodles.com,Proxy
 HOST-SUFFIX,www.fileshare.ro,Proxy
@@ -28478,6 +28488,7 @@ HOST-SUFFIX,www.hillsroad.ac.uk,Proxy
 HOST-SUFFIX,www.hinwen.com,Proxy
 HOST-SUFFIX,www.hippodromeonline.com,Proxy
 HOST-SUFFIX,www.hishadowsocks.com,Proxy
+HOST-SUFFIX,www.hj398.com,Proxy
 HOST-SUFFIX,www.hj6093.com,Proxy
 HOST-SUFFIX,www.hj857.com,Proxy
 HOST-SUFFIX,www.hj8686.com,Proxy
@@ -28638,6 +28649,7 @@ HOST-SUFFIX,www.ipsxtv.site,Proxy
 HOST-SUFFIX,www.iqucai.com,Proxy
 HOST-SUFFIX,www.iri.org,Proxy
 HOST-SUFFIX,www.ironchariots.org,Proxy
+HOST-SUFFIX,www.ironyhome.hk,Proxy
 HOST-SUFFIX,www.iset.com.tw,Proxy
 HOST-SUFFIX,www.ishadowsocks.biz,Proxy
 HOST-SUFFIX,www.islam-center.net,Proxy
@@ -28672,7 +28684,6 @@ HOST-SUFFIX,www.ivacycn.com,Proxy
 HOST-SUFFIX,www.iveganmart.com,Proxy
 HOST-SUFFIX,www.ivideo6630.0fees.us,Proxy
 HOST-SUFFIX,www.ivpncup.me,Proxy
-HOST-SUFFIX,www.iwank.tv,Proxy
 HOST-SUFFIX,www.iweide88.com,Proxy
 HOST-SUFFIX,www.iwin963.com,Proxy
 HOST-SUFFIX,www.iwin993.com,Proxy
@@ -28870,7 +28881,6 @@ HOST-SUFFIX,www.kmarry.me,Proxy
 HOST-SUFFIX,www.kmart.com,Proxy
 HOST-SUFFIX,www.kmcc.gov.tw,Proxy
 HOST-SUFFIX,www.kmdn.gov.tw,Proxy
-HOST-SUFFIX,www.kmeiju.net,Proxy
 HOST-SUFFIX,www.kmkt.org.tw,Proxy
 HOST-SUFFIX,www.kmnp.gov.tw,Proxy
 HOST-SUFFIX,www.kmov.com,Proxy
@@ -28909,7 +28919,6 @@ HOST-SUFFIX,www.laod.org,Proxy
 HOST-SUFFIX,www.laohu002.com,Proxy
 HOST-SUFFIX,www.larazon.es,Proxy
 HOST-SUFFIX,www.larganmed.com.tw,Proxy
-HOST-SUFFIX,www.lastss.com,Proxy
 HOST-SUFFIX,www.lastweektonight.com,Proxy
 HOST-SUFFIX,www.lataayoutube.com,Proxy
 HOST-SUFFIX,www.lavaone.com,Proxy
@@ -28931,13 +28940,11 @@ HOST-SUFFIX,www.lejsq.net,Proxy
 HOST-SUFFIX,www.lenoircityschools.net,Proxy
 HOST-SUFFIX,www.leonetienne.com,Proxy
 HOST-SUFFIX,www.lestapackaging.co.uk,Proxy
-HOST-SUFFIX,www.let77.net,Proxy
 HOST-SUFFIX,www.let89.com,Proxy
+HOST-SUFFIX,www.letou01.com,Proxy
 HOST-SUFFIX,www.letou118.net,Proxy
-HOST-SUFFIX,www.letou2.com,Proxy
 HOST-SUFFIX,www.letou6677.com,Proxy
 HOST-SUFFIX,www.letou988.com,Proxy
-HOST-SUFFIX,www.lf168.com,Proxy
 HOST-SUFFIX,www.lf318.com,Proxy
 HOST-SUFFIX,www.lgsinnovations.com,Proxy
 HOST-SUFFIX,www.lhasadaily.com,Proxy
@@ -29173,6 +29180,7 @@ HOST-SUFFIX,www.mp3quran.net,Proxy
 HOST-SUFFIX,www.mp4ba.com,Proxy
 HOST-SUFFIX,www.mr006.com,Proxy
 HOST-SUFFIX,www.ms3388.com,Proxy
+HOST-SUFFIX,www.ms569.com,Proxy
 HOST-SUFFIX,www.ms6588.com,Proxy
 HOST-SUFFIX,www.mskolshuk.com,Proxy
 HOST-SUFFIX,www.msnapk.com,Proxy
@@ -29425,6 +29433,7 @@ HOST-SUFFIX,www.pin8899.com,Proxy
 HOST-SUFFIX,www.pin9988.com,Proxy
 HOST-SUFFIX,www.pinko.it,Proxy
 HOST-SUFFIX,www.pinnacle888.com,Proxy
+HOST-SUFFIX,www.pinnaclesports.com,Proxy
 HOST-SUFFIX,www.pinterest.cl,Proxy
 HOST-SUFFIX,www.pinterest.com.au,Proxy
 HOST-SUFFIX,www.pinterest.es,Proxy
@@ -29532,6 +29541,7 @@ HOST-SUFFIX,www.ptwxz.com,Proxy
 HOST-SUFFIX,www.publicproxyservers.com,Proxy
 HOST-SUFFIX,www.publicvpn.com,Proxy
 HOST-SUFFIX,www.pucocn.com,Proxy
+HOST-SUFFIX,www.pureland-buddhism.org,Proxy
 HOST-SUFFIX,www.purevpn.net,Proxy
 HOST-SUFFIX,www.purifymind.com,Proxy
 HOST-SUFFIX,www.pussy.org,Proxy
@@ -29763,6 +29773,7 @@ HOST-SUFFIX,www.skyvpn.us,Proxy
 HOST-SUFFIX,www.skywow.idv.tw,Proxy
 HOST-SUFFIX,www.slantedeyes.com,Proxy
 HOST-SUFFIX,www.slcairport.com,Proxy
+HOST-SUFFIX,www.slurp.com,Proxy
 HOST-SUFFIX,www.sm6998.com,Proxy
 HOST-SUFFIX,www.smashinn.com,Proxy
 HOST-SUFFIX,www.smt-lib.org,Proxy
@@ -29893,6 +29904,7 @@ HOST-SUFFIX,www.tasc.com.tw,Proxy
 HOST-SUFFIX,www.tawhed.ws,Proxy
 HOST-SUFFIX,www.tays.ml,Proxy
 HOST-SUFFIX,www.tb0002.com,Proxy
+HOST-SUFFIX,www.tb2266.com,Proxy
 HOST-SUFFIX,www.tb518.com,Proxy
 HOST-SUFFIX,www.tb988.com,Proxy
 HOST-SUFFIX,www.tbheritage.com,Proxy
@@ -29914,6 +29926,7 @@ HOST-SUFFIX,www.tengbo9.com,Proxy
 HOST-SUFFIX,www.tengbo9881.com,Proxy
 HOST-SUFFIX,www.tenzingyatsoinstitute.org,Proxy
 HOST-SUFFIX,www.teoruiz.com,Proxy
+HOST-SUFFIX,www.tesco.net,Proxy
 HOST-SUFFIX,www.tex-corp.com,Proxy
 HOST-SUFFIX,www.the-cloak.com,Proxy
 HOST-SUFFIX,www.the-diplomat.com,Proxy
@@ -30349,7 +30362,6 @@ HOST-SUFFIX,www.x78jj.com,Proxy
 HOST-SUFFIX,www.x831.com,Proxy
 HOST-SUFFIX,www.xab998.com,Proxy
 HOST-SUFFIX,www.xam25.com,Proxy
-HOST-SUFFIX,www.xam30555.com,Proxy
 HOST-SUFFIX,www.xam41.com,Proxy
 HOST-SUFFIX,www.xam95.com,Proxy
 HOST-SUFFIX,www.xart.com,Proxy
@@ -30372,6 +30384,7 @@ HOST-SUFFIX,www.xf901.com,Proxy
 HOST-SUFFIX,www.xf936.com,Proxy
 HOST-SUFFIX,www.xf979.com,Proxy
 HOST-SUFFIX,www.xf9990.com,Proxy
+HOST-SUFFIX,www.xgfemdom.com,Proxy
 HOST-SUFFIX,www.xhuom.com,Proxy
 HOST-SUFFIX,www.xiancha123.com,Proxy
 HOST-SUFFIX,www.xianchawang.com,Proxy
@@ -30559,6 +30572,7 @@ HOST-SUFFIX,www.zionladder.com,Proxy
 HOST-SUFFIX,www.ziyuanhai.com,Proxy
 HOST-SUFFIX,www.zjued.com,Proxy
 HOST-SUFFIX,www.zlvc.net,Proxy
+HOST-SUFFIX,www.zodgame.com,Proxy
 HOST-SUFFIX,www.zodgame.org,Proxy
 HOST-SUFFIX,www.zom.im,Proxy
 HOST-SUFFIX,www.zongse888.com,Proxy
@@ -30724,6 +30738,7 @@ HOST-SUFFIX,xh0016.com,Proxy
 HOST-SUFFIX,xh0018.com,Proxy
 HOST-SUFFIX,xh0778.com,Proxy
 HOST-SUFFIX,xh1666.com,Proxy
+HOST-SUFFIX,xh1789.com,Proxy
 HOST-SUFFIX,xh3555.com,Proxy
 HOST-SUFFIX,xh4111.com,Proxy
 HOST-SUFFIX,xh4999.com,Proxy
@@ -31033,6 +31048,7 @@ HOST-SUFFIX,xx.domain888.pw,Proxy
 HOST-SUFFIX,xx.freepac.pw,Proxy
 HOST-SUFFIX,xx188betxx.com,Proxy
 HOST-SUFFIX,xx3641.com,Proxy
+HOST-SUFFIX,xx383.net,Proxy
 HOST-SUFFIX,xxbay.com,Proxy
 HOST-SUFFIX,xxbbx.com,Proxy
 HOST-SUFFIX,xxlmovies.com,Proxy
@@ -31111,7 +31127,6 @@ HOST-SUFFIX,y68kk.com,Proxy
 HOST-SUFFIX,y68ss.com,Proxy
 HOST-SUFFIX,y8022.com,Proxy
 HOST-SUFFIX,y869.com,Proxy
-HOST-SUFFIX,y89.com,Proxy
 HOST-SUFFIX,y8tc.14.iamallama.com,Proxy
 HOST-SUFFIX,y9f5i6q5.stackpathcdn.com,Proxy
 HOST-SUFFIX,ya997.com,Proxy
@@ -31213,7 +31228,6 @@ HOST-SUFFIX,yb188.emc77.com,Proxy
 HOST-SUFFIX,yb396.com,Proxy
 HOST-SUFFIX,yb66688.com,Proxy
 HOST-SUFFIX,yb9356.com,Proxy
-HOST-SUFFIX,ybet07.com,Proxy
 HOST-SUFFIX,ybet56.com,Proxy
 HOST-SUFFIX,ybgjgames.net,Proxy
 HOST-SUFFIX,ybha.ldld5.me,Proxy
@@ -31494,6 +31508,7 @@ HOST-SUFFIX,ytn.co.kr,Proxy
 HOST-SUFFIX,ytpub.com,Proxy
 HOST-SUFFIX,yts.ag,Proxy
 HOST-SUFFIX,ytvpn.com,Proxy
+HOST-SUFFIX,yu33.net,Proxy
 HOST-SUFFIX,yuanming.net,Proxy
 HOST-SUFFIX,yuanzhengtang.org,Proxy
 HOST-SUFFIX,yuanzone.no-ip.net,Proxy
