@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-21 02:06:12
+# UPDATED: 2021-06-22 02:06:40
 # DOMAIN-KEYWORD: 86
 # DOMAIN-SUFFIX: 77374
-# DOMAIN: 14287
+# DOMAIN: 14294
 # IP-CIDR: 254
 # IP-CIDR6: 1
-# TOTAL: 92002
+# TOTAL: 92009
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
@@ -240,6 +240,7 @@ payload:
   - DOMAIN,51huanche.com
   - DOMAIN,51xingming.com
   - DOMAIN,51zhongguo.com
+  - DOMAIN,51zjkouqiang.com
   - DOMAIN,520ccsex.com
   - DOMAIN,529collegesaving.com
   - DOMAIN,52guangda.com
@@ -380,6 +381,7 @@ payload:
   - DOMAIN,a1thumbpost.com
   - DOMAIN,a1trafficticketdefense.com
   - DOMAIN,a2.hotpornfile.org
+  - DOMAIN,a2.huiqituan.com
   - DOMAIN,a2.ym193.com
   - DOMAIN,a2132959.0lx.net
   - DOMAIN,a2a.lockerz.com
@@ -510,6 +512,7 @@ payload:
   - DOMAIN,acompanhantesdeportugal.com
   - DOMAIN,acornpointlodge.com
   - DOMAIN,acortame.net
+  - DOMAIN,acourseinpresence.com
   - DOMAIN,acoustoopticmodulator.com
   - DOMAIN,acproyectos.com
   - DOMAIN,acquireenglish.org
@@ -2672,7 +2675,6 @@ payload:
   - DOMAIN,car-accident-birmingham.com
   - DOMAIN,caradisegno.com
   - DOMAIN,carambaba.com
-  - DOMAIN,caravanfs.com
   - DOMAIN,carboneas.com
   - DOMAIN,cardcodes.net
   - DOMAIN,cardplanetindia.com
@@ -2769,6 +2771,7 @@ payload:
   - DOMAIN,cdn.adtradr.com
   - DOMAIN,cdn.adual.net
   - DOMAIN,cdn.alooma.com
+  - DOMAIN,cdn.appdynamics.com
   - DOMAIN,cdn.banner.thumbplay.com
   - DOMAIN,cdn.beaconpush.com
   - DOMAIN,cdn.beginads.com
@@ -3244,7 +3247,6 @@ payload:
   - DOMAIN,codeskype.betack.com
   - DOMAIN,codesplace.com
   - DOMAIN,codesxblfree.com
-  - DOMAIN,codesxboxlive.com
   - DOMAIN,codghost.sharezips.net
   - DOMAIN,codghostprestigehack.com
   - DOMAIN,codornicesforge.com
@@ -4340,6 +4342,7 @@ payload:
   - DOMAIN,e09f3e4ceda.com
   - DOMAIN,e1472540213.mtraction.com
   - DOMAIN,e2e.pcmag.com
+  - DOMAIN,e73.t6qnj6a4v.com
   - DOMAIN,e89.friendfinder.com
   - DOMAIN,e8dcdcd1ddcb352b.com
   - DOMAIN,e9mlrvy1.com
@@ -8599,6 +8602,7 @@ payload:
   - DOMAIN,movie.imdbwatch.com
   - DOMAIN,moviease.com
   - DOMAIN,moviebli.com
+  - DOMAIN,moviebox21.com
   - DOMAIN,moviecoupons.com
   - DOMAIN,moviedownloader.net
   - DOMAIN,moviehack.net
@@ -9272,6 +9276,7 @@ payload:
   - DOMAIN,online-cheats.com
   - DOMAIN,online-counter.cn
   - DOMAIN,online-intim.com
+  - DOMAIN,online-media24.de
   - DOMAIN,online-templatestore.com
   - DOMAIN,online.aria-web.com
   - DOMAIN,online.sh.cn
@@ -12086,6 +12091,7 @@ payload:
   - DOMAIN,tattooha.com
   - DOMAIN,taurus.eu.com
   - DOMAIN,taurusproducciones.com
+  - DOMAIN,tavaresmovelaria.com
   - DOMAIN,tavelscape.com
   - DOMAIN,tavuks.com
   - DOMAIN,taximtravel.com
@@ -13569,6 +13575,7 @@ payload:
   - DOMAIN,wpstage.adelphic.com
   - DOMAIN,wpte.j8inn1zektoe.com
   - DOMAIN,wpthemes.lock24.net
+  - DOMAIN,wpvpcuwp.com
   - DOMAIN,wpvvusso.xyz
   - DOMAIN,wrapper.fileplanet.com
   - DOMAIN,wrapper.ign.com
@@ -16664,6 +16671,7 @@ payload:
   - DOMAIN-SUFFIX,88-baidu.com
   - DOMAIN-SUFFIX,88-sms.com
   - DOMAIN-SUFFIX,88.yunqishi.net
+  - DOMAIN-SUFFIX,88.yunqishi8.com
   - DOMAIN-SUFFIX,8800271.com.cn
   - DOMAIN-SUFFIX,88210212.com
   - DOMAIN-SUFFIX,88461059da0a12ea.com
@@ -24921,8 +24929,6 @@ payload:
   - DOMAIN-SUFFIX,api.analytics.omgpop.com
   - DOMAIN-SUFFIX,api.android-root-tool.com
   - DOMAIN-SUFFIX,api.anti.wauee.com
-  - DOMAIN-SUFFIX,api.appcelerator.com
-  - DOMAIN-SUFFIX,api.appdynamics.com
   - DOMAIN-SUFFIX,api.appfireworks.com
   - DOMAIN-SUFFIX,api.applovefrom.com
   - DOMAIN-SUFFIX,api.appnxt.net
@@ -25401,7 +25407,6 @@ payload:
   - DOMAIN-SUFFIX,approvalglamourduly.com
   - DOMAIN-SUFFIX,apprupt.com
   - DOMAIN-SUFFIX,apps-cloud.xyz
-  - DOMAIN-SUFFIX,apps.appmachine.com
   - DOMAIN-SUFFIX,apps.azhelp.ru
   - DOMAIN-SUFFIX,apps.crowdtangle.com
   - DOMAIN-SUFFIX,apps.nexus.bazaarvoice.com
@@ -26656,6 +26661,7 @@ payload:
   - DOMAIN-SUFFIX,b8af8878e9a9565.com
   - DOMAIN-SUFFIX,b8cf0fd3179ef.com
   - DOMAIN-SUFFIX,b8pfulzbyj7h.com
+  - DOMAIN-SUFFIX,b90.yahoo.co.jp
   - DOMAIN-SUFFIX,b92.putniktravel.com
   - DOMAIN-SUFFIX,b936c5932623f.com
   - DOMAIN-SUFFIX,b9377h.com
@@ -27358,6 +27364,7 @@ payload:
   - DOMAIN-SUFFIX,bc.geocities.yahoo.co.jp
   - DOMAIN-SUFFIX,bc.infoblog.today
   - DOMAIN-SUFFIX,bc.law.com
+  - DOMAIN-SUFFIX,bc.nhk.jp
   - DOMAIN-SUFFIX,bc.qunar.com
   - DOMAIN-SUFFIX,bc.semwerkt.nl
   - DOMAIN-SUFFIX,bc05.ru
@@ -30669,7 +30676,6 @@ payload:
   - DOMAIN-SUFFIX,cdn.api.fotoable.com
   - DOMAIN-SUFFIX,cdn.app.kachapt.cn
   - DOMAIN-SUFFIX,cdn.app.liuxingyul.cn
-  - DOMAIN-SUFFIX,cdn.appdynamics.com
   - DOMAIN-SUFFIX,cdn.apprope.com
   - DOMAIN-SUFFIX,cdn.arcstudiopro.com
   - DOMAIN-SUFFIX,cdn.askosshunt.com
@@ -32210,7 +32216,6 @@ payload:
   - DOMAIN-SUFFIX,cloud-miner.de
   - DOMAIN-SUFFIX,cloud-miner.eu
   - DOMAIN-SUFFIX,cloud-store-cdn.com
-  - DOMAIN-SUFFIX,cloud.appcelerator.com
   - DOMAIN-SUFFIX,cloud.aspiresys.com
   - DOMAIN-SUFFIX,cloud.ogury.io
   - DOMAIN-SUFFIX,cloud.roistat.com
@@ -42097,6 +42102,7 @@ payload:
   - DOMAIN-SUFFIX,franticcarpenter.com
   - DOMAIN-SUFFIX,franticdivergemindless.com
   - DOMAIN-SUFFIX,frase.io
+  - DOMAIN-SUFFIX,fraud.adjoe.zone
   - DOMAIN-SUFFIX,fraudjs.io
   - DOMAIN-SUFFIX,fraudmetrix.cn
   - DOMAIN-SUFFIX,fraudoutrageoustransport.com
@@ -65994,6 +66000,7 @@ payload:
   - DOMAIN-SUFFIX,prod-e.sprtad.com
   - DOMAIN-SUFFIX,prod-pdx-beacon-1406086907.us-west-2.elb.amazonaws.com
   - DOMAIN-SUFFIX,prod-sb-appanalytics-us1.servicebus.windows.net
+  - DOMAIN-SUFFIX,prod.adjoe.zone
   - DOMAIN-SUFFIX,prod.entry.video-ads.a2z.com
   - DOMAIN-SUFFIX,prod.html5-ads.vk-apps.com
   - DOMAIN-SUFFIX,prod.linkitox.com
@@ -70369,7 +70376,6 @@ payload:
   - DOMAIN-SUFFIX,saambaa.com
   - DOMAIN-SUFFIX,saametrics.aktia.fi
   - DOMAIN-SUFFIX,saas-eue-1.com
-  - DOMAIN-SUFFIX,saas.appdynamics.com
   - DOMAIN-SUFFIX,saastt.com
   - DOMAIN-SUFFIX,saat.dow.com
   - DOMAIN-SUFFIX,sabavision.com
@@ -82790,6 +82796,7 @@ payload:
   - DOMAIN-SUFFIX,tyue.me
   - DOMAIN-SUFFIX,tyunderives.info
   - DOMAIN-SUFFIX,tyvjyt.rivers.com.au
+  - DOMAIN-SUFFIX,tywzyhfliwdbu.com
   - DOMAIN-SUFFIX,tyxo.bg
   - DOMAIN-SUFFIX,tyxo.com
   - DOMAIN-SUFFIX,tyxvcadx.com
@@ -83110,6 +83117,7 @@ payload:
   - DOMAIN-SUFFIX,uhor8.cn
   - DOMAIN-SUFFIX,uhpdsplo.com
   - DOMAIN-SUFFIX,uhpjkt.uv100.com.tw
+  - DOMAIN-SUFFIX,uhqpnhorurueku.com
   - DOMAIN-SUFFIX,uhrsek.shoemarker.co.kr
   - DOMAIN-SUFFIX,uhsmmaq4l2n5.com
   - DOMAIN-SUFFIX,uhxdsplo.com
@@ -84254,7 +84262,6 @@ payload:
   - DOMAIN-SUFFIX,vareza.net
   - DOMAIN-SUFFIX,variabilitycomprehension.com
   - DOMAIN-SUFFIX,variablefitness.com
-  - DOMAIN-SUFFIX,variantswatches.apphb.com
   - DOMAIN-SUFFIX,varielcontentdelivery.info
   - DOMAIN-SUFFIX,variety.tc.qq.com
   - DOMAIN-SUFFIX,varietyofdisplayformats.com
