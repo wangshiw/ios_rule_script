@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-25 02:05:00
+# UPDATED: 2021-06-26 02:06:53
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 77012
-# DOMAIN: 14291
+# DOMAIN-SUFFIX: 77028
+# DOMAIN: 14288
 # IP-CIDR: 254
 # IP-CIDR6: 1
 # URL-REGEX: 301
-# TOTAL: 91947
+# TOTAL: 91960
 0.up.qingdaonews.com
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -1188,7 +1188,6 @@ alexrubalcava.com
 alexzangeneh.com
 alfa-img.com
 alfascientificbd.com
-alfateksolutions.com
 algharbeya.com
 alhamddevelopers.com
 alhayah-spine.com
@@ -2353,6 +2352,7 @@ boombeachhacks.com
 boombeachhacks.net
 booshare.net
 boost-my-game.com
+boostmyppc.com
 boostsoftware.com
 bootstrap.livefyre.com
 boranapipes.com
@@ -3551,7 +3551,6 @@ crowleyinstitute.com
 crownmehair.com
 crsafrica.com
 crt.comodoca.com
-crunchmutt.com
 crush5media.com
 crushthecandy.com
 cryptoassetfunding.com
@@ -5824,6 +5823,7 @@ go1.mobrain.xyz
 go2.magnetic.com
 go4freehacks.com
 go4hacks.com
+go777site.com
 goaccount.goforandroid.com
 goappdl.goforandroid.com
 gobeerta.net
@@ -6157,6 +6157,7 @@ hackmeout.net
 hackmobilegames.com
 hackmyapp.net
 hacknosurvey.org
+hackntricks.net
 hackphat.com
 hackprivate.com
 hackreleases.com
@@ -6584,7 +6585,6 @@ icecreamsmax.com
 icehacks.com
 icipourtoi.com
 icityfind.com
-icloud-logins.com
 icloud-privacy.com
 icloud21.com
 icloudverified.com
@@ -7919,7 +7919,6 @@ ltm01.touchcommerce.com
 ltm02.inq.com
 ltm02.touchcommerce.com
 luceatcounseling.com
-luchtenbergdecor.com.br
 lucky288.com
 luckyblank.info
 luckycharmdesigns.com
@@ -8238,7 +8237,6 @@ mediadirectx.com
 mediaeastv3.inq.com
 mediakey1.ef.com
 medialateral.com
-mediamarkt.pl.dailyoffer.top
 mediamind.com
 mediaplayercodecpack.com
 mediasam.net
@@ -9746,7 +9744,6 @@ pkpojhc.com
 pl.bustcream-pro.com
 pl.centrumofert.com
 pl.coral-club.com
-pl.dailyoffer.top
 pl.fmworld.com
 pl.gamemine.com
 pl.gvgmall.com
@@ -10674,7 +10671,6 @@ sa-vision.com
 sabatina.com
 saber46.000webhostapp.com
 sabratravel-sd.com
-sabunla.com
 sacicrew.com
 sacredphoenix.com
 saddaftar.com
@@ -13222,7 +13218,6 @@ vns8ujm.com
 vns8yhn.com
 vnsrkhd.com
 vntanktransport.com
-vod.dgcaili.com
 vod.pk1173.com
 vodafone-de-care.inq.com
 vodafone.inq.com
@@ -14160,6 +14155,7 @@ yqqxrfhtgcbxz.com
 ysbbcrypsc.com
 ysw.kffcww.com
 ytdownloader.com
+ytqihang.com
 yttestsite.com
 yuankouvip.com
 yuejinjx.com
@@ -14195,6 +14191,7 @@ zamora.axiatraders.com
 zarabativaisazartom.net
 zarenica.net
 zarobek4u.com
+zarobicpieniadze.com
 zastenchivosti.net
 zavariushoponline.com
 zayhipbcxig.com
@@ -15856,6 +15853,7 @@ zzz.clickbank.net
 .518ad.com
 .519397.com
 .51ads.com
+.51check.com.cn
 .51chumoping.com
 .51daeka.com
 .51dengshan.cn
@@ -19182,6 +19180,7 @@ zzz.clickbank.net
 .adconion.com
 .adconity.com
 .adconjure.com
+.adconnect.vn
 .adconscious.com
 .adcontent.gamespy.com
 .adcontent.reedbusiness.com
@@ -24604,6 +24603,7 @@ zzz.clickbank.net
 .android.bigresource.com
 .androiddev.orkitra.com
 .androidlog.shouji.baofeng.com
+.androidtvwatsonfe-pa.googleapis.com
 .andsedrit.com
 .andvqrqaeu.com
 .andyetanotherthing.com
@@ -34966,6 +34966,7 @@ zzz.clickbank.net
 .d2u1npnnqecmpq.cloudfront.net
 .d2uap9jskdzp2.cloudfront.net
 .d2uepos3ef6db0.cloudfront.net
+.d2uhnetoehh304.cloudfront.net
 .d2uy8iq3fi50kh.cloudfront.net
 .d2v02itv0y9u9t.cloudfront.net
 .d2va1d0hpla18n.cloudfront.net
@@ -46744,6 +46745,7 @@ zzz.clickbank.net
 .huatuo.qq.com
 .huatuo.weiyun.com
 .huaxinxunye.cn
+.huayancn.cn
 .huayange.com
 .huayangli.cn
 .huayi65.com
@@ -48875,6 +48877,7 @@ zzz.clickbank.net
 .interworksmedia.co.kr
 .intextad.net
 .intextdirect.com
+.intextlinks.idg.zone
 .intextscript.com
 .intextual.net
 .intg.snapchat.com
@@ -50478,6 +50481,7 @@ zzz.clickbank.net
 .jsr9.com
 .jsrdn.com
 .jsretra.com
+.jsrlfg.com
 .jss.haoxyx.com
 .jss.tvzhe.com
 .jssd.uumeitu.com
@@ -50712,6 +50716,7 @@ zzz.clickbank.net
 .jxlqgs.com
 .jxmzyg.com
 .jxnrfx.com
+.jxpxzxf.cn
 .jxqfu.cn
 .jxsgxzx.com
 .jxss88.mobi
@@ -62836,6 +62841,7 @@ zzz.clickbank.net
 .oswalled.club
 .osxau.de
 .osynchresiderin.info
+.ot.jizy.cn
 .ot.obi-italia.it
 .ot.obi.at
 .ot.obi.ch
@@ -64688,6 +64694,7 @@ zzz.clickbank.net
 .pixel.blivenyc.com
 .pixel.bullion.media
 .pixel.buzzfeed.com
+.pixel.chotot.com
 .pixel.condenastdigital.com
 .pixel.cpex.cz
 .pixel.digitalspy.co.uk
@@ -76957,6 +76964,7 @@ zzz.clickbank.net
 .stipple.com
 .stippleit.com
 .stipulatecontinue.com
+.stitchkidney.com
 .stjsurdfitff.com
 .stjzh.gdtarget.com
 .stkqkfhlscmcuh.com
@@ -78533,6 +78541,7 @@ zzz.clickbank.net
 .tcads.net
 .tcadserver.rain-digital.ca
 .tcamav.com
+.tcbdd.cn
 .tcblwdybgbtzl.com
 .tcbox.baidu.com
 .tccbanner.com
@@ -80249,6 +80258,7 @@ zzz.clickbank.net
 .toutiao.2haha.com
 .toutiao.jxnews.com.cn
 .toutiao.social
+.toutiao.xn--fiqs8s
 .toutiaopage.com
 .toutiles.com
 .touy.deryakose.com
@@ -84551,6 +84561,7 @@ zzz.clickbank.net
 .vilaghelyzete.blogspot.com
 .vilagpolgarok.blogspot.hu
 .vilagunk.hu
+.vilercarpetfolk.com
 .villagarden.pl
 .villageeatable.com
 .villandopingcon.site
@@ -89048,6 +89059,7 @@ zzz.clickbank.net
 .xwprdjbayq.com
 .xwuad.com
 .xww360.com
+.xxaalsn.cn
 .xxad.cc
 .xxccdshj.com
 .xxcgdq.com
@@ -89852,6 +89864,7 @@ zzz.clickbank.net
 .you-have-0ne-messsagehe0.top
 .you-just-won-prize.com
 .you1ad.com
+.you6ka.cn
 .youa.net
 .youappi.com
 .youaresogay.com

@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-25 02:05:00
+# UPDATED: 2021-06-26 02:06:53
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 77012
-# DOMAIN: 14291
+# DOMAIN-SUFFIX: 77028
+# DOMAIN: 14288
 # IP-CIDR: 254
 # IP-CIDR6: 1
-# TOTAL: 91646
+# TOTAL: 91659
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
@@ -1187,7 +1187,6 @@ payload:
   - DOMAIN,alexzangeneh.com
   - DOMAIN,alfa-img.com
   - DOMAIN,alfascientificbd.com
-  - DOMAIN,alfateksolutions.com
   - DOMAIN,algharbeya.com
   - DOMAIN,alhamddevelopers.com
   - DOMAIN,alhayah-spine.com
@@ -2352,6 +2351,7 @@ payload:
   - DOMAIN,boombeachhacks.net
   - DOMAIN,booshare.net
   - DOMAIN,boost-my-game.com
+  - DOMAIN,boostmyppc.com
   - DOMAIN,boostsoftware.com
   - DOMAIN,bootstrap.livefyre.com
   - DOMAIN,boranapipes.com
@@ -3550,7 +3550,6 @@ payload:
   - DOMAIN,crownmehair.com
   - DOMAIN,crsafrica.com
   - DOMAIN,crt.comodoca.com
-  - DOMAIN,crunchmutt.com
   - DOMAIN,crush5media.com
   - DOMAIN,crushthecandy.com
   - DOMAIN,cryptoassetfunding.com
@@ -5823,6 +5822,7 @@ payload:
   - DOMAIN,go2.magnetic.com
   - DOMAIN,go4freehacks.com
   - DOMAIN,go4hacks.com
+  - DOMAIN,go777site.com
   - DOMAIN,goaccount.goforandroid.com
   - DOMAIN,goappdl.goforandroid.com
   - DOMAIN,gobeerta.net
@@ -6156,6 +6156,7 @@ payload:
   - DOMAIN,hackmobilegames.com
   - DOMAIN,hackmyapp.net
   - DOMAIN,hacknosurvey.org
+  - DOMAIN,hackntricks.net
   - DOMAIN,hackphat.com
   - DOMAIN,hackprivate.com
   - DOMAIN,hackreleases.com
@@ -6583,7 +6584,6 @@ payload:
   - DOMAIN,icehacks.com
   - DOMAIN,icipourtoi.com
   - DOMAIN,icityfind.com
-  - DOMAIN,icloud-logins.com
   - DOMAIN,icloud-privacy.com
   - DOMAIN,icloud21.com
   - DOMAIN,icloudverified.com
@@ -7918,7 +7918,6 @@ payload:
   - DOMAIN,ltm02.inq.com
   - DOMAIN,ltm02.touchcommerce.com
   - DOMAIN,luceatcounseling.com
-  - DOMAIN,luchtenbergdecor.com.br
   - DOMAIN,lucky288.com
   - DOMAIN,luckyblank.info
   - DOMAIN,luckycharmdesigns.com
@@ -8237,7 +8236,6 @@ payload:
   - DOMAIN,mediaeastv3.inq.com
   - DOMAIN,mediakey1.ef.com
   - DOMAIN,medialateral.com
-  - DOMAIN,mediamarkt.pl.dailyoffer.top
   - DOMAIN,mediamind.com
   - DOMAIN,mediaplayercodecpack.com
   - DOMAIN,mediasam.net
@@ -9745,7 +9743,6 @@ payload:
   - DOMAIN,pl.bustcream-pro.com
   - DOMAIN,pl.centrumofert.com
   - DOMAIN,pl.coral-club.com
-  - DOMAIN,pl.dailyoffer.top
   - DOMAIN,pl.fmworld.com
   - DOMAIN,pl.gamemine.com
   - DOMAIN,pl.gvgmall.com
@@ -10673,7 +10670,6 @@ payload:
   - DOMAIN,sabatina.com
   - DOMAIN,saber46.000webhostapp.com
   - DOMAIN,sabratravel-sd.com
-  - DOMAIN,sabunla.com
   - DOMAIN,sacicrew.com
   - DOMAIN,sacredphoenix.com
   - DOMAIN,saddaftar.com
@@ -13221,7 +13217,6 @@ payload:
   - DOMAIN,vns8yhn.com
   - DOMAIN,vnsrkhd.com
   - DOMAIN,vntanktransport.com
-  - DOMAIN,vod.dgcaili.com
   - DOMAIN,vod.pk1173.com
   - DOMAIN,vodafone-de-care.inq.com
   - DOMAIN,vodafone.inq.com
@@ -14159,6 +14154,7 @@ payload:
   - DOMAIN,ysbbcrypsc.com
   - DOMAIN,ysw.kffcww.com
   - DOMAIN,ytdownloader.com
+  - DOMAIN,ytqihang.com
   - DOMAIN,yttestsite.com
   - DOMAIN,yuankouvip.com
   - DOMAIN,yuejinjx.com
@@ -14194,6 +14190,7 @@ payload:
   - DOMAIN,zarabativaisazartom.net
   - DOMAIN,zarenica.net
   - DOMAIN,zarobek4u.com
+  - DOMAIN,zarobicpieniadze.com
   - DOMAIN,zastenchivosti.net
   - DOMAIN,zavariushoponline.com
   - DOMAIN,zayhipbcxig.com
@@ -15855,6 +15852,7 @@ payload:
   - DOMAIN-SUFFIX,518ad.com
   - DOMAIN-SUFFIX,519397.com
   - DOMAIN-SUFFIX,51ads.com
+  - DOMAIN-SUFFIX,51check.com.cn
   - DOMAIN-SUFFIX,51chumoping.com
   - DOMAIN-SUFFIX,51daeka.com
   - DOMAIN-SUFFIX,51dengshan.cn
@@ -19181,6 +19179,7 @@ payload:
   - DOMAIN-SUFFIX,adconion.com
   - DOMAIN-SUFFIX,adconity.com
   - DOMAIN-SUFFIX,adconjure.com
+  - DOMAIN-SUFFIX,adconnect.vn
   - DOMAIN-SUFFIX,adconscious.com
   - DOMAIN-SUFFIX,adcontent.gamespy.com
   - DOMAIN-SUFFIX,adcontent.reedbusiness.com
@@ -24603,6 +24602,7 @@ payload:
   - DOMAIN-SUFFIX,android.bigresource.com
   - DOMAIN-SUFFIX,androiddev.orkitra.com
   - DOMAIN-SUFFIX,androidlog.shouji.baofeng.com
+  - DOMAIN-SUFFIX,androidtvwatsonfe-pa.googleapis.com
   - DOMAIN-SUFFIX,andsedrit.com
   - DOMAIN-SUFFIX,andvqrqaeu.com
   - DOMAIN-SUFFIX,andyetanotherthing.com
@@ -34965,6 +34965,7 @@ payload:
   - DOMAIN-SUFFIX,d2u1npnnqecmpq.cloudfront.net
   - DOMAIN-SUFFIX,d2uap9jskdzp2.cloudfront.net
   - DOMAIN-SUFFIX,d2uepos3ef6db0.cloudfront.net
+  - DOMAIN-SUFFIX,d2uhnetoehh304.cloudfront.net
   - DOMAIN-SUFFIX,d2uy8iq3fi50kh.cloudfront.net
   - DOMAIN-SUFFIX,d2v02itv0y9u9t.cloudfront.net
   - DOMAIN-SUFFIX,d2va1d0hpla18n.cloudfront.net
@@ -46743,6 +46744,7 @@ payload:
   - DOMAIN-SUFFIX,huatuo.qq.com
   - DOMAIN-SUFFIX,huatuo.weiyun.com
   - DOMAIN-SUFFIX,huaxinxunye.cn
+  - DOMAIN-SUFFIX,huayancn.cn
   - DOMAIN-SUFFIX,huayange.com
   - DOMAIN-SUFFIX,huayangli.cn
   - DOMAIN-SUFFIX,huayi65.com
@@ -48874,6 +48876,7 @@ payload:
   - DOMAIN-SUFFIX,interworksmedia.co.kr
   - DOMAIN-SUFFIX,intextad.net
   - DOMAIN-SUFFIX,intextdirect.com
+  - DOMAIN-SUFFIX,intextlinks.idg.zone
   - DOMAIN-SUFFIX,intextscript.com
   - DOMAIN-SUFFIX,intextual.net
   - DOMAIN-SUFFIX,intg.snapchat.com
@@ -50477,6 +50480,7 @@ payload:
   - DOMAIN-SUFFIX,jsr9.com
   - DOMAIN-SUFFIX,jsrdn.com
   - DOMAIN-SUFFIX,jsretra.com
+  - DOMAIN-SUFFIX,jsrlfg.com
   - DOMAIN-SUFFIX,jss.haoxyx.com
   - DOMAIN-SUFFIX,jss.tvzhe.com
   - DOMAIN-SUFFIX,jssd.uumeitu.com
@@ -50711,6 +50715,7 @@ payload:
   - DOMAIN-SUFFIX,jxlqgs.com
   - DOMAIN-SUFFIX,jxmzyg.com
   - DOMAIN-SUFFIX,jxnrfx.com
+  - DOMAIN-SUFFIX,jxpxzxf.cn
   - DOMAIN-SUFFIX,jxqfu.cn
   - DOMAIN-SUFFIX,jxsgxzx.com
   - DOMAIN-SUFFIX,jxss88.mobi
@@ -62835,6 +62840,7 @@ payload:
   - DOMAIN-SUFFIX,oswalled.club
   - DOMAIN-SUFFIX,osxau.de
   - DOMAIN-SUFFIX,osynchresiderin.info
+  - DOMAIN-SUFFIX,ot.jizy.cn
   - DOMAIN-SUFFIX,ot.obi-italia.it
   - DOMAIN-SUFFIX,ot.obi.at
   - DOMAIN-SUFFIX,ot.obi.ch
@@ -64687,6 +64693,7 @@ payload:
   - DOMAIN-SUFFIX,pixel.blivenyc.com
   - DOMAIN-SUFFIX,pixel.bullion.media
   - DOMAIN-SUFFIX,pixel.buzzfeed.com
+  - DOMAIN-SUFFIX,pixel.chotot.com
   - DOMAIN-SUFFIX,pixel.condenastdigital.com
   - DOMAIN-SUFFIX,pixel.cpex.cz
   - DOMAIN-SUFFIX,pixel.digitalspy.co.uk
@@ -76956,6 +76963,7 @@ payload:
   - DOMAIN-SUFFIX,stipple.com
   - DOMAIN-SUFFIX,stippleit.com
   - DOMAIN-SUFFIX,stipulatecontinue.com
+  - DOMAIN-SUFFIX,stitchkidney.com
   - DOMAIN-SUFFIX,stjsurdfitff.com
   - DOMAIN-SUFFIX,stjzh.gdtarget.com
   - DOMAIN-SUFFIX,stkqkfhlscmcuh.com
@@ -78532,6 +78540,7 @@ payload:
   - DOMAIN-SUFFIX,tcads.net
   - DOMAIN-SUFFIX,tcadserver.rain-digital.ca
   - DOMAIN-SUFFIX,tcamav.com
+  - DOMAIN-SUFFIX,tcbdd.cn
   - DOMAIN-SUFFIX,tcblwdybgbtzl.com
   - DOMAIN-SUFFIX,tcbox.baidu.com
   - DOMAIN-SUFFIX,tccbanner.com
@@ -80248,6 +80257,7 @@ payload:
   - DOMAIN-SUFFIX,toutiao.2haha.com
   - DOMAIN-SUFFIX,toutiao.jxnews.com.cn
   - DOMAIN-SUFFIX,toutiao.social
+  - DOMAIN-SUFFIX,toutiao.xn--fiqs8s
   - DOMAIN-SUFFIX,toutiaopage.com
   - DOMAIN-SUFFIX,toutiles.com
   - DOMAIN-SUFFIX,touy.deryakose.com
@@ -84550,6 +84560,7 @@ payload:
   - DOMAIN-SUFFIX,vilaghelyzete.blogspot.com
   - DOMAIN-SUFFIX,vilagpolgarok.blogspot.hu
   - DOMAIN-SUFFIX,vilagunk.hu
+  - DOMAIN-SUFFIX,vilercarpetfolk.com
   - DOMAIN-SUFFIX,villagarden.pl
   - DOMAIN-SUFFIX,villageeatable.com
   - DOMAIN-SUFFIX,villandopingcon.site
@@ -89047,6 +89058,7 @@ payload:
   - DOMAIN-SUFFIX,xwprdjbayq.com
   - DOMAIN-SUFFIX,xwuad.com
   - DOMAIN-SUFFIX,xww360.com
+  - DOMAIN-SUFFIX,xxaalsn.cn
   - DOMAIN-SUFFIX,xxad.cc
   - DOMAIN-SUFFIX,xxccdshj.com
   - DOMAIN-SUFFIX,xxcgdq.com
@@ -89851,6 +89863,7 @@ payload:
   - DOMAIN-SUFFIX,you-have-0ne-messsagehe0.top
   - DOMAIN-SUFFIX,you-just-won-prize.com
   - DOMAIN-SUFFIX,you1ad.com
+  - DOMAIN-SUFFIX,you6ka.cn
   - DOMAIN-SUFFIX,youa.net
   - DOMAIN-SUFFIX,youappi.com
   - DOMAIN-SUFFIX,youaresogay.com
