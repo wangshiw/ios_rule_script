@@ -25,8 +25,8 @@
 | 类型 | 数量(条) |
 | ---- | ---- |
 | DOMAIN-KEYWORD | 88 |
-| DOMAIN-SUFFIX | 77043 |
-| DOMAIN | 14282 |
+| DOMAIN-SUFFIX | 77047 |
+| DOMAIN | 14278 |
 | IP-CIDR | 254 |
 | IP-CIDR6 | 1 |
 | URL-REGEX | 301 |

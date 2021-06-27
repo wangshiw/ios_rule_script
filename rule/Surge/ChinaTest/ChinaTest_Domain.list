@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-25 02:04:59
+# UPDATED: 2021-06-28 02:05:53
 # DOMAIN-SUFFIX: 69513
 # USER-AGENT: 32
-# DOMAIN: 78
+# DOMAIN: 83
 # IP-CIDR: 57
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 69694
+# TOTAL: 69699
 265.com
 2mdn.net
 adservice.google.com
@@ -16,6 +16,7 @@ analytics.strava.com
 app-measurement.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
+beacons2.gvt2.com
 beacons3.gvt2.com
 blzddist1-a.akamaihd.net
 c.admob.com
@@ -38,6 +39,8 @@ download.jetbrains.com
 file-igamecj.akamaized.net
 fonts.googleapis.com
 fonts.gstatic.com
+g1.gstatic.com
+g2.gstatic.com
 geetest.datasink.sensorsdata.cn
 gogalaxy.gog-statics.com
 google-analytics.com
@@ -80,9 +83,11 @@ toolbarqueries.google.com
 tools.google.com
 tools.l.google.com
 translate.googleapis.com
+translation.googleapis.com
 update.googleapis.com
 uplaypc-s-ubisoft.cdn.ubi.com
 upos-hz-mirrorakam.akamaized.net
+www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 www.gstatic.com
 www.recaptcha.net

@@ -1,10 +1,10 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-27 02:06:35
+# UPDATED: 2021-06-28 02:05:55
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 77043
-# DOMAIN: 14282
+# DOMAIN-SUFFIX: 77047
+# DOMAIN: 14278
 # IP-CIDR: 254
 # IP-CIDR6: 1
 # TOTAL: 91668
@@ -648,6 +648,7 @@ payload:
   - DOMAIN,adminv3.touchcommerce.com
   - DOMAIN,admisoft.com
   - DOMAIN,admobile.com
+  - DOMAIN,admtpmp123.com
   - DOMAIN,adn.static-files.com
   - DOMAIN,adnanlightdecor.com
   - DOMAIN,adnection.com
@@ -2237,6 +2238,7 @@ payload:
   - DOMAIN,bizzibeans.net
   - DOMAIN,bj-fengshi.com
   - DOMAIN,bjano.owncube.com
+  - DOMAIN,bjd-garden.com
   - DOMAIN,bjdingyedianli.com
   - DOMAIN,bjjingda.com
   - DOMAIN,bjjmywcb.com
@@ -2974,7 +2976,6 @@ payload:
   - DOMAIN,cheatspike.com
   - DOMAIN,cheatsplanet.net
   - DOMAIN,cheatsplaza.com
-  - DOMAIN,cheatsspott.com
   - DOMAIN,cheatstime.com
   - DOMAIN,cheatstudio.com
   - DOMAIN,cheatsup.com
@@ -4844,7 +4845,6 @@ payload:
   - DOMAIN,faztplay.com
   - DOMAIN,fb-autoliker.com
   - DOMAIN,fb-hacker.net
-  - DOMAIN,fb-hackers.com
   - DOMAIN,fb-kolor.blogspot.com
   - DOMAIN,fb-podglad.blogspot.com
   - DOMAIN,fb-szpieguj.likesyou.org
@@ -5297,7 +5297,6 @@ payload:
   - DOMAIN,freehackstools.com
   - DOMAIN,freehackz.com
   - DOMAIN,freehackz.org
-  - DOMAIN,freehanbam.net
   - DOMAIN,freehornygirls.com
   - DOMAIN,freehostservers.com
   - DOMAIN,freehuluplus.org
@@ -5878,6 +5877,7 @@ payload:
   - DOMAIN,googlesgo.com
   - DOMAIN,googlsucks.com
   - DOMAIN,gool.frieghtiger.com
+  - DOMAIN,goolegames.com
   - DOMAIN,goooglesecurity.com
   - DOMAIN,goooooooooogle.com
   - DOMAIN,gorillasushi.com
@@ -5926,7 +5926,6 @@ payload:
   - DOMAIN,gratisway.com
   - DOMAIN,gratuit-hack.com
   - DOMAIN,gratuitfile.com
-  - DOMAIN,gratuitpsncodes.com
   - DOMAIN,gratuitxboxgold.com
   - DOMAIN,gravityexp.com
   - DOMAIN,gravygirls.com
@@ -8096,7 +8095,6 @@ payload:
   - DOMAIN,markupbd.com
   - DOMAIN,marlinaquarindo.com
   - DOMAIN,marocuisine.net
-  - DOMAIN,maroonspider.com
   - DOMAIN,marryinamansion.com
   - DOMAIN,marsflag.com
   - DOMAIN,martallonch.com
@@ -9951,6 +9949,7 @@ payload:
   - DOMAIN,premiumprovide.com
   - DOMAIN,premiumtools.org
   - DOMAIN,premjoshua.com
+  - DOMAIN,present4free.com
   - DOMAIN,press.act-on.com
   - DOMAIN,presselite.com
   - DOMAIN,preview.unbounce.com
@@ -11762,7 +11761,6 @@ payload:
   - DOMAIN,steamcommunitly.site88.net
   - DOMAIN,steamcommunituy.com
   - DOMAIN,steamcommunnity.com
-  - DOMAIN,steamcomunlty.com
   - DOMAIN,steamgames4free.net
   - DOMAIN,steamgamesnetwork.com
   - DOMAIN,steamkeygiveaway.com
@@ -13430,7 +13428,6 @@ payload:
   - DOMAIN,wellsigns.com
   - DOMAIN,wellstar-company.com
   - DOMAIN,welovegracetv.com
-  - DOMAIN,wen.jshbyn.com
   - DOMAIN,westerntaneyfire.com
   - DOMAIN,westhavenuniv.edu
   - DOMAIN,westsideindro.com
@@ -13924,7 +13921,6 @@ payload:
   - DOMAIN,xhqsysp.com
   - DOMAIN,xhvhisywkvha.com
   - DOMAIN,xiamenoa.com
-  - DOMAIN,xiamiss.wap.xsbiquge.com
   - DOMAIN,xianyicao.net
   - DOMAIN,xiaocen.com
   - DOMAIN,xiaojinqipai.com
@@ -40109,6 +40105,7 @@ payload:
   - DOMAIN-SUFFIX,events.mapbox.com
   - DOMAIN-SUFFIX,events.matterport.com
   - DOMAIN-SUFFIX,events.mywd.com
+  - DOMAIN-SUFFIX,events.newsroom.bi
   - DOMAIN-SUFFIX,events.ocdn.eu
   - DOMAIN-SUFFIX,events.onet.pl
   - DOMAIN-SUFFIX,events.personali.com
@@ -44327,6 +44324,7 @@ payload:
   - DOMAIN-SUFFIX,gorettent.xyz
   - DOMAIN-SUFFIX,gorgasal.co
   - DOMAIN-SUFFIX,gorgeousground.com
+  - DOMAIN-SUFFIX,gorgeouspresentation.com
   - DOMAIN-SUFFIX,gorgon.youdao.com
   - DOMAIN-SUFFIX,gorgonkil.com
   - DOMAIN-SUFFIX,gorod.tunt.lv
@@ -49758,6 +49756,7 @@ payload:
   - DOMAIN-SUFFIX,jesamcorp.com
   - DOMAIN-SUFFIX,jesgoo.com
   - DOMAIN-SUFFIX,jeshnpdqy.com
+  - DOMAIN-SUFFIX,jessicalaurax.com
   - DOMAIN-SUFFIX,jessieflown.com
   - DOMAIN-SUFFIX,jet.zbp.ru
   - DOMAIN-SUFFIX,jetmhrcy.com
@@ -64461,6 +64460,7 @@ payload:
   - DOMAIN-SUFFIX,pic1.429bi.com
   - DOMAIN-SUFFIX,pic1.59wd.com
   - DOMAIN-SUFFIX,pic1.97jut.com
+  - DOMAIN-SUFFIX,pic1.dianshu119.com
   - DOMAIN-SUFFIX,pic12x20.com
   - DOMAIN-SUFFIX,pic2.429bi.com
   - DOMAIN-SUFFIX,pic2.97jut.com

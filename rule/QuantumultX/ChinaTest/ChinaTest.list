@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-25 02:05:00
+# UPDATED: 2021-06-28 02:05:54
 # HOST-SUFFIX: 69513
 # USER-AGENT: 32
-# HOST: 78
+# HOST: 83
 # IP-CIDR: 57
 # HOST-KEYWORD: 10
 # IP6-CIDR: 4
-# TOTAL: 69694
+# TOTAL: 69699
 HOST,265.com,ChinaTest
 HOST,2mdn.net,ChinaTest
 HOST,adservice.google.com,ChinaTest
@@ -16,6 +16,7 @@ HOST,analytics.strava.com,ChinaTest
 HOST,app-measurement.com,ChinaTest
 HOST,beacons.gcp.gvt2.com,ChinaTest
 HOST,beacons.gvt2.com,ChinaTest
+HOST,beacons2.gvt2.com,ChinaTest
 HOST,beacons3.gvt2.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,c.admob.com,ChinaTest
@@ -38,6 +39,8 @@ HOST,download.jetbrains.com,ChinaTest
 HOST,file-igamecj.akamaized.net,ChinaTest
 HOST,fonts.googleapis.com,ChinaTest
 HOST,fonts.gstatic.com,ChinaTest
+HOST,g1.gstatic.com,ChinaTest
+HOST,g2.gstatic.com,ChinaTest
 HOST,geetest.datasink.sensorsdata.cn,ChinaTest
 HOST,gogalaxy.gog-statics.com,ChinaTest
 HOST,google-analytics.com,ChinaTest
@@ -80,9 +83,11 @@ HOST,toolbarqueries.google.com,ChinaTest
 HOST,tools.google.com,ChinaTest
 HOST,tools.l.google.com,ChinaTest
 HOST,translate.googleapis.com,ChinaTest
+HOST,translation.googleapis.com,ChinaTest
 HOST,update.googleapis.com,ChinaTest
 HOST,uplaypc-s-ubisoft.cdn.ubi.com,ChinaTest
 HOST,upos-hz-mirrorakam.akamaized.net,ChinaTest
+HOST,www-google-analytics.l.google.com,ChinaTest
 HOST,www-googletagmanager.l.google.com,ChinaTest
 HOST,www.gstatic.com,ChinaTest
 HOST,www.recaptcha.net,ChinaTest

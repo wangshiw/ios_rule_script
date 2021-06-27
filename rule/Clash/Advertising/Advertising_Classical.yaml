@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-27 02:06:35
+# UPDATED: 2021-06-28 02:05:55
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 47683
-# DOMAIN: 20676
+# DOMAIN-SUFFIX: 47682
+# DOMAIN: 20669
 # IP-CIDR: 254
 # IP-CIDR6: 1
-# TOTAL: 68702
+# TOTAL: 68694
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -1277,6 +1277,7 @@ payload:
   - DOMAIN,admobile.com
   - DOMAIN,admonitor.com
   - DOMAIN,adms.physorg.com
+  - DOMAIN,admtpmp123.com
   - DOMAIN,adn.plxnt.com
   - DOMAIN,adn.porndig.com
   - DOMAIN,adn.static-files.com
@@ -3339,7 +3340,6 @@ payload:
   - DOMAIN,aservitel.com
   - DOMAIN,asextube.net
   - DOMAIN,asgarddlc.sharezips.net
-  - DOMAIN,ashaidbit.club
   - DOMAIN,ashleiquinones.com
   - DOMAIN,ashleyfurn.inq.com
   - DOMAIN,ashlynnbrookevideos.com
@@ -3365,7 +3365,6 @@ payload:
   - DOMAIN,asphalt8airbornehack.com
   - DOMAIN,asphalt8hack.com
   - DOMAIN,asqpniwvxea.com
-  - DOMAIN,assampant.club
   - DOMAIN,asset.cdn.auditude.com
   - DOMAIN,assets-jpcust.jwpsrv.com
   - DOMAIN,assets.adobedtm.com
@@ -4078,6 +4077,7 @@ payload:
   - DOMAIN,bizzibeans.net
   - DOMAIN,bj-fengshi.com
   - DOMAIN,bjano.owncube.com
+  - DOMAIN,bjd-garden.com
   - DOMAIN,bjdingyedianli.com
   - DOMAIN,bjjingda.com
   - DOMAIN,bjjmywcb.com
@@ -5172,7 +5172,6 @@ payload:
   - DOMAIN,cheatspike.com
   - DOMAIN,cheatsplanet.net
   - DOMAIN,cheatsplaza.com
-  - DOMAIN,cheatsspott.com
   - DOMAIN,cheatstime.com
   - DOMAIN,cheatstudio.com
   - DOMAIN,cheatsup.com
@@ -7816,7 +7815,6 @@ payload:
   - DOMAIN,faztplay.com
   - DOMAIN,fb-autoliker.com
   - DOMAIN,fb-hacker.net
-  - DOMAIN,fb-hackers.com
   - DOMAIN,fb-kolor.blogspot.com
   - DOMAIN,fb-podglad.blogspot.com
   - DOMAIN,fb-szpieguj.likesyou.org
@@ -8334,7 +8332,6 @@ payload:
   - DOMAIN,freehackstools.com
   - DOMAIN,freehackz.com
   - DOMAIN,freehackz.org
-  - DOMAIN,freehanbam.net
   - DOMAIN,freehornygirls.com
   - DOMAIN,freehostservers.com
   - DOMAIN,freehuluplus.org
@@ -9102,6 +9099,7 @@ payload:
   - DOMAIN,googlesgo.com
   - DOMAIN,googlsucks.com
   - DOMAIN,gool.frieghtiger.com
+  - DOMAIN,goolegames.com
   - DOMAIN,goooglesecurity.com
   - DOMAIN,goooooooooogle.com
   - DOMAIN,gorillasushi.com
@@ -9168,7 +9166,6 @@ payload:
   - DOMAIN,gratisway.com
   - DOMAIN,gratuit-hack.com
   - DOMAIN,gratuitfile.com
-  - DOMAIN,gratuitpsncodes.com
   - DOMAIN,gratuitxboxgold.com
   - DOMAIN,gravitron.chron.com
   - DOMAIN,gravityexp.com
@@ -10904,6 +10901,7 @@ payload:
   - DOMAIN,kandisweets.com
   - DOMAIN,kaneirrigation.com
   - DOMAIN,kanikamyer.com
+  - DOMAIN,kanjiantu.com
   - DOMAIN,kansasoutdoorsman.com
   - DOMAIN,kapcotool.com
   - DOMAIN,kaplanlawpractice.com
@@ -11978,7 +11976,6 @@ payload:
   - DOMAIN,markupbd.com
   - DOMAIN,marlinaquarindo.com
   - DOMAIN,marocuisine.net
-  - DOMAIN,maroonspider.com
   - DOMAIN,marryinamansion.com
   - DOMAIN,marsflag.com
   - DOMAIN,martallonch.com
@@ -13717,7 +13714,6 @@ payload:
   - DOMAIN,orngemmbres.bitballoon.com
   - DOMAIN,orourkestrategies.com
   - DOMAIN,orrnissandeals.com
-  - DOMAIN,ortaklik.mynet.com
   - DOMAIN,ortaokultestleri.net
   - DOMAIN,ortomedicavallarta.com
   - DOMAIN,ortopediabolognese.com
@@ -14545,6 +14541,7 @@ payload:
   - DOMAIN,premiumprovide.com
   - DOMAIN,premiumtools.org
   - DOMAIN,premjoshua.com
+  - DOMAIN,present4free.com
   - DOMAIN,presetrabbits.com
   - DOMAIN,press.act-on.com
   - DOMAIN,presselite.com
@@ -16015,7 +16012,6 @@ payload:
   - DOMAIN,seriesgato.com
   - DOMAIN,sernoodmovies.com
   - DOMAIN,serv.tooplay.com
-  - DOMAIN,servad.mynet.com
   - DOMAIN,servads.fansshare.com
   - DOMAIN,serve.5visions.com
   - DOMAIN,serve.ads.chaturbate.com
@@ -17136,7 +17132,6 @@ payload:
   - DOMAIN,steamcommunitly.site88.net
   - DOMAIN,steamcommunituy.com
   - DOMAIN,steamcommunnity.com
-  - DOMAIN,steamcomunlty.com
   - DOMAIN,steamgames4free.net
   - DOMAIN,steamgamesnetwork.com
   - DOMAIN,steamkeygiveaway.com
@@ -19598,7 +19593,6 @@ payload:
   - DOMAIN,wellsigns.com
   - DOMAIN,wellstar-company.com
   - DOMAIN,welovegracetv.com
-  - DOMAIN,wen.jshbyn.com
   - DOMAIN,werbeflut.net
   - DOMAIN,werbung.meteoxpress.com
   - DOMAIN,wes.df.telemetry.microsoft.com
@@ -19898,6 +19892,7 @@ payload:
   - DOMAIN,www.infra.by
   - DOMAIN,www.jcmarcadolib.com
   - DOMAIN,www.joomlalivechat.com
+  - DOMAIN,www.kanjiantu.com
   - DOMAIN,www.kcta.or.kr
   - DOMAIN,www.kjbbc.net
   - DOMAIN,www.lccl.org.uk
@@ -20196,7 +20191,6 @@ payload:
   - DOMAIN,xhqsysp.com
   - DOMAIN,xhvhisywkvha.com
   - DOMAIN,xiamenoa.com
-  - DOMAIN,xiamiss.wap.xsbiquge.com
   - DOMAIN,xianyicao.net
   - DOMAIN,xiaocen.com
   - DOMAIN,xiaojinqipai.com
@@ -20436,7 +20430,6 @@ payload:
   - DOMAIN,yourgamesdownloads.com
   - DOMAIN,yourgiftrewards.com
   - DOMAIN,yourgiftzone.com
-  - DOMAIN,yourhandytips.com
   - DOMAIN,youripad4free.com
   - DOMAIN,youripodtouch4free.com
   - DOMAIN,yourlitetop.cn
@@ -43686,7 +43679,6 @@ payload:
   - DOMAIN-SUFFIX,kanghuaixin.cn
   - DOMAIN-SUFFIX,kanglingjiu.com
   - DOMAIN-SUFFIX,kangxifan.com
-  - DOMAIN-SUFFIX,kanjiantu.com
   - DOMAIN-SUFFIX,kanjiaqun.cn
   - DOMAIN-SUFFIX,kanoodle.com
   - DOMAIN-SUFFIX,kanshuapp.com

@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-27 02:06:34
+# UPDATED: 2021-06-28 02:05:54
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 47683
-# DOMAIN: 20676
+# DOMAIN-SUFFIX: 47682
+# DOMAIN: 20669
 # IP-CIDR: 254
 # IP-CIDR6: 1
 # URL-REGEX: 301
-# TOTAL: 69003
+# TOTAL: 68995
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -1278,6 +1278,7 @@ admisoft.com
 admobile.com
 admonitor.com
 adms.physorg.com
+admtpmp123.com
 adn.plxnt.com
 adn.porndig.com
 adn.static-files.com
@@ -3340,7 +3341,6 @@ aseanstore.com
 aservitel.com
 asextube.net
 asgarddlc.sharezips.net
-ashaidbit.club
 ashleiquinones.com
 ashleyfurn.inq.com
 ashlynnbrookevideos.com
@@ -3366,7 +3366,6 @@ aspanyarc.club
 asphalt8airbornehack.com
 asphalt8hack.com
 asqpniwvxea.com
-assampant.club
 asset.cdn.auditude.com
 assets-jpcust.jwpsrv.com
 assets.adobedtm.com
@@ -4079,6 +4078,7 @@ biznettvigator.com
 bizzibeans.net
 bj-fengshi.com
 bjano.owncube.com
+bjd-garden.com
 bjdingyedianli.com
 bjjingda.com
 bjjmywcb.com
@@ -5173,7 +5173,6 @@ cheatsphone.com
 cheatspike.com
 cheatsplanet.net
 cheatsplaza.com
-cheatsspott.com
 cheatstime.com
 cheatstudio.com
 cheatsup.com
@@ -7817,7 +7816,6 @@ fawebooh.000webhostapp.com
 faztplay.com
 fb-autoliker.com
 fb-hacker.net
-fb-hackers.com
 fb-kolor.blogspot.com
 fb-podglad.blogspot.com
 fb-szpieguj.likesyou.org
@@ -8335,7 +8333,6 @@ freehackscheatsdownload.com
 freehackstools.com
 freehackz.com
 freehackz.org
-freehanbam.net
 freehornygirls.com
 freehostservers.com
 freehuluplus.org
@@ -9103,6 +9100,7 @@ googleplus.party
 googlesgo.com
 googlsucks.com
 gool.frieghtiger.com
+goolegames.com
 goooglesecurity.com
 goooooooooogle.com
 gorillasushi.com
@@ -9169,7 +9167,6 @@ gratisvps.net
 gratisway.com
 gratuit-hack.com
 gratuitfile.com
-gratuitpsncodes.com
 gratuitxboxgold.com
 gravitron.chron.com
 gravityexp.com
@@ -10905,6 +10902,7 @@ kamilfoundation.com
 kandisweets.com
 kaneirrigation.com
 kanikamyer.com
+kanjiantu.com
 kansasoutdoorsman.com
 kapcotool.com
 kaplanlawpractice.com
@@ -11979,7 +11977,6 @@ markkavanagh.com
 markupbd.com
 marlinaquarindo.com
 marocuisine.net
-maroonspider.com
 marryinamansion.com
 marsflag.com
 martallonch.com
@@ -13718,7 +13715,6 @@ oriowo.000webhostapp.com
 orngemmbres.bitballoon.com
 orourkestrategies.com
 orrnissandeals.com
-ortaklik.mynet.com
 ortaokultestleri.net
 ortomedicavallarta.com
 ortopediabolognese.com
@@ -14546,6 +14542,7 @@ premiumproductsonline.com
 premiumprovide.com
 premiumtools.org
 premjoshua.com
+present4free.com
 presetrabbits.com
 press.act-on.com
 presselite.com
@@ -16016,7 +16013,6 @@ serienstreamen.com
 seriesgato.com
 sernoodmovies.com
 serv.tooplay.com
-servad.mynet.com
 servads.fansshare.com
 serve.5visions.com
 serve.ads.chaturbate.com
@@ -17137,7 +17133,6 @@ steamcommunita.com
 steamcommunitly.site88.net
 steamcommunituy.com
 steamcommunnity.com
-steamcomunlty.com
 steamgames4free.net
 steamgamesnetwork.com
 steamkeygiveaway.com
@@ -19599,7 +19594,6 @@ wellsfargonline.rumahweb.org
 wellsigns.com
 wellstar-company.com
 welovegracetv.com
-wen.jshbyn.com
 werbeflut.net
 werbung.meteoxpress.com
 wes.df.telemetry.microsoft.com
@@ -19899,6 +19893,7 @@ www.hjaoopoa.top
 www.infra.by
 www.jcmarcadolib.com
 www.joomlalivechat.com
+www.kanjiantu.com
 www.kcta.or.kr
 www.kjbbc.net
 www.lccl.org.uk
@@ -20197,7 +20192,6 @@ xhamstertube.com
 xhqsysp.com
 xhvhisywkvha.com
 xiamenoa.com
-xiamiss.wap.xsbiquge.com
 xianyicao.net
 xiaocen.com
 xiaojinqipai.com
@@ -20437,7 +20431,6 @@ yourgamehack.com
 yourgamesdownloads.com
 yourgiftrewards.com
 yourgiftzone.com
-yourhandytips.com
 youripad4free.com
 youripodtouch4free.com
 yourlitetop.cn
@@ -43687,7 +43680,6 @@ zzz.clickbank.net
 .kanghuaixin.cn
 .kanglingjiu.com
 .kangxifan.com
-.kanjiantu.com
 .kanjiaqun.cn
 .kanoodle.com
 .kanshuapp.com

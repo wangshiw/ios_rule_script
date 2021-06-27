@@ -1,10 +1,10 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-27 02:06:34
+# UPDATED: 2021-06-28 02:05:54
 # HOST-KEYWORD: 88
-# HOST-SUFFIX: 77043
-# HOST: 14282
+# HOST-SUFFIX: 77047
+# HOST: 14278
 # IP-CIDR: 254
 # IP6-CIDR: 1
 # TOTAL: 91668
@@ -647,6 +647,7 @@ HOST,adminv3.inq.com,AdvertisingTest
 HOST,adminv3.touchcommerce.com,AdvertisingTest
 HOST,admisoft.com,AdvertisingTest
 HOST,admobile.com,AdvertisingTest
+HOST,admtpmp123.com,AdvertisingTest
 HOST,adn.static-files.com,AdvertisingTest
 HOST,adnanlightdecor.com,AdvertisingTest
 HOST,adnection.com,AdvertisingTest
@@ -2236,6 +2237,7 @@ HOST,biznettvigator.com,AdvertisingTest
 HOST,bizzibeans.net,AdvertisingTest
 HOST,bj-fengshi.com,AdvertisingTest
 HOST,bjano.owncube.com,AdvertisingTest
+HOST,bjd-garden.com,AdvertisingTest
 HOST,bjdingyedianli.com,AdvertisingTest
 HOST,bjjingda.com,AdvertisingTest
 HOST,bjjmywcb.com,AdvertisingTest
@@ -2973,7 +2975,6 @@ HOST,cheatsphone.com,AdvertisingTest
 HOST,cheatspike.com,AdvertisingTest
 HOST,cheatsplanet.net,AdvertisingTest
 HOST,cheatsplaza.com,AdvertisingTest
-HOST,cheatsspott.com,AdvertisingTest
 HOST,cheatstime.com,AdvertisingTest
 HOST,cheatstudio.com,AdvertisingTest
 HOST,cheatsup.com,AdvertisingTest
@@ -4843,7 +4844,6 @@ HOST,fawebooh.000webhostapp.com,AdvertisingTest
 HOST,faztplay.com,AdvertisingTest
 HOST,fb-autoliker.com,AdvertisingTest
 HOST,fb-hacker.net,AdvertisingTest
-HOST,fb-hackers.com,AdvertisingTest
 HOST,fb-kolor.blogspot.com,AdvertisingTest
 HOST,fb-podglad.blogspot.com,AdvertisingTest
 HOST,fb-szpieguj.likesyou.org,AdvertisingTest
@@ -5296,7 +5296,6 @@ HOST,freehackscheatsdownload.com,AdvertisingTest
 HOST,freehackstools.com,AdvertisingTest
 HOST,freehackz.com,AdvertisingTest
 HOST,freehackz.org,AdvertisingTest
-HOST,freehanbam.net,AdvertisingTest
 HOST,freehornygirls.com,AdvertisingTest
 HOST,freehostservers.com,AdvertisingTest
 HOST,freehuluplus.org,AdvertisingTest
@@ -5877,6 +5876,7 @@ HOST,googleplaycards.dlcodes.com,AdvertisingTest
 HOST,googlesgo.com,AdvertisingTest
 HOST,googlsucks.com,AdvertisingTest
 HOST,gool.frieghtiger.com,AdvertisingTest
+HOST,goolegames.com,AdvertisingTest
 HOST,goooglesecurity.com,AdvertisingTest
 HOST,goooooooooogle.com,AdvertisingTest
 HOST,gorillasushi.com,AdvertisingTest
@@ -5925,7 +5925,6 @@ HOST,gratisvps.net,AdvertisingTest
 HOST,gratisway.com,AdvertisingTest
 HOST,gratuit-hack.com,AdvertisingTest
 HOST,gratuitfile.com,AdvertisingTest
-HOST,gratuitpsncodes.com,AdvertisingTest
 HOST,gratuitxboxgold.com,AdvertisingTest
 HOST,gravityexp.com,AdvertisingTest
 HOST,gravygirls.com,AdvertisingTest
@@ -8095,7 +8094,6 @@ HOST,markkavanagh.com,AdvertisingTest
 HOST,markupbd.com,AdvertisingTest
 HOST,marlinaquarindo.com,AdvertisingTest
 HOST,marocuisine.net,AdvertisingTest
-HOST,maroonspider.com,AdvertisingTest
 HOST,marryinamansion.com,AdvertisingTest
 HOST,marsflag.com,AdvertisingTest
 HOST,martallonch.com,AdvertisingTest
@@ -9950,6 +9948,7 @@ HOST,premiumhackgames.com,AdvertisingTest
 HOST,premiumprovide.com,AdvertisingTest
 HOST,premiumtools.org,AdvertisingTest
 HOST,premjoshua.com,AdvertisingTest
+HOST,present4free.com,AdvertisingTest
 HOST,press.act-on.com,AdvertisingTest
 HOST,presselite.com,AdvertisingTest
 HOST,preview.unbounce.com,AdvertisingTest
@@ -11761,7 +11760,6 @@ HOST,steamcommunita.com,AdvertisingTest
 HOST,steamcommunitly.site88.net,AdvertisingTest
 HOST,steamcommunituy.com,AdvertisingTest
 HOST,steamcommunnity.com,AdvertisingTest
-HOST,steamcomunlty.com,AdvertisingTest
 HOST,steamgames4free.net,AdvertisingTest
 HOST,steamgamesnetwork.com,AdvertisingTest
 HOST,steamkeygiveaway.com,AdvertisingTest
@@ -13429,7 +13427,6 @@ HOST,wellsfargonline.rumahweb.org,AdvertisingTest
 HOST,wellsigns.com,AdvertisingTest
 HOST,wellstar-company.com,AdvertisingTest
 HOST,welovegracetv.com,AdvertisingTest
-HOST,wen.jshbyn.com,AdvertisingTest
 HOST,westerntaneyfire.com,AdvertisingTest
 HOST,westhavenuniv.edu,AdvertisingTest
 HOST,westsideindro.com,AdvertisingTest
@@ -13923,7 +13920,6 @@ HOST,xhamstertube.com,AdvertisingTest
 HOST,xhqsysp.com,AdvertisingTest
 HOST,xhvhisywkvha.com,AdvertisingTest
 HOST,xiamenoa.com,AdvertisingTest
-HOST,xiamiss.wap.xsbiquge.com,AdvertisingTest
 HOST,xianyicao.net,AdvertisingTest
 HOST,xiaocen.com,AdvertisingTest
 HOST,xiaojinqipai.com,AdvertisingTest
@@ -40108,6 +40104,7 @@ HOST-SUFFIX,events.lbesecapi.com,AdvertisingTest
 HOST-SUFFIX,events.mapbox.com,AdvertisingTest
 HOST-SUFFIX,events.matterport.com,AdvertisingTest
 HOST-SUFFIX,events.mywd.com,AdvertisingTest
+HOST-SUFFIX,events.newsroom.bi,AdvertisingTest
 HOST-SUFFIX,events.ocdn.eu,AdvertisingTest
 HOST-SUFFIX,events.onet.pl,AdvertisingTest
 HOST-SUFFIX,events.personali.com,AdvertisingTest
@@ -44326,6 +44323,7 @@ HOST-SUFFIX,gorensin.info,AdvertisingTest
 HOST-SUFFIX,gorettent.xyz,AdvertisingTest
 HOST-SUFFIX,gorgasal.co,AdvertisingTest
 HOST-SUFFIX,gorgeousground.com,AdvertisingTest
+HOST-SUFFIX,gorgeouspresentation.com,AdvertisingTest
 HOST-SUFFIX,gorgon.youdao.com,AdvertisingTest
 HOST-SUFFIX,gorgonkil.com,AdvertisingTest
 HOST-SUFFIX,gorod.tunt.lv,AdvertisingTest
@@ -49757,6 +49755,7 @@ HOST-SUFFIX,jersey-offer.com,AdvertisingTest
 HOST-SUFFIX,jesamcorp.com,AdvertisingTest
 HOST-SUFFIX,jesgoo.com,AdvertisingTest
 HOST-SUFFIX,jeshnpdqy.com,AdvertisingTest
+HOST-SUFFIX,jessicalaurax.com,AdvertisingTest
 HOST-SUFFIX,jessieflown.com,AdvertisingTest
 HOST-SUFFIX,jet.zbp.ru,AdvertisingTest
 HOST-SUFFIX,jetmhrcy.com,AdvertisingTest
@@ -64460,6 +64459,7 @@ HOST-SUFFIX,pic.zxwhys.cn,AdvertisingTest
 HOST-SUFFIX,pic1.429bi.com,AdvertisingTest
 HOST-SUFFIX,pic1.59wd.com,AdvertisingTest
 HOST-SUFFIX,pic1.97jut.com,AdvertisingTest
+HOST-SUFFIX,pic1.dianshu119.com,AdvertisingTest
 HOST-SUFFIX,pic12x20.com,AdvertisingTest
 HOST-SUFFIX,pic2.429bi.com,AdvertisingTest
 HOST-SUFFIX,pic2.97jut.com,AdvertisingTest

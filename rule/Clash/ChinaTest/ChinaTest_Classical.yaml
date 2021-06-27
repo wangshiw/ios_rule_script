@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-25 02:05:01
+# UPDATED: 2021-06-28 02:05:55
 # DOMAIN-SUFFIX: 69513
-# DOMAIN: 78
+# DOMAIN: 83
 # IP-CIDR: 57
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 69662
+# TOTAL: 69667
 payload:
   - DOMAIN,265.com
   - DOMAIN,2mdn.net
@@ -16,6 +16,7 @@ payload:
   - DOMAIN,app-measurement.com
   - DOMAIN,beacons.gcp.gvt2.com
   - DOMAIN,beacons.gvt2.com
+  - DOMAIN,beacons2.gvt2.com
   - DOMAIN,beacons3.gvt2.com
   - DOMAIN,blzddist1-a.akamaihd.net
   - DOMAIN,c.admob.com
@@ -38,6 +39,8 @@ payload:
   - DOMAIN,file-igamecj.akamaized.net
   - DOMAIN,fonts.googleapis.com
   - DOMAIN,fonts.gstatic.com
+  - DOMAIN,g1.gstatic.com
+  - DOMAIN,g2.gstatic.com
   - DOMAIN,geetest.datasink.sensorsdata.cn
   - DOMAIN,gogalaxy.gog-statics.com
   - DOMAIN,google-analytics.com
@@ -80,9 +83,11 @@ payload:
   - DOMAIN,tools.google.com
   - DOMAIN,tools.l.google.com
   - DOMAIN,translate.googleapis.com
+  - DOMAIN,translation.googleapis.com
   - DOMAIN,update.googleapis.com
   - DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
   - DOMAIN,upos-hz-mirrorakam.akamaized.net
+  - DOMAIN,www-google-analytics.l.google.com
   - DOMAIN,www-googletagmanager.l.google.com
   - DOMAIN,www.gstatic.com
   - DOMAIN,www.recaptcha.net

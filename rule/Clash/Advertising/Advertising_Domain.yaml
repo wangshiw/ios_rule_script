@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-27 02:06:35
+# UPDATED: 2021-06-28 02:05:54
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 47683
-# DOMAIN: 20676
+# DOMAIN-SUFFIX: 47682
+# DOMAIN: 20669
 # IP-CIDR: 254
 # IP-CIDR6: 1
-# TOTAL: 68702
+# TOTAL: 68694
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -1277,6 +1277,7 @@ payload:
   - 'admobile.com'
   - 'admonitor.com'
   - 'adms.physorg.com'
+  - 'admtpmp123.com'
   - 'adn.plxnt.com'
   - 'adn.porndig.com'
   - 'adn.static-files.com'
@@ -3339,7 +3340,6 @@ payload:
   - 'aservitel.com'
   - 'asextube.net'
   - 'asgarddlc.sharezips.net'
-  - 'ashaidbit.club'
   - 'ashleiquinones.com'
   - 'ashleyfurn.inq.com'
   - 'ashlynnbrookevideos.com'
@@ -3365,7 +3365,6 @@ payload:
   - 'asphalt8airbornehack.com'
   - 'asphalt8hack.com'
   - 'asqpniwvxea.com'
-  - 'assampant.club'
   - 'asset.cdn.auditude.com'
   - 'assets-jpcust.jwpsrv.com'
   - 'assets.adobedtm.com'
@@ -4078,6 +4077,7 @@ payload:
   - 'bizzibeans.net'
   - 'bj-fengshi.com'
   - 'bjano.owncube.com'
+  - 'bjd-garden.com'
   - 'bjdingyedianli.com'
   - 'bjjingda.com'
   - 'bjjmywcb.com'
@@ -5172,7 +5172,6 @@ payload:
   - 'cheatspike.com'
   - 'cheatsplanet.net'
   - 'cheatsplaza.com'
-  - 'cheatsspott.com'
   - 'cheatstime.com'
   - 'cheatstudio.com'
   - 'cheatsup.com'
@@ -7816,7 +7815,6 @@ payload:
   - 'faztplay.com'
   - 'fb-autoliker.com'
   - 'fb-hacker.net'
-  - 'fb-hackers.com'
   - 'fb-kolor.blogspot.com'
   - 'fb-podglad.blogspot.com'
   - 'fb-szpieguj.likesyou.org'
@@ -8334,7 +8332,6 @@ payload:
   - 'freehackstools.com'
   - 'freehackz.com'
   - 'freehackz.org'
-  - 'freehanbam.net'
   - 'freehornygirls.com'
   - 'freehostservers.com'
   - 'freehuluplus.org'
@@ -9102,6 +9099,7 @@ payload:
   - 'googlesgo.com'
   - 'googlsucks.com'
   - 'gool.frieghtiger.com'
+  - 'goolegames.com'
   - 'goooglesecurity.com'
   - 'goooooooooogle.com'
   - 'gorillasushi.com'
@@ -9168,7 +9166,6 @@ payload:
   - 'gratisway.com'
   - 'gratuit-hack.com'
   - 'gratuitfile.com'
-  - 'gratuitpsncodes.com'
   - 'gratuitxboxgold.com'
   - 'gravitron.chron.com'
   - 'gravityexp.com'
@@ -10904,6 +10901,7 @@ payload:
   - 'kandisweets.com'
   - 'kaneirrigation.com'
   - 'kanikamyer.com'
+  - 'kanjiantu.com'
   - 'kansasoutdoorsman.com'
   - 'kapcotool.com'
   - 'kaplanlawpractice.com'
@@ -11978,7 +11976,6 @@ payload:
   - 'markupbd.com'
   - 'marlinaquarindo.com'
   - 'marocuisine.net'
-  - 'maroonspider.com'
   - 'marryinamansion.com'
   - 'marsflag.com'
   - 'martallonch.com'
@@ -13717,7 +13714,6 @@ payload:
   - 'orngemmbres.bitballoon.com'
   - 'orourkestrategies.com'
   - 'orrnissandeals.com'
-  - 'ortaklik.mynet.com'
   - 'ortaokultestleri.net'
   - 'ortomedicavallarta.com'
   - 'ortopediabolognese.com'
@@ -14545,6 +14541,7 @@ payload:
   - 'premiumprovide.com'
   - 'premiumtools.org'
   - 'premjoshua.com'
+  - 'present4free.com'
   - 'presetrabbits.com'
   - 'press.act-on.com'
   - 'presselite.com'
@@ -16015,7 +16012,6 @@ payload:
   - 'seriesgato.com'
   - 'sernoodmovies.com'
   - 'serv.tooplay.com'
-  - 'servad.mynet.com'
   - 'servads.fansshare.com'
   - 'serve.5visions.com'
   - 'serve.ads.chaturbate.com'
@@ -17136,7 +17132,6 @@ payload:
   - 'steamcommunitly.site88.net'
   - 'steamcommunituy.com'
   - 'steamcommunnity.com'
-  - 'steamcomunlty.com'
   - 'steamgames4free.net'
   - 'steamgamesnetwork.com'
   - 'steamkeygiveaway.com'
@@ -19598,7 +19593,6 @@ payload:
   - 'wellsigns.com'
   - 'wellstar-company.com'
   - 'welovegracetv.com'
-  - 'wen.jshbyn.com'
   - 'werbeflut.net'
   - 'werbung.meteoxpress.com'
   - 'wes.df.telemetry.microsoft.com'
@@ -19898,6 +19892,7 @@ payload:
   - 'www.infra.by'
   - 'www.jcmarcadolib.com'
   - 'www.joomlalivechat.com'
+  - 'www.kanjiantu.com'
   - 'www.kcta.or.kr'
   - 'www.kjbbc.net'
   - 'www.lccl.org.uk'
@@ -20196,7 +20191,6 @@ payload:
   - 'xhqsysp.com'
   - 'xhvhisywkvha.com'
   - 'xiamenoa.com'
-  - 'xiamiss.wap.xsbiquge.com'
   - 'xianyicao.net'
   - 'xiaocen.com'
   - 'xiaojinqipai.com'
@@ -20436,7 +20430,6 @@ payload:
   - 'yourgamesdownloads.com'
   - 'yourgiftrewards.com'
   - 'yourgiftzone.com'
-  - 'yourhandytips.com'
   - 'youripad4free.com'
   - 'youripodtouch4free.com'
   - 'yourlitetop.cn'
@@ -43686,7 +43679,6 @@ payload:
   - '.kanghuaixin.cn'
   - '.kanglingjiu.com'
   - '.kangxifan.com'
-  - '.kanjiantu.com'
   - '.kanjiaqun.cn'
   - '.kanoodle.com'
   - '.kanshuapp.com'

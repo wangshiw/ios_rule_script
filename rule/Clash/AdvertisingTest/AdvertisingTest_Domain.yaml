@@ -1,10 +1,10 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-27 02:06:35
+# UPDATED: 2021-06-28 02:05:55
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 77043
-# DOMAIN: 14282
+# DOMAIN-SUFFIX: 77047
+# DOMAIN: 14278
 # IP-CIDR: 254
 # IP-CIDR6: 1
 # TOTAL: 91668
@@ -648,6 +648,7 @@ payload:
   - 'adminv3.touchcommerce.com'
   - 'admisoft.com'
   - 'admobile.com'
+  - 'admtpmp123.com'
   - 'adn.static-files.com'
   - 'adnanlightdecor.com'
   - 'adnection.com'
@@ -2237,6 +2238,7 @@ payload:
   - 'bizzibeans.net'
   - 'bj-fengshi.com'
   - 'bjano.owncube.com'
+  - 'bjd-garden.com'
   - 'bjdingyedianli.com'
   - 'bjjingda.com'
   - 'bjjmywcb.com'
@@ -2974,7 +2976,6 @@ payload:
   - 'cheatspike.com'
   - 'cheatsplanet.net'
   - 'cheatsplaza.com'
-  - 'cheatsspott.com'
   - 'cheatstime.com'
   - 'cheatstudio.com'
   - 'cheatsup.com'
@@ -4844,7 +4845,6 @@ payload:
   - 'faztplay.com'
   - 'fb-autoliker.com'
   - 'fb-hacker.net'
-  - 'fb-hackers.com'
   - 'fb-kolor.blogspot.com'
   - 'fb-podglad.blogspot.com'
   - 'fb-szpieguj.likesyou.org'
@@ -5297,7 +5297,6 @@ payload:
   - 'freehackstools.com'
   - 'freehackz.com'
   - 'freehackz.org'
-  - 'freehanbam.net'
   - 'freehornygirls.com'
   - 'freehostservers.com'
   - 'freehuluplus.org'
@@ -5878,6 +5877,7 @@ payload:
   - 'googlesgo.com'
   - 'googlsucks.com'
   - 'gool.frieghtiger.com'
+  - 'goolegames.com'
   - 'goooglesecurity.com'
   - 'goooooooooogle.com'
   - 'gorillasushi.com'
@@ -5926,7 +5926,6 @@ payload:
   - 'gratisway.com'
   - 'gratuit-hack.com'
   - 'gratuitfile.com'
-  - 'gratuitpsncodes.com'
   - 'gratuitxboxgold.com'
   - 'gravityexp.com'
   - 'gravygirls.com'
@@ -8096,7 +8095,6 @@ payload:
   - 'markupbd.com'
   - 'marlinaquarindo.com'
   - 'marocuisine.net'
-  - 'maroonspider.com'
   - 'marryinamansion.com'
   - 'marsflag.com'
   - 'martallonch.com'
@@ -9951,6 +9949,7 @@ payload:
   - 'premiumprovide.com'
   - 'premiumtools.org'
   - 'premjoshua.com'
+  - 'present4free.com'
   - 'press.act-on.com'
   - 'presselite.com'
   - 'preview.unbounce.com'
@@ -11762,7 +11761,6 @@ payload:
   - 'steamcommunitly.site88.net'
   - 'steamcommunituy.com'
   - 'steamcommunnity.com'
-  - 'steamcomunlty.com'
   - 'steamgames4free.net'
   - 'steamgamesnetwork.com'
   - 'steamkeygiveaway.com'
@@ -13430,7 +13428,6 @@ payload:
   - 'wellsigns.com'
   - 'wellstar-company.com'
   - 'welovegracetv.com'
-  - 'wen.jshbyn.com'
   - 'westerntaneyfire.com'
   - 'westhavenuniv.edu'
   - 'westsideindro.com'
@@ -13924,7 +13921,6 @@ payload:
   - 'xhqsysp.com'
   - 'xhvhisywkvha.com'
   - 'xiamenoa.com'
-  - 'xiamiss.wap.xsbiquge.com'
   - 'xianyicao.net'
   - 'xiaocen.com'
   - 'xiaojinqipai.com'
@@ -40109,6 +40105,7 @@ payload:
   - '.events.mapbox.com'
   - '.events.matterport.com'
   - '.events.mywd.com'
+  - '.events.newsroom.bi'
   - '.events.ocdn.eu'
   - '.events.onet.pl'
   - '.events.personali.com'
@@ -44327,6 +44324,7 @@ payload:
   - '.gorettent.xyz'
   - '.gorgasal.co'
   - '.gorgeousground.com'
+  - '.gorgeouspresentation.com'
   - '.gorgon.youdao.com'
   - '.gorgonkil.com'
   - '.gorod.tunt.lv'
@@ -49758,6 +49756,7 @@ payload:
   - '.jesamcorp.com'
   - '.jesgoo.com'
   - '.jeshnpdqy.com'
+  - '.jessicalaurax.com'
   - '.jessieflown.com'
   - '.jet.zbp.ru'
   - '.jetmhrcy.com'
@@ -64461,6 +64460,7 @@ payload:
   - '.pic1.429bi.com'
   - '.pic1.59wd.com'
   - '.pic1.97jut.com'
+  - '.pic1.dianshu119.com'
   - '.pic12x20.com'
   - '.pic2.429bi.com'
   - '.pic2.97jut.com'
