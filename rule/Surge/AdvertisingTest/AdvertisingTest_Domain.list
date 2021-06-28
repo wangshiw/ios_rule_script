@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-28 02:05:53
+# UPDATED: 2021-06-29 02:18:59
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 77047
-# DOMAIN: 14278
+# DOMAIN-SUFFIX: 77056
+# DOMAIN: 14275
 # IP-CIDR: 254
 # IP-CIDR6: 1
 # URL-REGEX: 301
-# TOTAL: 91969
+# TOTAL: 91975
 0.up.qingdaonews.com
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -513,7 +513,6 @@ acnestargel.com
 acoachat.org
 acompanhantesdeportugal.com
 acornpointlodge.com
-acortame.net
 acourseinpresence.com
 acoustoopticmodulator.com
 acproyectos.com
@@ -1389,7 +1388,6 @@ ancientroom.com
 andayiyuan.com
 andenespuno.com
 andersondiamonds.com
-andmcspadden.com
 andoburg.com
 andrewmelchior.com
 android-game-hacks.com
@@ -2340,6 +2338,7 @@ bonniechakraborty.com
 bonusroulette.org
 bonxmedia.com
 bonzybuddy.com
+book.momode.net
 book4hacktools.com
 bookbugg.com
 bookhacks.com
@@ -2450,7 +2449,6 @@ btprmnav.com
 btwosfunny.onthenetas.com
 bubbaparis.com
 bubblemixing.com
-buchawucha.com
 buchislaw.com
 buddyhacker.com
 buddylourdes.com
@@ -2977,6 +2975,7 @@ cheatsphone.com
 cheatspike.com
 cheatsplanet.net
 cheatsplaza.com
+cheatsspott.com
 cheatstime.com
 cheatstudio.com
 cheatsup.com
@@ -5216,7 +5215,6 @@ free-groupsex.com
 free-gta5.com
 free-hack-tool.com
 free-hack-tools.com
-free-hack.org
 free-hack24.com
 free-hacks.com
 free-hacks1.com
@@ -5560,7 +5558,6 @@ gamesfusions.com
 gameshackeasy.com
 gameshackingtools.com
 gameshackmania.com
-gameshacks.net
 gameshacksandcheats.com
 gameshackstools.com
 gameshacktool.com
@@ -6226,6 +6223,7 @@ haishundl.com
 haixiutv.com
 hakdilaravakfi.com
 haletone.com
+halitkul.com
 hallmarkteam.com
 halo4.filesforgames.com
 halo77.com
@@ -6732,6 +6730,7 @@ img.dt00.net
 img.en25.com
 img.masoffer.net
 img.mmtcdn.com
+img.momode.net
 img.phone.baidu.com
 img.ruclicks.com
 img.smi2.net
@@ -7077,7 +7076,6 @@ javbox888.com
 javcoast.com
 jawi55v.000webhostapp.com
 jaxduidefense.net
-jayanthyenterprises.com
 jayapriya.com
 jaytakeapic.com
 jazeegroup.com
@@ -7256,7 +7254,10 @@ julylover.com
 julysystems.com
 jumkite.com
 jump.ogtrk.net
+jump1.momode.net
 jump1.pszyzxh.org
+jump2.momode.net
+jump3.momode.net
 jumpp.shykjj.com
 jumpstartthemovie.com
 jungtaesook.com
@@ -8214,7 +8215,6 @@ media-f.vpptechnologies.com
 media-lax1.inq.com
 media-mgmt.armorgames.com
 media-skyde.inq.com
-media-tricks.com
 media-verizon-dev.inq.com
 media-verizon.inq.com
 media.ads.gfsrv.net
@@ -8991,7 +8991,6 @@ newworldhacks.com
 nexage.akadns.net
 nexcontech.com
 nexerciser.org
-nexi-sicurezza.com
 nexprice.com
 nextdoor.com
 nextlevelfinance.com
@@ -9705,6 +9704,7 @@ pinsuccess.com
 pinuppopup.com
 pipermuseum.com
 piratagefacebook.com
+piratagelogiciels.com
 pirater-compte.com
 piratercomptefb.com
 piratercompteinstagram.xyz
@@ -10142,6 +10142,7 @@ push.smi2.net
 push2.eastmoney.com
 pushcloud.org
 pushedwebnews.com
+pushfeeds.com
 pushplay.com
 pussysaga.com
 pussyspace.com
@@ -10223,7 +10224,6 @@ racinghackreal.com
 raddonfamily.com
 radicalgraphicsandsigns.com
 radicalwealthformula.com
-radicalzhr.com
 radioactivejesus.net
 radioali.com
 radiocanalfiesta.com
@@ -10613,7 +10613,6 @@ ruigena.com
 ruiyangcn.com
 rule34hentai.net
 ruletka-systemy.com
-rumds.wpdigital.net
 rumimorigu.info
 rumprobelb.ril.com
 runawaydragons.com
@@ -10723,7 +10722,6 @@ sanpablodellago.com
 sanseracingteam.com
 sanskarjewels.com
 santacruzsuspension.com
-santaritadeouropreto.com
 santrnrksmv.com
 sapynews.com
 sarahdaniella.com
@@ -12367,7 +12365,6 @@ timelessconference.com
 timenduaghahowa.com
 timesaver.dlcodes.com
 timesaverpack.sharezips.net
-timeswap.net
 timgiesecke.com
 timothycopus.aimoo.com
 timothyfiore.com
@@ -14087,7 +14084,6 @@ ynuf.alipay.com
 yoamoplaya.com
 yoda.cybereps.com
 yogurtiamo.com
-yomagicmedia.com
 yootube.com
 yorlanproperty.com
 yostlawoffice.com
@@ -14209,6 +14205,7 @@ zero-ani-mania.net
 zerowastecity.org
 zf1.quebec-bin.com
 zfb2015.com
+zfmnlr.hongquan888.cn
 zgbxxxw.com
 zgsysz.com
 zhabyesrdnvn.com
@@ -26655,7 +26652,6 @@ zzz.clickbank.net
 .babalink.top
 .babator.com
 .babbnrs.com
-.babel.innertrends.com
 .bablace.com
 .bablogon.net
 .babsedrinhi.info
@@ -37938,6 +37934,7 @@ zzz.clickbank.net
 .dzupi9b81okew.cloudfront.net
 .dzuthv.fahrrad-xxl.de
 .dzxwnews.com
+.dzxzx.cn
 .dzz.wankeedu.com
 .dzznyesmwj.com
 .e-click.jp
@@ -40116,6 +40113,7 @@ zzz.clickbank.net
 .events.reclamefolder.nl
 .events.reddit.com
 .events.redditmedia.com
+.events.sd-nbb.de
 .events.secureserver.net
 .events.shareably.net
 .events.sk.ht
@@ -45493,6 +45491,7 @@ zzz.clickbank.net
 .hdj.baidu.com
 .hdjhsudhe.kuaizhan.com
 .hdjxmf.com
+.hdketang.cn
 .hdminfeng.com
 .hdmtools.com
 .hdosaoxfcogpl.com
@@ -48607,6 +48606,7 @@ zzz.clickbank.net
 .inner-active.mobi
 .inner.newinform.com
 .inneractive-assets.s3.amazonaws.com
+.innertrends.com
 .innity.com
 .innity.net
 .innocentinvention.com
@@ -48946,7 +48946,6 @@ zzz.clickbank.net
 .inwemo.com
 .inwig3aqg9xq.com
 .inxy.run
-.io.innertrends.com
 .io.narrative.io
 .io1g.net
 .io8b80kcom8f.com
@@ -49198,6 +49197,7 @@ zzz.clickbank.net
 .islamclick.ru
 .islamicmarketing.net
 .islandofadvert.com
+.isles.cn
 .islfwt.glamira.co.za
 .ismailersoz.com
 .ismatlab.com
@@ -50863,6 +50863,7 @@ zzz.clickbank.net
 .kaihutai.cn
 .kaiphapt.net
 .kaipuyun.cn
+.kaiseki-website.com
 .kaishist.top
 .kaitongyewu.com
 .kaitoupiao.com
@@ -59175,6 +59176,7 @@ zzz.clickbank.net
 .my-adv.ru
 .my-cash-bot.co
 .my-hanson.com
+.my-hr.cn
 .my-img.ru
 .my-material.zone1.meitudata.com
 .my-ranking.de
@@ -59191,7 +59193,6 @@ zzz.clickbank.net
 .my.gz2010.cn
 .my.iheart.com
 .my.iheartradio.com
-.my.my-hr.cn
 .my.mystreamdelivery.xyz
 .my.putlocker.to
 .my.shymilftube.com
@@ -70088,6 +70089,7 @@ zzz.clickbank.net
 .s1.kutongji.com
 .s1.leshi123.cc
 .s1.mingmingtehui.com
+.s1.pipishu.com
 .s1.qiqutt.cn
 .s1.qiqutt.com
 .s1.qiuyi.cn
@@ -72675,6 +72677,7 @@ zzz.clickbank.net
 .sit-metrics.nab.com.au
 .sit-smetrics.nab.com.au
 .sitcom24.com
+.site-kaiseki-tool.com
 .site-rank.com
 .site-stats.supernotes.app
 .site-submit.com.ua
@@ -80338,6 +80341,7 @@ zzz.clickbank.net
 .tpmedia.online
 .tpn134.com
 .tpnads.com
+.tpool.cn
 .tpresearch.club
 .tpresearchcre.fun
 .tptrk.ru
@@ -82563,6 +82567,7 @@ zzz.clickbank.net
 .txtrk.com
 .txtxr.com
 .txtxz.org.cn
+.txuesoft.cn
 .txv0.destinia.hu
 .txwfpcfdgepzmp.com
 .txwha3vuso66.com
@@ -90630,6 +90635,7 @@ zzz.clickbank.net
 .zgc66.com
 .zgchaye123.com
 .zgclmw.cn
+.zgcqxjzny.cn
 .zgczjw.com
 .zgdfvih.cn
 .zgdfz6h7po.me
