@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-06-29 02:19:00
-# DOMAIN-SUFFIX: 69444
+# UPDATED: 2021-06-30 02:07:16
+# DOMAIN-SUFFIX: 69430
 # DOMAIN: 83
 # IP-CIDR: 57
 # DOMAIN-KEYWORD: 10
 # IP-CIDR6: 4
-# TOTAL: 69598
+# TOTAL: 69584
 payload:
   - DOMAIN,265.com
   - DOMAIN,2mdn.net
@@ -3741,7 +3741,6 @@ payload:
   - DOMAIN-SUFFIX,3qwe.com
   - DOMAIN-SUFFIX,3qzone.com
   - DOMAIN-SUFFIX,3r66.com
-  - DOMAIN-SUFFIX,3rbcd.com
   - DOMAIN-SUFFIX,3renhe.net
   - DOMAIN-SUFFIX,3rkr.com
   - DOMAIN-SUFFIX,3rxing.org
@@ -6219,7 +6218,6 @@ payload:
   - DOMAIN-SUFFIX,715083.com
   - DOMAIN-SUFFIX,7152223.com
   - DOMAIN-SUFFIX,715300.com
-  - DOMAIN-SUFFIX,7160.com
   - DOMAIN-SUFFIX,71668.net
   - DOMAIN-SUFFIX,71714.com
   - DOMAIN-SUFFIX,7172737.com
@@ -8885,7 +8883,6 @@ payload:
   - DOMAIN-SUFFIX,aipiaxi.com
   - DOMAIN-SUFFIX,aipingxiang.com
   - DOMAIN-SUFFIX,aipinko.com
-  - DOMAIN-SUFFIX,aipinpan.com
   - DOMAIN-SUFFIX,aippi-china.org
   - DOMAIN-SUFFIX,aiprose.com
   - DOMAIN-SUFFIX,aips.me
@@ -12437,7 +12434,6 @@ payload:
   - DOMAIN-SUFFIX,bjsqgy.com
   - DOMAIN-SUFFIX,bjsryc.com
   - DOMAIN-SUFFIX,bjssedu.com
-  - DOMAIN-SUFFIX,bjssmd.net
   - DOMAIN-SUFFIX,bjsspm.com
   - DOMAIN-SUFFIX,bjssqt.com
   - DOMAIN-SUFFIX,bjsubway.cc
@@ -13474,7 +13470,6 @@ payload:
   - DOMAIN-SUFFIX,c0de4fun.com
   - DOMAIN-SUFFIX,c0ks.com
   - DOMAIN-SUFFIX,c1042.com
-  - DOMAIN-SUFFIX,c114.net
   - DOMAIN-SUFFIX,c1ass.com
   - DOMAIN-SUFFIX,c1mzbm.shop
   - DOMAIN-SUFFIX,c1s.com
@@ -22843,7 +22838,6 @@ payload:
   - DOMAIN-SUFFIX,ewanshang.com
   - DOMAIN-SUFFIX,ewarecomputer.com
   - DOMAIN-SUFFIX,ewatt.com
-  - DOMAIN-SUFFIX,ewcache.com
   - DOMAIN-SUFFIX,ewceo.com
   - DOMAIN-SUFFIX,ewdcloud.com
   - DOMAIN-SUFFIX,ewdtx.com
@@ -26413,7 +26407,6 @@ payload:
   - DOMAIN-SUFFIX,gsrecv.com
   - DOMAIN-SUFFIX,gss-sh.org
   - DOMAIN-SUFFIX,gssdlv.com
-  - DOMAIN-SUFFIX,gssdsj.com
   - DOMAIN-SUFFIX,gssfgk.com
   - DOMAIN-SUFFIX,gsstaf.com
   - DOMAIN-SUFFIX,gst-china.net
@@ -34821,7 +34814,6 @@ payload:
   - DOMAIN-SUFFIX,joytraveller.com
   - DOMAIN-SUFFIX,joyu.com
   - DOMAIN-SUFFIX,joyulf.com
-  - DOMAIN-SUFFIX,joyup.tv
   - DOMAIN-SUFFIX,joyuyx.com
   - DOMAIN-SUFFIX,joywii.net
   - DOMAIN-SUFFIX,joywok.com
@@ -34942,7 +34934,6 @@ payload:
   - DOMAIN-SUFFIX,js3.org
   - DOMAIN-SUFFIX,js53777.com
   - DOMAIN-SUFFIX,js66649.com
-  - DOMAIN-SUFFIX,js667.vip
   - DOMAIN-SUFFIX,js7xc.com
   - DOMAIN-SUFFIX,js8.in
   - DOMAIN-SUFFIX,js811.com
@@ -36925,7 +36916,6 @@ payload:
   - DOMAIN-SUFFIX,kuaiwanwo.com
   - DOMAIN-SUFFIX,kuaixiazai.com
   - DOMAIN-SUFFIX,kuaiyan.com
-  - DOMAIN-SUFFIX,kuaiyankanshu.net
   - DOMAIN-SUFFIX,kuaiyilicai.com
   - DOMAIN-SUFFIX,kuaiyingxiao88.com
   - DOMAIN-SUFFIX,kuaiyoujia.com
@@ -42528,7 +42518,6 @@ payload:
   - DOMAIN-SUFFIX,myanonamouse.net
   - DOMAIN-SUFFIX,myantu.com
   - DOMAIN-SUFFIX,myapks.com
-  - DOMAIN-SUFFIX,myapotek.com
   - DOMAIN-SUFFIX,myapp.com
   - DOMAIN-SUFFIX,myappsky.com
   - DOMAIN-SUFFIX,myarowanas.com
@@ -50807,7 +50796,6 @@ payload:
   - DOMAIN-SUFFIX,shiyuegame.com
   - DOMAIN-SUFFIX,shiyunlaile.com
   - DOMAIN-SUFFIX,shiyunwatch.com
-  - DOMAIN-SUFFIX,shiyunwulian.xyz
   - DOMAIN-SUFFIX,shizhuonet.com
   - DOMAIN-SUFFIX,shizila.com
   - DOMAIN-SUFFIX,shjdc.com
@@ -51586,7 +51574,6 @@ payload:
   - DOMAIN-SUFFIX,sir66.com
   - DOMAIN-SUFFIX,siryin.com
   - DOMAIN-SUFFIX,sisen.com
-  - DOMAIN-SUFFIX,sishenkuangchao.com
   - DOMAIN-SUFFIX,sishuok.com
   - DOMAIN-SUFFIX,sishuxuefu.com
   - DOMAIN-SUFFIX,sisijiyi.com
@@ -62031,7 +62018,6 @@ payload:
   - DOMAIN-SUFFIX,xiguaji.com
   - DOMAIN-SUFFIX,xiguaplayer.com
   - DOMAIN-SUFFIX,xiguavideo.net
-  - DOMAIN-SUFFIX,xiguayingyinbofangqi.net
   - DOMAIN-SUFFIX,xigushan.com
   - DOMAIN-SUFFIX,xigushan.net
   - DOMAIN-SUFFIX,xihachina.com
