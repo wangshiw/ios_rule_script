@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-03 02:06:34
-# DOMAIN: 14610
+# UPDATED: 2021-07-05 02:06:00
+# DOMAIN: 14597
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12712
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27509
+# TOTAL: 27496
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -36,7 +36,6 @@ payload:
   - DOMAIN,0885.net
   - DOMAIN,0926a687679d337e9d.com
   - DOMAIN,0956228a2df97a.com
-  - DOMAIN,0a0qetx8et.com
   - DOMAIN,0azx1.com
   - DOMAIN,0b9d84d93f1b.com
   - DOMAIN,0c8a10b46fc6.com
@@ -604,6 +603,7 @@ payload:
   - DOMAIN,97ff623306ff4c26996.com
   - DOMAIN,980th.com
   - DOMAIN,98bf9h8jbg.com
+  - DOMAIN,98hx.cn
   - DOMAIN,999d.com
   - DOMAIN,999fitness.com
   - DOMAIN,99a9339abed56.com
@@ -621,6 +621,7 @@ payload:
   - DOMAIN,9ehy8a8u6b.com
   - DOMAIN,9llm.com
   - DOMAIN,9nl.eu
+  - DOMAIN,9ts3tpia.com
   - DOMAIN,9utwbj08.top
   - DOMAIN,9w1an.com
   - DOMAIN,9w39.com
@@ -1788,6 +1789,7 @@ payload:
   - DOMAIN,aheadday.com
   - DOMAIN,ahfbb.com
   - DOMAIN,ahh8.cn
+  - DOMAIN,ahksqc.com.cn
   - DOMAIN,ahstrelgnh.com
   - DOMAIN,ahxhny.cn
   - DOMAIN,aiclicash.com
@@ -1846,6 +1848,7 @@ payload:
   - DOMAIN,alcvid.com
   - DOMAIN,alegroup.info
   - DOMAIN,aleilu.com
+  - DOMAIN,aleinvest.xyz
   - DOMAIN,alenty.com
   - DOMAIN,alertme.news
   - DOMAIN,alerts.ndtv.com
@@ -2187,7 +2190,6 @@ payload:
   - DOMAIN,askhilltop.com
   - DOMAIN,asklots.com
   - DOMAIN,aso1.net
-  - DOMAIN,asooda.com
   - DOMAIN,asotrack1.fluentmobile.com
   - DOMAIN,aspanyarc.club
   - DOMAIN,asparmany.site
@@ -2443,7 +2445,6 @@ payload:
   - DOMAIN,baixing.com
   - DOMAIN,baizhu.cc
   - DOMAIN,balcekonspn.com
-  - DOMAIN,baldiro.de
   - DOMAIN,baletingo.com
   - DOMAIN,balmoralmkt.com
   - DOMAIN,baltchd.net
@@ -2457,7 +2458,6 @@ payload:
   - DOMAIN,bandborder.com
   - DOMAIN,bandelcot.com
   - DOMAIN,banerator.net
-  - DOMAIN,bang5mai.com
   - DOMAIN,bangdom.com
   - DOMAIN,banianspaddi.info
   - DOMAIN,banman.isoftmarketing.com
@@ -2882,7 +2882,6 @@ payload:
   - DOMAIN,boostads.net
   - DOMAIN,boostclic.com
   - DOMAIN,booster3d.com
-  - DOMAIN,boostshow.com
   - DOMAIN,bootstrap-framework.org
   - DOMAIN,bootstrap-js.com
   - DOMAIN,bootstraplugin.com
@@ -2891,7 +2890,6 @@ payload:
   - DOMAIN,bororango.com
   - DOMAIN,borotango.com
   - DOMAIN,bosspush.com
-  - DOMAIN,bostonparadise.com
   - DOMAIN,bostonwall.com
   - DOMAIN,botdetector.ru
   - DOMAIN,botize.com
@@ -3095,8 +3093,6 @@ payload:
   - DOMAIN,c3tag.com
   - DOMAIN,c4tracking01.com
   - DOMAIN,c63d72a4022.com
-  - DOMAIN,c72.microfog.me
-  - DOMAIN,c73.microfog.me
   - DOMAIN,c753738.r38.cf2.rackcdn.com
   - DOMAIN,c75b9ac5103e5d125b8.com
   - DOMAIN,c7d470df880b1d0.com
@@ -3897,7 +3893,6 @@ payload:
   - DOMAIN,cphalk.com
   - DOMAIN,cpl1.ru
   - DOMAIN,cpm.biz
-  - DOMAIN,cpm10.com
   - DOMAIN,cpmadvisors.com
   - DOMAIN,cpmgohigh.com
   - DOMAIN,cpmktg.com
@@ -3918,7 +3913,6 @@ payload:
   - DOMAIN,cpxadroit.com
   - DOMAIN,cpxdeliv.com
   - DOMAIN,cpxinteractive.com
-  - DOMAIN,cq9119.com
   - DOMAIN,cqcounter.com
   - DOMAIN,cqlupb.com
   - DOMAIN,cqmjjx.cn
@@ -4570,8 +4564,8 @@ payload:
   - DOMAIN,dimenal.com.br
   - DOMAIN,dimestore.com
   - DOMAIN,dimml.io
-  - DOMAIN,dimsnetwork.com
   - DOMAIN,dinclinx.com
+  - DOMAIN,dinuojixie.com.cn
   - DOMAIN,diplomahawaii.com
   - DOMAIN,dircont3.com
   - DOMAIN,direct.quasir.info
@@ -4756,6 +4750,7 @@ payload:
   - DOMAIN,download207.mediafire.com
   - DOMAIN,downloadandsave-a.akamaihd.net
   - DOMAIN,downloadboutique.com
+  - DOMAIN,downloadgot.com
   - DOMAIN,downloadthesefile.com
   - DOMAIN,downmn.com
   - DOMAIN,dp-medien.eu
@@ -4923,7 +4918,6 @@ payload:
   - DOMAIN,eae5daf052d2673b.com
   - DOMAIN,eagleapi.io
   - DOMAIN,eanalyzer.de
-  - DOMAIN,eaqxjz6bra.com
   - DOMAIN,early-birds.fr
   - DOMAIN,early-birds.io
   - DOMAIN,earnify.com
@@ -4938,7 +4932,6 @@ payload:
   - DOMAIN,easyaccess.mobi
   - DOMAIN,easyad.com
   - DOMAIN,easycounter.com
-  - DOMAIN,easydownload4you.com
   - DOMAIN,easydownloadnow.com
   - DOMAIN,easyfeeed.com
   - DOMAIN,easyflirt-partners.biz
@@ -5153,7 +5146,6 @@ payload:
   - DOMAIN,erabaru.net
   - DOMAIN,erate.co.il
   - DOMAIN,eredexpendin.com
-  - DOMAIN,erendri.com
   - DOMAIN,ereportz.com
   - DOMAIN,eresmas.net
   - DOMAIN,ergoledo.com
@@ -5251,7 +5243,6 @@ payload:
   - DOMAIN,eventtracker.videostrip.com
   - DOMAIN,everestjs.net
   - DOMAIN,evergage.com
-  - DOMAIN,evewrite.net
   - DOMAIN,evgywgur.com
   - DOMAIN,eviclick.pro
   - DOMAIN,evisitanalyst.com
@@ -6403,6 +6394,7 @@ payload:
   - DOMAIN,hnlike.com
   - DOMAIN,hnpvnnhzazkl.com
   - DOMAIN,hnskorea.co.kr
+  - DOMAIN,hnwlyy.com.cn
   - DOMAIN,hoaphaiw.com
   - DOMAIN,hoawhaum.net
   - DOMAIN,hoawy.frost-electric-supply.com
@@ -7143,6 +7135,7 @@ payload:
   - DOMAIN,jodellvideos.pro
   - DOMAIN,johays.co
   - DOMAIN,jolic2.com
+  - DOMAIN,jonalnftdlnje.com
   - DOMAIN,joophesh.com
   - DOMAIN,joorejou.net
   - DOMAIN,josip-stadler.org
@@ -7678,7 +7671,6 @@ payload:
   - DOMAIN,livexxx.me
   - DOMAIN,livwrite.com
   - DOMAIN,liwhetsu.com
-  - DOMAIN,lixincxy.cn
   - DOMAIN,lizads.com
   - DOMAIN,lizardslaugh.com
   - DOMAIN,lkme.cc
@@ -7776,7 +7768,6 @@ payload:
   - DOMAIN,looyu.com
   - DOMAIN,lopley.com
   - DOMAIN,losecounter.de
-  - DOMAIN,losital.ru
   - DOMAIN,losstrack.com
   - DOMAIN,lostun.com
   - DOMAIN,lotteryaffiliates.com
@@ -7785,6 +7776,7 @@ payload:
   - DOMAIN,love-banner.com
   - DOMAIN,loveadverts.com
   - DOMAIN,lovecam.com.br
+  - DOMAIN,lovecar.net.cn
   - DOMAIN,loveclaw.com
   - DOMAIN,loveme.com
   - DOMAIN,lovercash.com
@@ -8590,7 +8582,6 @@ payload:
   - DOMAIN,mxtads.com
   - DOMAIN,my-material.zone1.meitudata.com
   - DOMAIN,my-ranking.de
-  - DOMAIN,my-stats.info
   - DOMAIN,my.leadpages.net
   - DOMAIN,myadcash.com
   - DOMAIN,myadultimpressions.com
@@ -8777,7 +8768,6 @@ payload:
   - DOMAIN,netmonitor.fi
   - DOMAIN,netosdesalim.info
   - DOMAIN,netratings.com
-  - DOMAIN,netrosol.net
   - DOMAIN,netseer.com
   - DOMAIN,netsolads.com
   - DOMAIN,netstats.dk
@@ -8839,6 +8829,7 @@ payload:
   - DOMAIN,newtention.net
   - DOMAIN,newtueads.com
   - DOMAIN,newwedads.com
+  - DOMAIN,newwiesdom.com.cn
   - DOMAIN,newzheng.cn
   - DOMAIN,nex8.net
   - DOMAIN,nexac.com
@@ -8946,7 +8937,6 @@ payload:
   - DOMAIN,novadune.com
   - DOMAIN,novarevenue.com
   - DOMAIN,novelty.media
-  - DOMAIN,november-lax.com
   - DOMAIN,noveslovo.com
   - DOMAIN,novostisporta.info
   - DOMAIN,nowina.info
@@ -9674,7 +9664,6 @@ payload:
   - DOMAIN,platform.linkedin.com
   - DOMAIN,platform.loyaltylion.com
   - DOMAIN,platform.tumblr.com
-  - DOMAIN,platformpanda.com
   - DOMAIN,plaxo.com
   - DOMAIN,play-asia.com
   - DOMAIN,play.estream.to
@@ -9719,7 +9708,6 @@ payload:
   - DOMAIN,plusone.google.com
   - DOMAIN,plxserve.com
   - DOMAIN,plxtejszb.com
-  - DOMAIN,plzjcnyxcdl.com
   - DOMAIN,pm.aty.sohu.com
   - DOMAIN,pm.web.com
   - DOMAIN,pm0.net
@@ -9807,9 +9795,7 @@ payload:
   - DOMAIN,popupdomination.com
   - DOMAIN,popupmaker.com
   - DOMAIN,popuptraffic.com
-  - DOMAIN,popwin.net
   - DOMAIN,popxxx.net
-  - DOMAIN,pork.2tumeng.com
   - DOMAIN,porkolt.com
   - DOMAIN,porn300.com
   - DOMAIN,porn88.net
@@ -10431,6 +10417,8 @@ payload:
   - DOMAIN,rawr.at
   - DOMAIN,rayli.com.cn
   - DOMAIN,rays-counter.com
+  - DOMAIN,raz-raz-mataz.com
+  - DOMAIN,razwrite.com
   - DOMAIN,rbnt.org
   - DOMAIN,rbxtrk.com
   - DOMAIN,rcads.net
@@ -10866,7 +10854,6 @@ payload:
   - DOMAIN,s13.hostcontent.live
   - DOMAIN,s2.leshi123.cc
   - DOMAIN,s20dh7e9dh.com
-  - DOMAIN,s24hc8xzag.com
   - DOMAIN,s2block.com
   - DOMAIN,s2blosh.com
   - DOMAIN,s2d6.com
@@ -11366,6 +11353,7 @@ payload:
   - DOMAIN,silverpop.com
   - DOMAIN,silverpush.co
   - DOMAIN,simonsignal.com
+  - DOMAIN,simpan.online
   - DOMAIN,simpi.tourstogo.us
   - DOMAIN,simpio.com
   - DOMAIN,simpleanalytics.io
@@ -12680,15 +12668,14 @@ payload:
   - DOMAIN,tracking.to
   - DOMAIN,tracking.unrealengine.com
   - DOMAIN,tracking.v.tf.360.cn
-  - DOMAIN,tracking.worldmedia.net
   - DOMAIN,tracking101.com
-  - DOMAIN,tracking11.com
   - DOMAIN,tracking202.com
   - DOMAIN,trackinglabs.com
   - DOMAIN,trackkas.com
   - DOMAIN,tracklab.club
   - DOMAIN,trackmethod.com
   - DOMAIN,trackmytarget.com
+  - DOMAIN,trackmyusers.com
   - DOMAIN,trackonomics.net
   - DOMAIN,trackpath.biz
   - DOMAIN,trackpush.com
@@ -12966,7 +12953,6 @@ payload:
   - DOMAIN,tuxi.com.cn
   - DOMAIN,tvas-b.pw
   - DOMAIN,tvduznfdgim.com
-  - DOMAIN,tvjkilgfanpt.com
   - DOMAIN,tvpixel.com
   - DOMAIN,tvprocessing.com
   - DOMAIN,tvrom.cn
@@ -14195,6 +14181,7 @@ payload:
   - DOMAIN,xhamstercams.com
   - DOMAIN,xhit.com
   - DOMAIN,xi9p.com
+  - DOMAIN,xiamiss.wap.xsbiquge.com
   - DOMAIN,xiaoyida.com
   - DOMAIN,xidx.org
   - DOMAIN,xigeweb.com

@@ -10,28 +10,28 @@
 
 ## 规则统计
 
-总计规则：2 条。
+总计规则：3 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| USER-AGENT | 2 |
+| PROCESS-NAME | 3 |
 ## 配置说明
 
 实时版：程序定时更新，更新频率高，能尽快同步数据源变化，适合希望尝鲜的人。
 
 稳定版：不定时手动更新，更新频率低，适合不希望规则频繁变化的人。
 
-### QuantumultX 
+### Clash 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/YouTubeMusic/YouTubeMusic.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/YouTubeMusic/YouTubeMusic.yaml
+
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/YouTubeMusic/YouTubeMusic.list
-
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clash/YouTubeMusic/YouTubeMusic.yaml
 
 
 如果稳定版无法访问 ，可能是尚未从实时版的分支合并，建议您先使用实时版，或等待下次稳定版分支合并。
