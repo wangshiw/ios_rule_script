@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-05 02:05:59
+# UPDATED: 2021-07-05 10:39:03
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14597
+# DOMAIN: 14609
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12712
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 295
-# TOTAL: 27791
+# TOTAL: 27803
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -57,6 +57,7 @@
 0pixl.com
 0stats.com
 0x5.me
+0xiaoshuo.com
 1-cl0ud.com
 1.5646.cn
 1.feeddsp.cn
@@ -706,6 +707,7 @@ aaddcount.com
 aaddss.tohomh.com
 aaddzz.com
 aagmbroxruno.com
+aallycspkdf.com
 aamapi.com
 aamsitecertifier.com
 aan.amazon.com
@@ -2141,6 +2143,7 @@ apycomm.com
 apyoth.com
 aq360.club
 aqjdigkqvmakz.com
+aqkrqjvc.com
 aqtracker.com
 aquete.com
 ar1nvz5.com
@@ -5251,6 +5254,7 @@ evolvemediallc.com
 evolvemediametrics.com
 evolvenation.com
 evt.collarity.com
+evvznnafduvs.com
 evyy.net
 ew3.io
 ewebanalytics.com
@@ -5496,6 +5500,7 @@ fix.hpplay.cn
 fixcounter.com
 fixionmedia.com
 fixpass.net
+fjbu.cn
 fjzimaoqu.cn
 fkbwtoopwg.com
 flagads.net
@@ -5585,6 +5590,7 @@ formalyzer.com
 formessengers.com
 formisimo.com
 formulawire.com
+forrestersurveys.com
 fortpush.com
 fortvision.com
 forwrdnow.com
@@ -6219,6 +6225,7 @@ haoduoyi1688.cn
 haomm.com
 haosf.com
 haoyangmao.ltd
+haoyiwang.net
 haoyoushuo.cn
 happer.info
 haprjb.com
@@ -6757,6 +6764,7 @@ imprvdosrv.com
 imrk.net
 imrtrack.com
 imsnp.com
+imzahrwl.xyz
 in-appadvertising.com
 inaudium.com
 inboxtag.com
@@ -9575,6 +9583,7 @@ phoenix-widget.com
 phokukse.com
 phonalytics.com
 phone-analytics.com
+phonespybubble.com
 phonograph2.voxmedia.com
 phoodsom.net
 photo.188kc.cn
@@ -13881,6 +13890,7 @@ wstatslive.com
 wt-eu02.net
 wt-safetag.com
 wtg-ads.com
+wtjcqntwdtgs.com
 wtm.monitoringservice.co
 wtmtrack.com
 wtp101.com
@@ -13978,6 +13988,7 @@ www.gmcjjh.org
 www.gold-city.it
 www.grjs01.com
 www.guanggao369.cn
+www.guanyitanggy.com
 www.hausnet.ru
 www.hitekshop.vn
 www.hjaoopoa.top
@@ -14187,6 +14198,7 @@ xiaoyida.com
 xidx.org
 xigeweb.com
 xijinfa.com
+xilbalar.com
 xindalawyer.com
 xineday.com
 xing-share.com

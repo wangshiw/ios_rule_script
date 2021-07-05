@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-05 02:06:00
-# DOMAIN: 14597
+# UPDATED: 2021-07-05 10:39:05
+# DOMAIN: 14609
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12712
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27496
+# TOTAL: 27508
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -56,6 +56,7 @@ payload:
   - DOMAIN,0pixl.com
   - DOMAIN,0stats.com
   - DOMAIN,0x5.me
+  - DOMAIN,0xiaoshuo.com
   - DOMAIN,1-cl0ud.com
   - DOMAIN,1.5646.cn
   - DOMAIN,1.feeddsp.cn
@@ -705,6 +706,7 @@ payload:
   - DOMAIN,aaddss.tohomh.com
   - DOMAIN,aaddzz.com
   - DOMAIN,aagmbroxruno.com
+  - DOMAIN,aallycspkdf.com
   - DOMAIN,aamapi.com
   - DOMAIN,aamsitecertifier.com
   - DOMAIN,aan.amazon.com
@@ -2140,6 +2142,7 @@ payload:
   - DOMAIN,apyoth.com
   - DOMAIN,aq360.club
   - DOMAIN,aqjdigkqvmakz.com
+  - DOMAIN,aqkrqjvc.com
   - DOMAIN,aqtracker.com
   - DOMAIN,aquete.com
   - DOMAIN,ar1nvz5.com
@@ -5250,6 +5253,7 @@ payload:
   - DOMAIN,evolvemediametrics.com
   - DOMAIN,evolvenation.com
   - DOMAIN,evt.collarity.com
+  - DOMAIN,evvznnafduvs.com
   - DOMAIN,evyy.net
   - DOMAIN,ew3.io
   - DOMAIN,ewebanalytics.com
@@ -5495,6 +5499,7 @@ payload:
   - DOMAIN,fixcounter.com
   - DOMAIN,fixionmedia.com
   - DOMAIN,fixpass.net
+  - DOMAIN,fjbu.cn
   - DOMAIN,fjzimaoqu.cn
   - DOMAIN,fkbwtoopwg.com
   - DOMAIN,flagads.net
@@ -5584,6 +5589,7 @@ payload:
   - DOMAIN,formessengers.com
   - DOMAIN,formisimo.com
   - DOMAIN,formulawire.com
+  - DOMAIN,forrestersurveys.com
   - DOMAIN,fortpush.com
   - DOMAIN,fortvision.com
   - DOMAIN,forwrdnow.com
@@ -6218,6 +6224,7 @@ payload:
   - DOMAIN,haomm.com
   - DOMAIN,haosf.com
   - DOMAIN,haoyangmao.ltd
+  - DOMAIN,haoyiwang.net
   - DOMAIN,haoyoushuo.cn
   - DOMAIN,happer.info
   - DOMAIN,haprjb.com
@@ -6756,6 +6763,7 @@ payload:
   - DOMAIN,imrk.net
   - DOMAIN,imrtrack.com
   - DOMAIN,imsnp.com
+  - DOMAIN,imzahrwl.xyz
   - DOMAIN,in-appadvertising.com
   - DOMAIN,inaudium.com
   - DOMAIN,inboxtag.com
@@ -9574,6 +9582,7 @@ payload:
   - DOMAIN,phokukse.com
   - DOMAIN,phonalytics.com
   - DOMAIN,phone-analytics.com
+  - DOMAIN,phonespybubble.com
   - DOMAIN,phonograph2.voxmedia.com
   - DOMAIN,phoodsom.net
   - DOMAIN,photo.188kc.cn
@@ -13880,6 +13889,7 @@ payload:
   - DOMAIN,wt-eu02.net
   - DOMAIN,wt-safetag.com
   - DOMAIN,wtg-ads.com
+  - DOMAIN,wtjcqntwdtgs.com
   - DOMAIN,wtm.monitoringservice.co
   - DOMAIN,wtmtrack.com
   - DOMAIN,wtp101.com
@@ -13977,6 +13987,7 @@ payload:
   - DOMAIN,www.gold-city.it
   - DOMAIN,www.grjs01.com
   - DOMAIN,www.guanggao369.cn
+  - DOMAIN,www.guanyitanggy.com
   - DOMAIN,www.hausnet.ru
   - DOMAIN,www.hitekshop.vn
   - DOMAIN,www.hjaoopoa.top
@@ -14186,6 +14197,7 @@ payload:
   - DOMAIN,xidx.org
   - DOMAIN,xigeweb.com
   - DOMAIN,xijinfa.com
+  - DOMAIN,xilbalar.com
   - DOMAIN,xindalawyer.com
   - DOMAIN,xineday.com
   - DOMAIN,xing-share.com

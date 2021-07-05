@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-05 02:05:59
-# HOST: 14597
+# UPDATED: 2021-07-05 10:39:03
+# HOST: 14609
 # HOST-KEYWORD: 28
 # HOST-SUFFIX: 12712
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 27496
+# TOTAL: 27508
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -55,6 +55,7 @@ HOST,0nso0tq1sa4.ml,AdvertisingLite
 HOST,0pixl.com,AdvertisingLite
 HOST,0stats.com,AdvertisingLite
 HOST,0x5.me,AdvertisingLite
+HOST,0xiaoshuo.com,AdvertisingLite
 HOST,1-cl0ud.com,AdvertisingLite
 HOST,1.5646.cn,AdvertisingLite
 HOST,1.feeddsp.cn,AdvertisingLite
@@ -704,6 +705,7 @@ HOST,aaddcount.com,AdvertisingLite
 HOST,aaddss.tohomh.com,AdvertisingLite
 HOST,aaddzz.com,AdvertisingLite
 HOST,aagmbroxruno.com,AdvertisingLite
+HOST,aallycspkdf.com,AdvertisingLite
 HOST,aamapi.com,AdvertisingLite
 HOST,aamsitecertifier.com,AdvertisingLite
 HOST,aan.amazon.com,AdvertisingLite
@@ -2139,6 +2141,7 @@ HOST,apycomm.com,AdvertisingLite
 HOST,apyoth.com,AdvertisingLite
 HOST,aq360.club,AdvertisingLite
 HOST,aqjdigkqvmakz.com,AdvertisingLite
+HOST,aqkrqjvc.com,AdvertisingLite
 HOST,aqtracker.com,AdvertisingLite
 HOST,aquete.com,AdvertisingLite
 HOST,ar1nvz5.com,AdvertisingLite
@@ -5249,6 +5252,7 @@ HOST,evolvemediallc.com,AdvertisingLite
 HOST,evolvemediametrics.com,AdvertisingLite
 HOST,evolvenation.com,AdvertisingLite
 HOST,evt.collarity.com,AdvertisingLite
+HOST,evvznnafduvs.com,AdvertisingLite
 HOST,evyy.net,AdvertisingLite
 HOST,ew3.io,AdvertisingLite
 HOST,ewebanalytics.com,AdvertisingLite
@@ -5494,6 +5498,7 @@ HOST,fix.hpplay.cn,AdvertisingLite
 HOST,fixcounter.com,AdvertisingLite
 HOST,fixionmedia.com,AdvertisingLite
 HOST,fixpass.net,AdvertisingLite
+HOST,fjbu.cn,AdvertisingLite
 HOST,fjzimaoqu.cn,AdvertisingLite
 HOST,fkbwtoopwg.com,AdvertisingLite
 HOST,flagads.net,AdvertisingLite
@@ -5583,6 +5588,7 @@ HOST,formalyzer.com,AdvertisingLite
 HOST,formessengers.com,AdvertisingLite
 HOST,formisimo.com,AdvertisingLite
 HOST,formulawire.com,AdvertisingLite
+HOST,forrestersurveys.com,AdvertisingLite
 HOST,fortpush.com,AdvertisingLite
 HOST,fortvision.com,AdvertisingLite
 HOST,forwrdnow.com,AdvertisingLite
@@ -6217,6 +6223,7 @@ HOST,haoduoyi1688.cn,AdvertisingLite
 HOST,haomm.com,AdvertisingLite
 HOST,haosf.com,AdvertisingLite
 HOST,haoyangmao.ltd,AdvertisingLite
+HOST,haoyiwang.net,AdvertisingLite
 HOST,haoyoushuo.cn,AdvertisingLite
 HOST,happer.info,AdvertisingLite
 HOST,haprjb.com,AdvertisingLite
@@ -6755,6 +6762,7 @@ HOST,imprvdosrv.com,AdvertisingLite
 HOST,imrk.net,AdvertisingLite
 HOST,imrtrack.com,AdvertisingLite
 HOST,imsnp.com,AdvertisingLite
+HOST,imzahrwl.xyz,AdvertisingLite
 HOST,in-appadvertising.com,AdvertisingLite
 HOST,inaudium.com,AdvertisingLite
 HOST,inboxtag.com,AdvertisingLite
@@ -9573,6 +9581,7 @@ HOST,phoenix-widget.com,AdvertisingLite
 HOST,phokukse.com,AdvertisingLite
 HOST,phonalytics.com,AdvertisingLite
 HOST,phone-analytics.com,AdvertisingLite
+HOST,phonespybubble.com,AdvertisingLite
 HOST,phonograph2.voxmedia.com,AdvertisingLite
 HOST,phoodsom.net,AdvertisingLite
 HOST,photo.188kc.cn,AdvertisingLite
@@ -13879,6 +13888,7 @@ HOST,wstatslive.com,AdvertisingLite
 HOST,wt-eu02.net,AdvertisingLite
 HOST,wt-safetag.com,AdvertisingLite
 HOST,wtg-ads.com,AdvertisingLite
+HOST,wtjcqntwdtgs.com,AdvertisingLite
 HOST,wtm.monitoringservice.co,AdvertisingLite
 HOST,wtmtrack.com,AdvertisingLite
 HOST,wtp101.com,AdvertisingLite
@@ -13976,6 +13986,7 @@ HOST,www.gmcjjh.org,AdvertisingLite
 HOST,www.gold-city.it,AdvertisingLite
 HOST,www.grjs01.com,AdvertisingLite
 HOST,www.guanggao369.cn,AdvertisingLite
+HOST,www.guanyitanggy.com,AdvertisingLite
 HOST,www.hausnet.ru,AdvertisingLite
 HOST,www.hitekshop.vn,AdvertisingLite
 HOST,www.hjaoopoa.top,AdvertisingLite
@@ -14185,6 +14196,7 @@ HOST,xiaoyida.com,AdvertisingLite
 HOST,xidx.org,AdvertisingLite
 HOST,xigeweb.com,AdvertisingLite
 HOST,xijinfa.com,AdvertisingLite
+HOST,xilbalar.com,AdvertisingLite
 HOST,xindalawyer.com,AdvertisingLite
 HOST,xineday.com,AdvertisingLite
 HOST,xing-share.com,AdvertisingLite
