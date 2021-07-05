@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-05 10:39:03
+# UPDATED: 2021-07-06 02:06:43
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14609
+# DOMAIN: 14601
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12712
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 295
-# TOTAL: 27803
+# TOTAL: 27795
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -3793,7 +3793,6 @@ cooladata.com
 coolerads.com
 coollcloud.com
 coolmirage.com
-coolsite.club
 coomosha.com
 coordinatedcoat.com
 coordinatedcub.com
@@ -5532,7 +5531,6 @@ flixfacts.co.uk
 flixsyndication.net
 fljozww19f.com
 flockflame.com
-flodonas.com
 flomigo.com
 flowplus.meituan.net
 fluencymedia.com
@@ -5662,7 +5660,6 @@ freestats.ws
 freetellafriend.com
 freetracker.biz
 freetrafficsystem.com
-freetricktipss.info
 freeusersonline.com
 freewebcams.com
 freewebfonts.org
@@ -7000,7 +6997,6 @@ isparkmedia.com
 issuecdn.baidupcs.com
 ist-track.com
 istats.nl
-istcg.com
 istlandoll.com
 istrack.com
 italianadirectory.com
@@ -7190,7 +7186,6 @@ jsfeedget.com
 jsfuz.com
 jsinfo.net
 jsjs.jbzj.com
-jsjxhd.com
 jsmentry.com
 jsmjmp.com
 jsonip.com
@@ -7699,7 +7694,6 @@ lningcity.com.cn
 lnkgt.com
 lnkrdr.com
 lnr1.com
-loa-traffic.com
 loadercdn.com
 loading-delivery1.com
 loading-resource.com
@@ -8209,7 +8203,6 @@ meme.smhlmao.com
 memecounter.com
 memo.co
 menepe.com
-menghuanzhilv.cn
 mengis-linden.org
 mentad.com
 mentalks.ru
@@ -8795,6 +8788,7 @@ netzstat.ch
 neudesicmediagroup.com
 neuesdate.com
 neumashop.cl
+never2date.com
 nevergreen.net
 new-new-years.com
 new.minr.pw
@@ -11828,7 +11822,6 @@ srx.com.sg
 ss.chelaile.net.cn
 ssa.1337x.to
 sscj123.com
-sscjchina.com.cn
 ssl-services.com
 ssl2.gdqifang.com
 ssl2anyone3.com
@@ -13040,9 +13033,7 @@ ucoz.com
 uctrac.com
 ucweb.com
 udarem.com
-udjfnbl.zwdu.com
 udmserve.net
-udr26c.cn
 udrivemyr54.com
 uedas.qdmm.com
 uedas.qidian.com
@@ -13556,6 +13547,7 @@ wantatop.com
 wap.2f.com
 wap.utmei.cn
 wapdollar.in
+waploft.cc
 waploft.com
 waplog.net
 wapoawoo.net
@@ -13701,6 +13693,7 @@ webxmr.com
 weby.aaas.org
 weddingeeos.com
 weedazou.net
+wegetpaid.net
 wegotmedia.com
 weheartit.com
 weizjzg.com
@@ -14143,7 +14136,6 @@ wynather.com
 wysistat.com
 wywy.com
 wzdzht7am5.com
-wzfjsh.cn
 wzrk.co
 wzrkt.com
 x-adservice.com

@@ -1,13 +1,13 @@
 # NAME: GlobalMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-05 02:05:59
+# UPDATED: 2021-07-06 02:06:44
 # HOST: 38
 # USER-AGENT: 62
 # HOST-SUFFIX: 215
 # HOST-KEYWORD: 22
-# IP-CIDR: 855
-# TOTAL: 1192
+# IP-CIDR: 856
+# TOTAL: 1193
 HOST,api.okzy.tv,GlobalMedia
 HOST,apple.comscoreresearch.com,GlobalMedia
 HOST,atv-ps.amazon.com,GlobalMedia
@@ -778,6 +778,7 @@ IP-CIDR,208.76.186.7/32,GlobalMedia
 IP-CIDR,209.166.100.18/32,GlobalMedia
 IP-CIDR,209.166.100.22/32,GlobalMedia
 IP-CIDR,210.201.32.11/32,GlobalMedia
+IP-CIDR,210.201.32.8/32,GlobalMedia
 IP-CIDR,211.25.221.90/32,GlobalMedia
 IP-CIDR,211.25.221.94/32,GlobalMedia
 IP-CIDR,212.113.160.242/32,GlobalMedia

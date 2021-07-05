@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-05 10:39:03
-# HOST: 20814
+# UPDATED: 2021-07-06 02:06:44
+# HOST: 20812
 # HOST-KEYWORD: 88
 # HOST-SUFFIX: 47999
 # IP-CIDR: 241
 # IP6-CIDR: 1
-# TOTAL: 69143
+# TOTAL: 69141
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -4713,7 +4713,6 @@ HOST,captaindemand.net,Advertising
 HOST,captec.actonsoftware.com,Advertising
 HOST,car-accident-birmingham.com,Advertising
 HOST,carambaba.com,Advertising
-HOST,caraphene.xyz,Advertising
 HOST,carboneas.com,Advertising
 HOST,cardcodes.net,Advertising
 HOST,cardgamespidersolitaire.com,Advertising
@@ -5773,7 +5772,6 @@ HOST,com-878979.info,Advertising
 HOST,com-issueinfo.com,Advertising
 HOST,comairairlines.com,Advertising
 HOST,combatarms-nx.com,Advertising
-HOST,combee84.com,Advertising
 HOST,comboapp.com,Advertising
 HOST,comcast.cdn.auditude.com,Advertising
 HOST,comcast.inq.com,Advertising
@@ -8313,6 +8311,7 @@ HOST,free-groupsex.com,Advertising
 HOST,free-gta5.com,Advertising
 HOST,free-hack-tool.com,Advertising
 HOST,free-hack-tools.com,Advertising
+HOST,free-hack.org,Advertising
 HOST,free-hack24.com,Advertising
 HOST,free-hacks.com,Advertising
 HOST,free-hacks1.com,Advertising
@@ -8984,7 +8983,6 @@ HOST,girlsandfootball.org,Advertising
 HOST,git.novaonx.com,Advertising
 HOST,git.younetmedia.com,Advertising
 HOST,gitmovies.com,Advertising
-HOST,giustramedical.org,Advertising
 HOST,give-aways.net,Advertising
 HOST,giveaway.ether-claim.org,Advertising
 HOST,giveawayheaven.com,Advertising
@@ -11971,7 +11969,6 @@ HOST,makeupartistsd.com,Advertising
 HOST,makewebapp.com,Advertising
 HOST,makicenter.com,Advertising
 HOST,makroads.net,Advertising
-HOST,maksophi.com,Advertising
 HOST,malamcharity.com,Advertising
 HOST,malayalam-net.com,Advertising
 HOST,malealous.com,Advertising
@@ -12682,6 +12679,7 @@ HOST,mologiq.net,Advertising
 HOST,momoxxio.com,Advertising
 HOST,moncompte-ameli.com,Advertising
 HOST,moncompte.grouperf.com,Advertising
+HOST,monde-gourmandises.net,Advertising
 HOST,mondoads.s3.amazonaws.com,Advertising
 HOST,mondoperaio.net,Advertising
 HOST,monetizemore.com,Advertising
@@ -13196,6 +13194,7 @@ HOST,networkads.net,Advertising
 HOST,networkmedical.com.hk,Advertising
 HOST,neuciclaje.com,Advertising
 HOST,neumashop.cl,Advertising
+HOST,never2date.com,Advertising
 HOST,nevergreen.net,Advertising
 HOST,new-ebooks.com,Advertising
 HOST,new-wpstage.adelphic.com,Advertising
@@ -16250,7 +16249,6 @@ HOST,sh.creativcdn.net,Advertising
 HOST,sh.younetmedia.com,Advertising
 HOST,sha2008.com,Advertising
 HOST,sha2013.com,Advertising
-HOST,sha2021.com,Advertising
 HOST,sha2024.com,Advertising
 HOST,shadesandblinds.com,Advertising
 HOST,shafayat.com,Advertising

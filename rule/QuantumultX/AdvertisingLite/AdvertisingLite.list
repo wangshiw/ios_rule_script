@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-05 10:39:03
-# HOST: 14609
+# UPDATED: 2021-07-06 02:06:44
+# HOST: 14601
 # HOST-KEYWORD: 28
 # HOST-SUFFIX: 12712
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 27508
+# TOTAL: 27500
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -3791,7 +3791,6 @@ HOST,cooladata.com,AdvertisingLite
 HOST,coolerads.com,AdvertisingLite
 HOST,coollcloud.com,AdvertisingLite
 HOST,coolmirage.com,AdvertisingLite
-HOST,coolsite.club,AdvertisingLite
 HOST,coomosha.com,AdvertisingLite
 HOST,coordinatedcoat.com,AdvertisingLite
 HOST,coordinatedcub.com,AdvertisingLite
@@ -5530,7 +5529,6 @@ HOST,flixfacts.co.uk,AdvertisingLite
 HOST,flixsyndication.net,AdvertisingLite
 HOST,fljozww19f.com,AdvertisingLite
 HOST,flockflame.com,AdvertisingLite
-HOST,flodonas.com,AdvertisingLite
 HOST,flomigo.com,AdvertisingLite
 HOST,flowplus.meituan.net,AdvertisingLite
 HOST,fluencymedia.com,AdvertisingLite
@@ -5660,7 +5658,6 @@ HOST,freestats.ws,AdvertisingLite
 HOST,freetellafriend.com,AdvertisingLite
 HOST,freetracker.biz,AdvertisingLite
 HOST,freetrafficsystem.com,AdvertisingLite
-HOST,freetricktipss.info,AdvertisingLite
 HOST,freeusersonline.com,AdvertisingLite
 HOST,freewebcams.com,AdvertisingLite
 HOST,freewebfonts.org,AdvertisingLite
@@ -6998,7 +6995,6 @@ HOST,isparkmedia.com,AdvertisingLite
 HOST,issuecdn.baidupcs.com,AdvertisingLite
 HOST,ist-track.com,AdvertisingLite
 HOST,istats.nl,AdvertisingLite
-HOST,istcg.com,AdvertisingLite
 HOST,istlandoll.com,AdvertisingLite
 HOST,istrack.com,AdvertisingLite
 HOST,italianadirectory.com,AdvertisingLite
@@ -7188,7 +7184,6 @@ HOST,jsfeedget.com,AdvertisingLite
 HOST,jsfuz.com,AdvertisingLite
 HOST,jsinfo.net,AdvertisingLite
 HOST,jsjs.jbzj.com,AdvertisingLite
-HOST,jsjxhd.com,AdvertisingLite
 HOST,jsmentry.com,AdvertisingLite
 HOST,jsmjmp.com,AdvertisingLite
 HOST,jsonip.com,AdvertisingLite
@@ -7697,7 +7692,6 @@ HOST,lningcity.com.cn,AdvertisingLite
 HOST,lnkgt.com,AdvertisingLite
 HOST,lnkrdr.com,AdvertisingLite
 HOST,lnr1.com,AdvertisingLite
-HOST,loa-traffic.com,AdvertisingLite
 HOST,loadercdn.com,AdvertisingLite
 HOST,loading-delivery1.com,AdvertisingLite
 HOST,loading-resource.com,AdvertisingLite
@@ -8207,7 +8201,6 @@ HOST,meme.smhlmao.com,AdvertisingLite
 HOST,memecounter.com,AdvertisingLite
 HOST,memo.co,AdvertisingLite
 HOST,menepe.com,AdvertisingLite
-HOST,menghuanzhilv.cn,AdvertisingLite
 HOST,mengis-linden.org,AdvertisingLite
 HOST,mentad.com,AdvertisingLite
 HOST,mentalks.ru,AdvertisingLite
@@ -8793,6 +8786,7 @@ HOST,netzstat.ch,AdvertisingLite
 HOST,neudesicmediagroup.com,AdvertisingLite
 HOST,neuesdate.com,AdvertisingLite
 HOST,neumashop.cl,AdvertisingLite
+HOST,never2date.com,AdvertisingLite
 HOST,nevergreen.net,AdvertisingLite
 HOST,new-new-years.com,AdvertisingLite
 HOST,new.minr.pw,AdvertisingLite
@@ -11826,7 +11820,6 @@ HOST,srx.com.sg,AdvertisingLite
 HOST,ss.chelaile.net.cn,AdvertisingLite
 HOST,ssa.1337x.to,AdvertisingLite
 HOST,sscj123.com,AdvertisingLite
-HOST,sscjchina.com.cn,AdvertisingLite
 HOST,ssl-services.com,AdvertisingLite
 HOST,ssl2.gdqifang.com,AdvertisingLite
 HOST,ssl2anyone3.com,AdvertisingLite
@@ -13038,9 +13031,7 @@ HOST,ucoz.com,AdvertisingLite
 HOST,uctrac.com,AdvertisingLite
 HOST,ucweb.com,AdvertisingLite
 HOST,udarem.com,AdvertisingLite
-HOST,udjfnbl.zwdu.com,AdvertisingLite
 HOST,udmserve.net,AdvertisingLite
-HOST,udr26c.cn,AdvertisingLite
 HOST,udrivemyr54.com,AdvertisingLite
 HOST,uedas.qdmm.com,AdvertisingLite
 HOST,uedas.qidian.com,AdvertisingLite
@@ -13554,6 +13545,7 @@ HOST,wantatop.com,AdvertisingLite
 HOST,wap.2f.com,AdvertisingLite
 HOST,wap.utmei.cn,AdvertisingLite
 HOST,wapdollar.in,AdvertisingLite
+HOST,waploft.cc,AdvertisingLite
 HOST,waploft.com,AdvertisingLite
 HOST,waplog.net,AdvertisingLite
 HOST,wapoawoo.net,AdvertisingLite
@@ -13699,6 +13691,7 @@ HOST,webxmr.com,AdvertisingLite
 HOST,weby.aaas.org,AdvertisingLite
 HOST,weddingeeos.com,AdvertisingLite
 HOST,weedazou.net,AdvertisingLite
+HOST,wegetpaid.net,AdvertisingLite
 HOST,wegotmedia.com,AdvertisingLite
 HOST,weheartit.com,AdvertisingLite
 HOST,weizjzg.com,AdvertisingLite
@@ -14141,7 +14134,6 @@ HOST,wynather.com,AdvertisingLite
 HOST,wysistat.com,AdvertisingLite
 HOST,wywy.com,AdvertisingLite
 HOST,wzdzht7am5.com,AdvertisingLite
-HOST,wzfjsh.cn,AdvertisingLite
 HOST,wzrk.co,AdvertisingLite
 HOST,wzrkt.com,AdvertisingLite
 HOST,x-adservice.com,AdvertisingLite

@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-05 10:39:05
-# DOMAIN: 14609
+# UPDATED: 2021-07-06 02:06:45
+# DOMAIN: 14601
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12712
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27508
+# TOTAL: 27500
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -3792,7 +3792,6 @@ payload:
   - DOMAIN,coolerads.com
   - DOMAIN,coollcloud.com
   - DOMAIN,coolmirage.com
-  - DOMAIN,coolsite.club
   - DOMAIN,coomosha.com
   - DOMAIN,coordinatedcoat.com
   - DOMAIN,coordinatedcub.com
@@ -5531,7 +5530,6 @@ payload:
   - DOMAIN,flixsyndication.net
   - DOMAIN,fljozww19f.com
   - DOMAIN,flockflame.com
-  - DOMAIN,flodonas.com
   - DOMAIN,flomigo.com
   - DOMAIN,flowplus.meituan.net
   - DOMAIN,fluencymedia.com
@@ -5661,7 +5659,6 @@ payload:
   - DOMAIN,freetellafriend.com
   - DOMAIN,freetracker.biz
   - DOMAIN,freetrafficsystem.com
-  - DOMAIN,freetricktipss.info
   - DOMAIN,freeusersonline.com
   - DOMAIN,freewebcams.com
   - DOMAIN,freewebfonts.org
@@ -6999,7 +6996,6 @@ payload:
   - DOMAIN,issuecdn.baidupcs.com
   - DOMAIN,ist-track.com
   - DOMAIN,istats.nl
-  - DOMAIN,istcg.com
   - DOMAIN,istlandoll.com
   - DOMAIN,istrack.com
   - DOMAIN,italianadirectory.com
@@ -7189,7 +7185,6 @@ payload:
   - DOMAIN,jsfuz.com
   - DOMAIN,jsinfo.net
   - DOMAIN,jsjs.jbzj.com
-  - DOMAIN,jsjxhd.com
   - DOMAIN,jsmentry.com
   - DOMAIN,jsmjmp.com
   - DOMAIN,jsonip.com
@@ -7698,7 +7693,6 @@ payload:
   - DOMAIN,lnkgt.com
   - DOMAIN,lnkrdr.com
   - DOMAIN,lnr1.com
-  - DOMAIN,loa-traffic.com
   - DOMAIN,loadercdn.com
   - DOMAIN,loading-delivery1.com
   - DOMAIN,loading-resource.com
@@ -8208,7 +8202,6 @@ payload:
   - DOMAIN,memecounter.com
   - DOMAIN,memo.co
   - DOMAIN,menepe.com
-  - DOMAIN,menghuanzhilv.cn
   - DOMAIN,mengis-linden.org
   - DOMAIN,mentad.com
   - DOMAIN,mentalks.ru
@@ -8794,6 +8787,7 @@ payload:
   - DOMAIN,neudesicmediagroup.com
   - DOMAIN,neuesdate.com
   - DOMAIN,neumashop.cl
+  - DOMAIN,never2date.com
   - DOMAIN,nevergreen.net
   - DOMAIN,new-new-years.com
   - DOMAIN,new.minr.pw
@@ -11827,7 +11821,6 @@ payload:
   - DOMAIN,ss.chelaile.net.cn
   - DOMAIN,ssa.1337x.to
   - DOMAIN,sscj123.com
-  - DOMAIN,sscjchina.com.cn
   - DOMAIN,ssl-services.com
   - DOMAIN,ssl2.gdqifang.com
   - DOMAIN,ssl2anyone3.com
@@ -13039,9 +13032,7 @@ payload:
   - DOMAIN,uctrac.com
   - DOMAIN,ucweb.com
   - DOMAIN,udarem.com
-  - DOMAIN,udjfnbl.zwdu.com
   - DOMAIN,udmserve.net
-  - DOMAIN,udr26c.cn
   - DOMAIN,udrivemyr54.com
   - DOMAIN,uedas.qdmm.com
   - DOMAIN,uedas.qidian.com
@@ -13555,6 +13546,7 @@ payload:
   - DOMAIN,wap.2f.com
   - DOMAIN,wap.utmei.cn
   - DOMAIN,wapdollar.in
+  - DOMAIN,waploft.cc
   - DOMAIN,waploft.com
   - DOMAIN,waplog.net
   - DOMAIN,wapoawoo.net
@@ -13700,6 +13692,7 @@ payload:
   - DOMAIN,weby.aaas.org
   - DOMAIN,weddingeeos.com
   - DOMAIN,weedazou.net
+  - DOMAIN,wegetpaid.net
   - DOMAIN,wegotmedia.com
   - DOMAIN,weheartit.com
   - DOMAIN,weizjzg.com
@@ -14142,7 +14135,6 @@ payload:
   - DOMAIN,wysistat.com
   - DOMAIN,wywy.com
   - DOMAIN,wzdzht7am5.com
-  - DOMAIN,wzfjsh.cn
   - DOMAIN,wzrk.co
   - DOMAIN,wzrkt.com
   - DOMAIN,x-adservice.com

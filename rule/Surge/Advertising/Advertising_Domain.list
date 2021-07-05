@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-05 10:39:03
+# UPDATED: 2021-07-06 02:06:43
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 20814
+# DOMAIN: 20812
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 47999
 # IP-CIDR: 241
 # IP-CIDR6: 1
 # URL-REGEX: 301
-# TOTAL: 69444
+# TOTAL: 69442
 0.nextyourcontent.com
 0.up.qingdaonews.com
 0001.2waky.com
@@ -4715,7 +4715,6 @@ captaindemand.net
 captec.actonsoftware.com
 car-accident-birmingham.com
 carambaba.com
-caraphene.xyz
 carboneas.com
 cardcodes.net
 cardgamespidersolitaire.com
@@ -5775,7 +5774,6 @@ com-878979.info
 com-issueinfo.com
 comairairlines.com
 combatarms-nx.com
-combee84.com
 comboapp.com
 comcast.cdn.auditude.com
 comcast.inq.com
@@ -8315,6 +8313,7 @@ free-groupsex.com
 free-gta5.com
 free-hack-tool.com
 free-hack-tools.com
+free-hack.org
 free-hack24.com
 free-hacks.com
 free-hacks1.com
@@ -8986,7 +8985,6 @@ girlsandfootball.org
 git.novaonx.com
 git.younetmedia.com
 gitmovies.com
-giustramedical.org
 give-aways.net
 giveaway.ether-claim.org
 giveawayheaven.com
@@ -11973,7 +11971,6 @@ makeupartistsd.com
 makewebapp.com
 makicenter.com
 makroads.net
-maksophi.com
 malamcharity.com
 malayalam-net.com
 malealous.com
@@ -12684,6 +12681,7 @@ mologiq.net
 momoxxio.com
 moncompte-ameli.com
 moncompte.grouperf.com
+monde-gourmandises.net
 mondoads.s3.amazonaws.com
 mondoperaio.net
 monetizemore.com
@@ -13198,6 +13196,7 @@ networkads.net
 networkmedical.com.hk
 neuciclaje.com
 neumashop.cl
+never2date.com
 nevergreen.net
 new-ebooks.com
 new-wpstage.adelphic.com
@@ -16252,7 +16251,6 @@ sh.creativcdn.net
 sh.younetmedia.com
 sha2008.com
 sha2013.com
-sha2021.com
 sha2024.com
 shadesandblinds.com
 shafayat.com

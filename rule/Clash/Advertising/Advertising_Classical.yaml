@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-05 10:39:05
-# DOMAIN: 20814
+# UPDATED: 2021-07-06 02:06:45
+# DOMAIN: 20812
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 47999
 # IP-CIDR: 241
 # IP-CIDR6: 1
-# TOTAL: 69143
+# TOTAL: 69141
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -4714,7 +4714,6 @@ payload:
   - DOMAIN,captec.actonsoftware.com
   - DOMAIN,car-accident-birmingham.com
   - DOMAIN,carambaba.com
-  - DOMAIN,caraphene.xyz
   - DOMAIN,carboneas.com
   - DOMAIN,cardcodes.net
   - DOMAIN,cardgamespidersolitaire.com
@@ -5774,7 +5773,6 @@ payload:
   - DOMAIN,com-issueinfo.com
   - DOMAIN,comairairlines.com
   - DOMAIN,combatarms-nx.com
-  - DOMAIN,combee84.com
   - DOMAIN,comboapp.com
   - DOMAIN,comcast.cdn.auditude.com
   - DOMAIN,comcast.inq.com
@@ -8314,6 +8312,7 @@ payload:
   - DOMAIN,free-gta5.com
   - DOMAIN,free-hack-tool.com
   - DOMAIN,free-hack-tools.com
+  - DOMAIN,free-hack.org
   - DOMAIN,free-hack24.com
   - DOMAIN,free-hacks.com
   - DOMAIN,free-hacks1.com
@@ -8985,7 +8984,6 @@ payload:
   - DOMAIN,git.novaonx.com
   - DOMAIN,git.younetmedia.com
   - DOMAIN,gitmovies.com
-  - DOMAIN,giustramedical.org
   - DOMAIN,give-aways.net
   - DOMAIN,giveaway.ether-claim.org
   - DOMAIN,giveawayheaven.com
@@ -11972,7 +11970,6 @@ payload:
   - DOMAIN,makewebapp.com
   - DOMAIN,makicenter.com
   - DOMAIN,makroads.net
-  - DOMAIN,maksophi.com
   - DOMAIN,malamcharity.com
   - DOMAIN,malayalam-net.com
   - DOMAIN,malealous.com
@@ -12683,6 +12680,7 @@ payload:
   - DOMAIN,momoxxio.com
   - DOMAIN,moncompte-ameli.com
   - DOMAIN,moncompte.grouperf.com
+  - DOMAIN,monde-gourmandises.net
   - DOMAIN,mondoads.s3.amazonaws.com
   - DOMAIN,mondoperaio.net
   - DOMAIN,monetizemore.com
@@ -13197,6 +13195,7 @@ payload:
   - DOMAIN,networkmedical.com.hk
   - DOMAIN,neuciclaje.com
   - DOMAIN,neumashop.cl
+  - DOMAIN,never2date.com
   - DOMAIN,nevergreen.net
   - DOMAIN,new-ebooks.com
   - DOMAIN,new-wpstage.adelphic.com
@@ -16251,7 +16250,6 @@ payload:
   - DOMAIN,sh.younetmedia.com
   - DOMAIN,sha2008.com
   - DOMAIN,sha2013.com
-  - DOMAIN,sha2021.com
   - DOMAIN,sha2024.com
   - DOMAIN,shadesandblinds.com
   - DOMAIN,shafayat.com
