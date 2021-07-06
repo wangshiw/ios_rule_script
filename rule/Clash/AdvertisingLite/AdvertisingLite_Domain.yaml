@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-06 02:06:45
-# DOMAIN: 14601
+# UPDATED: 2021-07-07 02:06:48
+# DOMAIN: 14588
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12712
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27500
+# TOTAL: 27487
 payload:
   - '0.up.qingdaonews.com'
   - '00-gov.cn'
@@ -21,7 +21,6 @@ payload:
   - '012469af389a1d1246d.com'
   - '020wujin.cn'
   - '02aa19117f396e9.com'
-  - '02b5da94a2bd4aea.com'
   - '033.com'
   - '039ad0897e6da.com'
   - '0511code.com'
@@ -258,7 +257,6 @@ payload:
   - '3381e74f70adfb59.com'
   - '33across.com'
   - '33ae985c0ea917.com'
-  - '340ca72733c9e46fb1.com'
   - '34c2f22e9503ace.com'
   - '350media.com'
   - '3585656d9351553f.com'
@@ -290,7 +288,6 @@ payload:
   - '3ac901bf5793b0fccff.com'
   - '3alian.net'
   - '3c0012ab95c132f.com'
-  - '3c513c1d3255c.com'
   - '3ca28642b714623b2.com'
   - '3cd99930e27056f89.com'
   - '3d0da2373af57.com'
@@ -424,7 +421,6 @@ payload:
   - '61677.com'
   - '61677c.com'
   - '61739011039d41a.com'
-  - '6198399e4910e66-ovc.com'
   - '61kx.uk-insolvencydirect.com'
   - '620c663bca9a4.com'
   - '625c9289e60793.com'
@@ -625,7 +621,6 @@ payload:
   - '9ts3tpia.com'
   - '9utwbj08.top'
   - '9w1an.com'
-  - '9w39.com'
   - '9xu.com'
   - 'a-ads.com'
   - 'a-cast.jp'
@@ -1587,6 +1582,7 @@ payload:
   - 'advfeeds.com'
   - 'advg.jp'
   - 'advideum.com'
+  - 'advinci.co'
   - 'advinci.net'
   - 'adviralmedia.com'
   - 'advise.co'
@@ -2839,7 +2835,6 @@ payload:
   - 'bm324.com'
   - 'bmlmedia.com'
   - 'bmmetrix.com'
-  - 'bmw100.cn'
   - 'bnhtml.com'
   - 'bnmla.com'
   - 'bnr.sys.lv'
@@ -3230,7 +3225,6 @@ payload:
   - 'ccrtvi.com'
   - 'ccscserver.com'
   - 'cctvgb.com.cn'
-  - 'cd.jejre.cn'
   - 'cd490573c64f3f.com'
   - 'cd828.com'
   - 'cd87c85eb2890d048d2.com'
@@ -3286,7 +3280,6 @@ payload:
   - 'ceeglousaud.com'
   - 'ceehimur.uk'
   - 'ceepq.com'
-  - 'cef9c80977e050.com'
   - 'celeb-ads.com'
   - 'celebjihad.com'
   - 'celebros-analytics.com'
@@ -3490,7 +3483,6 @@ payload:
   - 'clicknerd.com'
   - 'clickonometrics.pl'
   - 'clickopop1000.com'
-  - 'clickpapa.com'
   - 'clickpartoffon.xyz'
   - 'clickpathmedia.com'
   - 'clickperks.info'
@@ -4337,6 +4329,7 @@ payload:
   - 'daredorm.com'
   - 'darersan.co'
   - 'darwarvid.com'
+  - 'dashantechan.cn'
   - 'dashbida.com'
   - 'dashboard.io'
   - 'dashboardad.net'
@@ -8191,7 +8184,6 @@ payload:
   - 'megaad.nz'
   - 'megacpm.com'
   - 'megapopads.com'
-  - 'meigeer.com.cn'
   - 'meineserver.com'
   - 'meinlist.com'
   - 'meishiba.com.cn'
@@ -8322,7 +8314,6 @@ payload:
   - 'mixpo.com'
   - 'mixturehopeful.com'
   - 'miyudaquan.top'
-  - 'mjf.lijun8.com'
   - 'mkhoj.com'
   - 'mkt3261.com'
   - 'mkt51.net'
@@ -8815,6 +8806,7 @@ payload:
   - 'newsanalytics.com.au'
   - 'newsarmor.com'
   - 'newscurve.com'
+  - 'newsepads.com'
   - 'newsexbook.com'
   - 'newsgator.com'
   - 'newsharecounts.com'
@@ -12248,7 +12240,6 @@ payload:
   - 'targetspot.com'
   - 'taskanalytics.com'
   - 'tastevision.cn'
-  - 'tat.pandora.xiaomi.com'
   - 'tataget.ru'
   - 'tatami-solutions.com'
   - 'tattomedia.com'
@@ -12806,7 +12797,6 @@ payload:
   - 'triver.jp'
   - 'trk.pswec.com'
   - 'trk4.com'
-  - 'trkclk.net'
   - 'trker.com'
   - 'trkjmp.com'
   - 'trklnks.com'
@@ -13450,7 +13440,6 @@ payload:
   - 'vmhzvqzx.com'
   - 'vmindhls.tc.qq.com'
   - 'vmm-satellite1.com'
-  - 'vmmpxl.com'
   - 'vmraahnmspzy.com'
   - 'vnet.cn'
   - 'vnrherdsxr.com'
@@ -13493,7 +13482,6 @@ payload:
   - 'vpn.youyisheng.net'
   - 'vpnaffiliates.hidester.com'
   - 'vpnfortorrents.cc'
-  - 'vps.gcx3.cn'
   - 'vptbn.com'
   - 'vr.gdt.qq.com'
   - 'vriwjpzvh.com'
@@ -14443,7 +14431,6 @@ payload:
   - 'yvzgazds6d.com'
   - 'yw78.cn'
   - 'ywywjrlbsuv.com'
-  - 'yxdyk.com'
   - 'yxhd.hori-gz.com'
   - 'yxyhtea.com'
   - 'yy32.com'

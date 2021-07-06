@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-06 02:06:44
-# HOST: 20812
+# UPDATED: 2021-07-07 02:06:46
+# HOST: 20809
 # HOST-KEYWORD: 88
 # HOST-SUFFIX: 47999
 # IP-CIDR: 241
 # IP6-CIDR: 1
-# TOTAL: 69141
+# TOTAL: 69138
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -330,7 +330,6 @@ HOST,50258bd2b243b24df.com,Advertising
 HOST,50h6v79p.top,Advertising
 HOST,50websads.com,Advertising
 HOST,514-balcons.com,Advertising
-HOST,51friend.anytome.com,Advertising
 HOST,51huamoo.com,Advertising
 HOST,51huanche.com,Advertising
 HOST,51xingming.com,Advertising
@@ -2668,6 +2667,7 @@ HOST,allgamehacks.org,Advertising
 HOST,allgamesdownload.org,Advertising
 HOST,allgengamingservers.com,Advertising
 HOST,allgethack.com,Advertising
+HOST,allhack4u.com,Advertising
 HOST,allhackarena.com,Advertising
 HOST,allhacks2games.com,Advertising
 HOST,allhackz.net,Advertising
@@ -3344,7 +3344,6 @@ HOST,asalogistics.net,Advertising
 HOST,asanroque.com,Advertising
 HOST,ascentive.com,Advertising
 HOST,asd.arorazphotoworld.com,Advertising
-HOST,asd.basrabrothers.com,Advertising
 HOST,asd.bbpsldh.org,Advertising
 HOST,asd.kisanhealthfoods.com,Advertising
 HOST,asd5211.f3322.net,Advertising
@@ -4185,7 +4184,6 @@ HOST,bnkhapoalim.com,Advertising
 HOST,bnmgr.adinjector.net,Advertising
 HOST,bnsoutlaws.co.uk,Advertising
 HOST,bo-videos.s3.amazonaws.com,Advertising
-HOST,bo.aizhigu8.com,Advertising
 HOST,bo.facesbet.com,Advertising
 HOST,bo2-hack.com,Advertising
 HOST,bo2seasonpass.com,Advertising
@@ -5152,7 +5150,6 @@ HOST,chatty-imaginativelady.com,Advertising
 HOST,chattysnaps.com,Advertising
 HOST,chaturbate.epickeys.com,Advertising
 HOST,chaturbatetokenhack.org,Advertising
-HOST,chaussuressoldesnb.com,Advertising
 HOST,chautcho.com,Advertising
 HOST,chazdean.inq.com,Advertising
 HOST,chazdean.touchcommerce.com,Advertising
@@ -5396,6 +5393,7 @@ HOST,cinemaden.com,Advertising
 HOST,cinemaedvd.com,Advertising
 HOST,cinemanity.com,Advertising
 HOST,cinematraffic.com,Advertising
+HOST,cinemaxy.com,Advertising
 HOST,cingualr.com,Advertising
 HOST,cinyour.accountkit.com,Advertising
 HOST,cioco-froll.com,Advertising
@@ -7052,7 +7050,6 @@ HOST,drchx.000webhostapp.com,Advertising
 HOST,drda5yf9kgz5p.cloudfront.net,Advertising
 HOST,drdudeck.com,Advertising
 HOST,drealvog.ddns.net,Advertising
-HOST,dream-file.com,Advertising
 HOST,dream1well.com,Advertising
 HOST,dreambigprintbig.com,Advertising
 HOST,dreamhackz.com,Advertising
@@ -7167,7 +7164,6 @@ HOST,dynadiscount.com,Advertising
 HOST,dynamic1.anandtech.com,Advertising
 HOST,dynamic1.dailytech.com,Advertising
 HOST,dynamic2.anandtech.com,Advertising
-HOST,dynamicfilmmedia.cn,Advertising
 HOST,dynamichomeinspections.net,Advertising
 HOST,dynatrace.com,Advertising
 HOST,dz2fz0bgyq9tn.cloudfront.net,Advertising
@@ -7407,7 +7403,6 @@ HOST,emarketer.com,Advertising
 HOST,ematrix.filmipop.com,Advertising
 HOST,embed.sendtonews.com,Advertising
 HOST,embrari-1.cn,Advertising
-HOST,emcourses-india.org,Advertising
 HOST,emediate.apmmedia.net,Advertising
 HOST,emediate.eu,Advertising
 HOST,emergenciascomfye.com,Advertising
@@ -8500,7 +8495,6 @@ HOST,freexboxlivee.com,Advertising
 HOST,freexboxliveforever.com,Advertising
 HOST,freexboxlivehere.com,Advertising
 HOST,freexboxlivemonth.com,Advertising
-HOST,freexboxone.org,Advertising
 HOST,freezeyourzitsoff.com,Advertising
 HOST,freezvps.com,Advertising
 HOST,freezwrap.com,Advertising
@@ -8600,7 +8594,6 @@ HOST,fviwwkvvxs.com,Advertising
 HOST,fw.nyc2.appnexus.com,Advertising
 HOST,fwdservice.com,Advertising
 HOST,fxox4wvv.win,Advertising
-HOST,fxprime-popular.com,Advertising
 HOST,fxwpmfdapcalu.com,Advertising
 HOST,fxztjnsb.com,Advertising
 HOST,fyoewyqwpzc.com,Advertising
@@ -8730,6 +8723,7 @@ HOST,gamespeak.net,Advertising
 HOST,gamesplaces.com,Advertising
 HOST,gamespress.net,Advertising
 HOST,gamesps4free.com,Advertising
+HOST,gamesrotator.com,Advertising
 HOST,gamessteam.com,Advertising
 HOST,gamestipshacks.com,Advertising
 HOST,gamestrick.org,Advertising
@@ -8834,6 +8828,7 @@ HOST,gcmapi.wshareit.com,Advertising
 HOST,gcounter.hosting4u.net,Advertising
 HOST,gd.xxtvphoto.com,Advertising
 HOST,gddingtian.com.cn,Advertising
+HOST,gdhongyu17.cn,Advertising
 HOST,gdn.bigfishgames.com,Advertising
 HOST,gdyn.cnngo.com,Advertising
 HOST,gdyn.nba.com,Advertising
@@ -9045,6 +9040,7 @@ HOST,glossysense.com,Advertising
 HOST,gloverzz.net,Advertising
 HOST,glowmediamiami.com,Advertising
 HOST,glowtrawler.com,Advertising
+HOST,glsnqx.babala365.cn,Advertising
 HOST,glucorade.com,Advertising
 HOST,glutenfreeadventurer.com,Advertising
 HOST,glxccx.hztaida.cn,Advertising
@@ -9154,7 +9150,6 @@ HOST,goodphpprogrammer.com,Advertising
 HOST,googcapital.com,Advertising
 HOST,google-analitics.com,Advertising
 HOST,google-analytlcs.com,Advertising
-HOST,google-analyze.cn,Advertising
 HOST,google-docs.org,Advertising
 HOST,google-pagerank.net,Advertising
 HOST,google.tucows.com,Advertising
@@ -9408,6 +9403,7 @@ HOST,h07.hxsame.hexun.com,Advertising
 HOST,h08.hxsame.hexun.com,Advertising
 HOST,h09.hxsame.hexun.com,Advertising
 HOST,h1.ripway.com,Advertising
+HOST,h1.xysibu.cn,Advertising
 HOST,h10.hxsame.hexun.com,Advertising
 HOST,h3ds4.maconslab.com,Advertising
 HOST,h5.7vyou.com,Advertising
@@ -9582,7 +9578,6 @@ HOST,hanulsms.com,Advertising
 HOST,hanys.actonsoftware.com,Advertising
 HOST,hanys2.actonsoftware.com,Advertising
 HOST,hanzele.wpdevcloud.com,Advertising
-HOST,hao.6955000.com,Advertising
 HOST,hao.rising.cn,Advertising
 HOST,hao.xiaomi.com,Advertising
 HOST,happyfathersdaydaddy.com,Advertising
@@ -10366,6 +10361,7 @@ HOST,inf-team-live.epizy.com,Advertising
 HOST,inf.dragon-cityhack.com,Advertising
 HOST,infektsii.com,Advertising
 HOST,infinitcenter.com,Advertising
+HOST,infinite-hacks.com,Advertising
 HOST,infiniti-bd.com,Advertising
 HOST,infiniti.cityads.com,Advertising
 HOST,infinitydownline.com,Advertising
@@ -10917,6 +10913,7 @@ HOST,jump1.momode.net,Advertising
 HOST,jump1.pszyzxh.org,Advertising
 HOST,jump2.momode.net,Advertising
 HOST,jump3.momode.net,Advertising
+HOST,jumpatjax.com,Advertising
 HOST,jumpp.shykjj.com,Advertising
 HOST,jumpstartthemovie.com,Advertising
 HOST,junbi-tracker.com,Advertising
@@ -11281,7 +11278,6 @@ HOST,lannickdinard.org,Advertising
 HOST,lanshanfood.com,Advertising
 HOST,lanxiang.bestaffwajueji.com,Advertising
 HOST,lanzar.publicidadweb.com,Advertising
-HOST,lao.aizhigu8.com,Advertising
 HOST,laohuangli365.com,Advertising
 HOST,laowaihere.com,Advertising
 HOST,laparfumotec.com,Advertising
@@ -11397,6 +11393,7 @@ HOST,leforma.com,Advertising
 HOST,legacy.clickability.com,Advertising
 HOST,legacydocs.fyber.com,Advertising
 HOST,legacyet.com,Advertising
+HOST,legallygetfree.com,Advertising
 HOST,legandruk.com,Advertising
 HOST,legend.ac.cn,Advertising
 HOST,legendarycheats.com,Advertising
@@ -11607,7 +11604,6 @@ HOST,livechatflirt.com,Advertising
 HOST,livecheat.com,Advertising
 HOST,liveclicker.net,Advertising
 HOST,liveclix.net,Advertising
-HOST,livecodehack.com,Advertising
 HOST,livedaynews.com,Advertising
 HOST,livedecnow.com,Advertising
 HOST,livedecwow.com,Advertising
@@ -13251,6 +13247,7 @@ HOST,news.vuukle.com,Advertising
 HOST,news6health.com,Advertising
 HOST,newsbox12.com,Advertising
 HOST,newsdon01.000webhostapp.com,Advertising
+HOST,newsepads.com,Advertising
 HOST,newshared.com,Advertising
 HOST,newshuntads.com,Advertising
 HOST,newsportal1.com,Advertising
@@ -14700,7 +14697,6 @@ HOST,proactivplus.inq.com,Advertising
 HOST,proanalytics.cn,Advertising
 HOST,probannerswap.com,Advertising
 HOST,proceedcollected.com,Advertising
-HOST,processinfo.com.cn,Advertising
 HOST,prod.accountkit.com,Advertising
 HOST,prod.letswinstuff.com,Advertising
 HOST,prodaemdveri.com,Advertising
@@ -15754,6 +15750,7 @@ HOST,safra.moduloativo.com,Advertising
 HOST,saganamu.com,Advertising
 HOST,sagebiotech.com,Advertising
 HOST,sahabatbaliholidays.com,Advertising
+HOST,sahafci.com,Advertising
 HOST,saharatif.com,Advertising
 HOST,sahithiacademy.com,Advertising
 HOST,saicollinsmusic.com,Advertising
@@ -16249,7 +16246,6 @@ HOST,sh.creativcdn.net,Advertising
 HOST,sh.younetmedia.com,Advertising
 HOST,sha2008.com,Advertising
 HOST,sha2013.com,Advertising
-HOST,sha2024.com,Advertising
 HOST,shadesandblinds.com,Advertising
 HOST,shafayat.com,Advertising
 HOST,shagarat.com,Advertising
@@ -16638,7 +16634,6 @@ HOST,smiletownfarm.com,Advertising
 HOST,smilingfaceband.com,Advertising
 HOST,smilingwaves.com,Advertising
 HOST,smillie.000webhostapp.com,Advertising
-HOST,smimarket.com,Advertising
 HOST,smitegemsgiveaway.com,Advertising
 HOST,smithwick.net,Advertising
 HOST,smmknight.org,Advertising
@@ -16905,6 +16900,7 @@ HOST,sqm.telemetry.microsoft.com,Advertising
 HOST,squarespace.top,Advertising
 HOST,squareup.com,Advertising
 HOST,squirtvidz.com,Advertising
+HOST,sqxflow.com,Advertising
 HOST,sr.symcd.com,Advertising
 HOST,sr2.liveperson.net,Advertising
 HOST,srbijacafe.org,Advertising
@@ -17686,7 +17682,6 @@ HOST,taruhanolahraga.com,Advertising
 HOST,taskapi.net,Advertising
 HOST,tastefulsongs.com,Advertising
 HOST,tastevenders.com,Advertising
-HOST,tat.pandora.xiaomi.com,Advertising
 HOST,tataget.ru,Advertising
 HOST,tatami-solutions.com,Advertising
 HOST,tatango.com,Advertising
@@ -18008,6 +18003,7 @@ HOST,thinair.inq.com,Advertising
 HOST,thingre.com,Advertising
 HOST,think.unbounce.com,Advertising
 HOST,thinkablerice.com,Advertising
+HOST,thinkers-inc.com,Advertising
 HOST,thinknear.com,Advertising
 HOST,thinknyc.eu-adcenter.net,Advertising
 HOST,thinktarget.com,Advertising
@@ -18067,6 +18063,7 @@ HOST,timelessconference.com,Advertising
 HOST,timenduaghahowa.com,Advertising
 HOST,timesaver.dlcodes.com,Advertising
 HOST,timesaverpack.sharezips.net,Advertising
+HOST,timeswap.net,Advertising
 HOST,timgiesecke.com,Advertising
 HOST,timothycopus.aimoo.com,Advertising
 HOST,timothyfiore.com,Advertising
@@ -18559,7 +18556,6 @@ HOST,trafficmagnates.com,Advertising
 HOST,trafficmanager.anyclip.com,Advertising
 HOST,trafficnetworkads24.com,Advertising
 HOST,trafficopen.com,Advertising
-HOST,traffics-inspector.cn,Advertising
 HOST,trafficsecrets.com,Advertising
 HOST,trafficsel.com,Advertising
 HOST,trafficstrategies.com,Advertising
@@ -19463,6 +19459,7 @@ HOST,vuonglaw.com,Advertising
 HOST,vural-electronic.com,Advertising
 HOST,vuwdqproq.com,Advertising
 HOST,vv.tmska.com,Advertising
+HOST,vvassup.com,Advertising
 HOST,vvps.ws,Advertising
 HOST,vvvalki.000webhostapp.com,Advertising
 HOST,vw.onlinia.net,Advertising

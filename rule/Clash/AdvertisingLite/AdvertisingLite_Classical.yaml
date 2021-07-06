@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-06 02:06:45
-# DOMAIN: 14601
+# UPDATED: 2021-07-07 02:06:48
+# DOMAIN: 14588
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12712
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27500
+# TOTAL: 27487
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -21,7 +21,6 @@ payload:
   - DOMAIN,012469af389a1d1246d.com
   - DOMAIN,020wujin.cn
   - DOMAIN,02aa19117f396e9.com
-  - DOMAIN,02b5da94a2bd4aea.com
   - DOMAIN,033.com
   - DOMAIN,039ad0897e6da.com
   - DOMAIN,0511code.com
@@ -258,7 +257,6 @@ payload:
   - DOMAIN,3381e74f70adfb59.com
   - DOMAIN,33across.com
   - DOMAIN,33ae985c0ea917.com
-  - DOMAIN,340ca72733c9e46fb1.com
   - DOMAIN,34c2f22e9503ace.com
   - DOMAIN,350media.com
   - DOMAIN,3585656d9351553f.com
@@ -290,7 +288,6 @@ payload:
   - DOMAIN,3ac901bf5793b0fccff.com
   - DOMAIN,3alian.net
   - DOMAIN,3c0012ab95c132f.com
-  - DOMAIN,3c513c1d3255c.com
   - DOMAIN,3ca28642b714623b2.com
   - DOMAIN,3cd99930e27056f89.com
   - DOMAIN,3d0da2373af57.com
@@ -424,7 +421,6 @@ payload:
   - DOMAIN,61677.com
   - DOMAIN,61677c.com
   - DOMAIN,61739011039d41a.com
-  - DOMAIN,6198399e4910e66-ovc.com
   - DOMAIN,61kx.uk-insolvencydirect.com
   - DOMAIN,620c663bca9a4.com
   - DOMAIN,625c9289e60793.com
@@ -625,7 +621,6 @@ payload:
   - DOMAIN,9ts3tpia.com
   - DOMAIN,9utwbj08.top
   - DOMAIN,9w1an.com
-  - DOMAIN,9w39.com
   - DOMAIN,9xu.com
   - DOMAIN,a-ads.com
   - DOMAIN,a-cast.jp
@@ -1587,6 +1582,7 @@ payload:
   - DOMAIN,advfeeds.com
   - DOMAIN,advg.jp
   - DOMAIN,advideum.com
+  - DOMAIN,advinci.co
   - DOMAIN,advinci.net
   - DOMAIN,adviralmedia.com
   - DOMAIN,advise.co
@@ -2839,7 +2835,6 @@ payload:
   - DOMAIN,bm324.com
   - DOMAIN,bmlmedia.com
   - DOMAIN,bmmetrix.com
-  - DOMAIN,bmw100.cn
   - DOMAIN,bnhtml.com
   - DOMAIN,bnmla.com
   - DOMAIN,bnr.sys.lv
@@ -3230,7 +3225,6 @@ payload:
   - DOMAIN,ccrtvi.com
   - DOMAIN,ccscserver.com
   - DOMAIN,cctvgb.com.cn
-  - DOMAIN,cd.jejre.cn
   - DOMAIN,cd490573c64f3f.com
   - DOMAIN,cd828.com
   - DOMAIN,cd87c85eb2890d048d2.com
@@ -3286,7 +3280,6 @@ payload:
   - DOMAIN,ceeglousaud.com
   - DOMAIN,ceehimur.uk
   - DOMAIN,ceepq.com
-  - DOMAIN,cef9c80977e050.com
   - DOMAIN,celeb-ads.com
   - DOMAIN,celebjihad.com
   - DOMAIN,celebros-analytics.com
@@ -3490,7 +3483,6 @@ payload:
   - DOMAIN,clicknerd.com
   - DOMAIN,clickonometrics.pl
   - DOMAIN,clickopop1000.com
-  - DOMAIN,clickpapa.com
   - DOMAIN,clickpartoffon.xyz
   - DOMAIN,clickpathmedia.com
   - DOMAIN,clickperks.info
@@ -4337,6 +4329,7 @@ payload:
   - DOMAIN,daredorm.com
   - DOMAIN,darersan.co
   - DOMAIN,darwarvid.com
+  - DOMAIN,dashantechan.cn
   - DOMAIN,dashbida.com
   - DOMAIN,dashboard.io
   - DOMAIN,dashboardad.net
@@ -8191,7 +8184,6 @@ payload:
   - DOMAIN,megaad.nz
   - DOMAIN,megacpm.com
   - DOMAIN,megapopads.com
-  - DOMAIN,meigeer.com.cn
   - DOMAIN,meineserver.com
   - DOMAIN,meinlist.com
   - DOMAIN,meishiba.com.cn
@@ -8322,7 +8314,6 @@ payload:
   - DOMAIN,mixpo.com
   - DOMAIN,mixturehopeful.com
   - DOMAIN,miyudaquan.top
-  - DOMAIN,mjf.lijun8.com
   - DOMAIN,mkhoj.com
   - DOMAIN,mkt3261.com
   - DOMAIN,mkt51.net
@@ -8815,6 +8806,7 @@ payload:
   - DOMAIN,newsanalytics.com.au
   - DOMAIN,newsarmor.com
   - DOMAIN,newscurve.com
+  - DOMAIN,newsepads.com
   - DOMAIN,newsexbook.com
   - DOMAIN,newsgator.com
   - DOMAIN,newsharecounts.com
@@ -12248,7 +12240,6 @@ payload:
   - DOMAIN,targetspot.com
   - DOMAIN,taskanalytics.com
   - DOMAIN,tastevision.cn
-  - DOMAIN,tat.pandora.xiaomi.com
   - DOMAIN,tataget.ru
   - DOMAIN,tatami-solutions.com
   - DOMAIN,tattomedia.com
@@ -12806,7 +12797,6 @@ payload:
   - DOMAIN,triver.jp
   - DOMAIN,trk.pswec.com
   - DOMAIN,trk4.com
-  - DOMAIN,trkclk.net
   - DOMAIN,trker.com
   - DOMAIN,trkjmp.com
   - DOMAIN,trklnks.com
@@ -13450,7 +13440,6 @@ payload:
   - DOMAIN,vmhzvqzx.com
   - DOMAIN,vmindhls.tc.qq.com
   - DOMAIN,vmm-satellite1.com
-  - DOMAIN,vmmpxl.com
   - DOMAIN,vmraahnmspzy.com
   - DOMAIN,vnet.cn
   - DOMAIN,vnrherdsxr.com
@@ -13493,7 +13482,6 @@ payload:
   - DOMAIN,vpn.youyisheng.net
   - DOMAIN,vpnaffiliates.hidester.com
   - DOMAIN,vpnfortorrents.cc
-  - DOMAIN,vps.gcx3.cn
   - DOMAIN,vptbn.com
   - DOMAIN,vr.gdt.qq.com
   - DOMAIN,vriwjpzvh.com
@@ -14443,7 +14431,6 @@ payload:
   - DOMAIN,yvzgazds6d.com
   - DOMAIN,yw78.cn
   - DOMAIN,ywywjrlbsuv.com
-  - DOMAIN,yxdyk.com
   - DOMAIN,yxhd.hori-gz.com
   - DOMAIN,yxyhtea.com
   - DOMAIN,yy32.com
