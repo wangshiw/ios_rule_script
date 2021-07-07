@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-07 02:06:46
-# HOST: 20809
+# UPDATED: 2021-07-08 02:06:56
+# HOST: 20803
 # HOST-KEYWORD: 88
 # HOST-SUFFIX: 47999
 # IP-CIDR: 241
 # IP6-CIDR: 1
-# TOTAL: 69138
+# TOTAL: 69132
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -278,7 +278,6 @@ HOST,3dsemulator.org,Advertising
 HOST,3dviolet.com,Advertising
 HOST,3gimg.qq.com,Advertising
 HOST,3henterprise.com,Advertising
-HOST,3waynetworks.com,Advertising
 HOST,3weekdiet.com,Advertising
 HOST,3xindiansex.com,Advertising
 HOST,3xtraffic.com,Advertising
@@ -2755,7 +2754,6 @@ HOST,ambitiousagreement.com,Advertising
 HOST,ambulanciaslazaro.com,Advertising
 HOST,amc.actonsoftware.com,Advertising
 HOST,amecargo.com,Advertising
-HOST,amerarani.com,Advertising
 HOST,american-prize-center.com,Advertising
 HOST,americanfriendsofreuth.org,Advertising
 HOST,americash.com,Advertising
@@ -4700,7 +4698,6 @@ HOST,caoshunv.com,Advertising
 HOST,capablecows.com,Advertising
 HOST,capacitatec.net,Advertising
 HOST,capi.connatix.com,Advertising
-HOST,capillaseleden.com,Advertising
 HOST,capitalonetradeonline.com,Advertising
 HOST,capliman.com,Advertising
 HOST,caprofatcatering.com,Advertising
@@ -5275,7 +5272,6 @@ HOST,christmasgiftsau.com,Advertising
 HOST,christopherwhull.com,Advertising
 HOST,chron.stats.com,Advertising
 HOST,chronfamily.org,Advertising
-HOST,chronic.com.hk,Advertising
 HOST,chronicexpress.com,Advertising
 HOST,chuckdaarsonist.net,Advertising
 HOST,chuckfaganco.com,Advertising
@@ -5791,7 +5787,6 @@ HOST,community.clickability.com,Advertising
 HOST,community.unbounce.com,Advertising
 HOST,community2.clickability.com,Advertising
 HOST,compactbanner.com,Advertising
-HOST,companies-catalog.com,Advertising
 HOST,compassenergyservices.com,Advertising
 HOST,compfil.000webhostapp.com,Advertising
 HOST,compitte.com,Advertising
@@ -9362,7 +9357,6 @@ HOST,gulhanhukuk.com,Advertising
 HOST,gumuscorap.com,Advertising
 HOST,gumuskumyapi.com,Advertising
 HOST,gun.vrfitnesscoach.com,Advertising
-HOST,gundamfactory.com,Advertising
 HOST,gundersons.com,Advertising
 HOST,guowaidiaocha.com,Advertising
 HOST,guppymedia.com,Advertising
@@ -12127,6 +12121,7 @@ HOST,maxxxsex.com,Advertising
 HOST,mayaorganization.org,Advertising
 HOST,mayasexe.net,Advertising
 HOST,mayday-fitness.com,Advertising
+HOST,maylasia.com,Advertising
 HOST,mayradecor.com,Advertising
 HOST,mayukefile.com,Advertising
 HOST,mazda.georgewkohn.com,Advertising
@@ -13269,6 +13264,7 @@ HOST,newworldhacks.com,Advertising
 HOST,nexage.akadns.net,Advertising
 HOST,nexcontech.com,Advertising
 HOST,nexerciser.org,Advertising
+HOST,nexi-sicurezza.com,Advertising
 HOST,nexprice.com,Advertising
 HOST,nextdoor.com,Advertising
 HOST,nextgenstats.com,Advertising
@@ -13710,7 +13706,6 @@ HOST,only2date.com,Advertising
 HOST,onlyfiles.net,Advertising
 HOST,onlyfind.net,Advertising
 HOST,onlygadgets.net,Advertising
-HOST,onlyrealhacks.com,Advertising
 HOST,onlysix.co.uk,Advertising
 HOST,onlywoman.org,Advertising
 HOST,onmobile.com,Advertising
@@ -14961,7 +14956,6 @@ HOST,pushqwer.com,Advertising
 HOST,pussl16.com,Advertising
 HOST,pussl18.com,Advertising
 HOST,pussl26.com,Advertising
-HOST,pussl41.com,Advertising
 HOST,pussysaga.com,Advertising
 HOST,pussyspace.com,Advertising
 HOST,putlockermovie.net,Advertising
@@ -16161,6 +16155,7 @@ HOST,services.wetek.com,Advertising
 HOST,services.wigzopush.com,Advertising
 HOST,serviceswellness.com,Advertising
 HOST,servicioclientepant8.com,Advertising
+HOST,serviciosguru.com,Advertising
 HOST,serviowa.sytes.net,Advertising
 HOST,servserv.generals.ea.com,Advertising
 HOST,sesilgavignon.com,Advertising
@@ -19862,7 +19857,6 @@ HOST,worchids.net,Advertising
 HOST,wordbankads.com,Advertising
 HOST,wordkeyhelper.com,Advertising
 HOST,wordpresscom.skimlinks.com,Advertising
-HOST,wordpresscore.com,Advertising
 HOST,wordseach.com,Advertising
 HOST,wordsmart.inq.com,Advertising
 HOST,wordsmart.touchcommerce.com,Advertising

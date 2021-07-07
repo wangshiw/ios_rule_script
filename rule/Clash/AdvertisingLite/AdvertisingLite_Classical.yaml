@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-07 02:06:48
-# DOMAIN: 14588
+# UPDATED: 2021-07-08 02:06:57
+# DOMAIN: 14582
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12712
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27487
+# TOTAL: 27481
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -616,7 +616,6 @@ payload:
   - DOMAIN,9ead.com
   - DOMAIN,9eb10b7a3d04a.com
   - DOMAIN,9ehy8a8u6b.com
-  - DOMAIN,9llm.com
   - DOMAIN,9nl.eu
   - DOMAIN,9ts3tpia.com
   - DOMAIN,9utwbj08.top
@@ -1044,7 +1043,6 @@ payload:
   - DOMAIN,adhostingsolutions.com
   - DOMAIN,adhslx.com
   - DOMAIN,adicate.com
-  - DOMAIN,adigniter.org
   - DOMAIN,adikteev.com
   - DOMAIN,adimise.com
   - DOMAIN,adimmix.com
@@ -2452,7 +2450,6 @@ payload:
   - DOMAIN,bam-x.com
   - DOMAIN,ban-host.ru
   - DOMAIN,banana-splash.com
-  - DOMAIN,bananaflippy.com
   - DOMAIN,banclip.com
   - DOMAIN,bandborder.com
   - DOMAIN,bandelcot.com
@@ -3877,7 +3874,6 @@ payload:
   - DOMAIN,cpalead.com
   - DOMAIN,cpalock.com
   - DOMAIN,cpamatik.com
-  - DOMAIN,cpasmrttds.info
   - DOMAIN,cpaway.com
   - DOMAIN,cpayard.com
   - DOMAIN,cpays.com
@@ -5276,6 +5272,7 @@ payload:
   - DOMAIN,exogripper.com
   - DOMAIN,exomonyf.com
   - DOMAIN,exoticads.com
+  - DOMAIN,exovueplatform.com
   - DOMAIN,exp.360in.com
   - DOMAIN,experianmarketingservices.digital
   - DOMAIN,explorads.com
@@ -6459,7 +6456,6 @@ payload:
   - DOMAIN,hoverr.co
   - DOMAIN,hoverr.media
   - DOMAIN,howsmyssl.com
-  - DOMAIN,howtodoblog.com
   - DOMAIN,hplose.de
   - DOMAIN,hpplay.cn
   - DOMAIN,hprofits.com
@@ -6521,7 +6517,6 @@ payload:
   - DOMAIN,hunt-leads.com
   - DOMAIN,huodong.mobilem.360.cn
   - DOMAIN,hupsouft.net
-  - DOMAIN,hupuzhibo.cn
   - DOMAIN,hurdleyreer.info
   - DOMAIN,hurra.com
   - DOMAIN,husky.sogou.com
@@ -9801,7 +9796,6 @@ payload:
   - DOMAIN,porndroids.com
   - DOMAIN,pornearn.com
   - DOMAIN,pornglee.com
-  - DOMAIN,porngraph.com
   - DOMAIN,porngray.com
   - DOMAIN,pornkings.com
   - DOMAIN,pornleep.com
@@ -10292,7 +10286,6 @@ payload:
   - DOMAIN,qpljfpwdpk.com
   - DOMAIN,qq167.com
   - DOMAIN,qq4g.cn
-  - DOMAIN,qqwlfm.cn
   - DOMAIN,qrius.me
   - DOMAIN,qrlsx.com
   - DOMAIN,qservz.com
@@ -10813,7 +10806,6 @@ payload:
   - DOMAIN,rutarget.ru
   - DOMAIN,ruthlessdegree.com
   - DOMAIN,ruuwkftrtegqj.com
-  - DOMAIN,rvnc72k.com
   - DOMAIN,rwlfznyvivh.com
   - DOMAIN,rwpads.com
   - DOMAIN,rxthdr.com
@@ -12018,6 +12010,7 @@ payload:
   - DOMAIN,stupendoussleet.com
   - DOMAIN,styld-by.com
   - DOMAIN,style-eyes.eu
+  - DOMAIN,styleszelife.com
   - DOMAIN,styleui.ru
   - DOMAIN,sub.avgle.com
   - DOMAIN,sub.ykimg.com
@@ -12071,7 +12064,6 @@ payload:
   - DOMAIN,superfish.com
   - DOMAIN,superinterstitial.com
   - DOMAIN,superippo.com
-  - DOMAIN,superloofy.com
   - DOMAIN,superonclick.com
   - DOMAIN,superstat.info
   - DOMAIN,superstats.com
@@ -13193,6 +13185,7 @@ payload:
   - DOMAIN,uuaajohul.com
   - DOMAIN,uufbvpidyn.com
   - DOMAIN,uujdthyg.com
+  - DOMAIN,uulvtpbx.com
   - DOMAIN,uunak.cn
   - DOMAIN,uux79.com
   - DOMAIN,uuxnwoevyb.com
@@ -13217,6 +13210,7 @@ payload:
   - DOMAIN,v.sixiuwl.cn
   - DOMAIN,v.tf.360.cn
   - DOMAIN,v.u22l.cc
+  - DOMAIN,v.xi666.com
   - DOMAIN,v.xinshide.cn
   - DOMAIN,v11media.com
   - DOMAIN,v12group.com
@@ -13440,6 +13434,7 @@ payload:
   - DOMAIN,vmhzvqzx.com
   - DOMAIN,vmindhls.tc.qq.com
   - DOMAIN,vmm-satellite1.com
+  - DOMAIN,vmmpxl.com
   - DOMAIN,vmraahnmspzy.com
   - DOMAIN,vnet.cn
   - DOMAIN,vnrherdsxr.com
@@ -13839,6 +13834,7 @@ payload:
   - DOMAIN,wos.lv
   - DOMAIN,wouvista.com
   - DOMAIN,wowanalytics.co.uk
+  - DOMAIN,woymebsi.com
   - DOMAIN,wp-monero-miner.de
   - DOMAIN,wp9.ru
   - DOMAIN,wpadsx.com
@@ -13899,7 +13895,6 @@ payload:
   - DOMAIN,www.7ldou.com
   - DOMAIN,www.83692.com
   - DOMAIN,www.8jzw.com
-  - DOMAIN,www.9llm.com
   - DOMAIN,www.aabbttuu.com
   - DOMAIN,www.actiagroup.com
   - DOMAIN,www.adm668.com
@@ -14226,7 +14221,6 @@ payload:
   - DOMAIN,xpx7heciz9.com
   - DOMAIN,xpywzbxjwbxafv.com
   - DOMAIN,xpyyrkwpcpwf.com
-  - DOMAIN,xqbervetkiq.com
   - DOMAIN,xref.io
   - DOMAIN,xs.mochiads.com
   - DOMAIN,xsapp.cdn.bcebos.com

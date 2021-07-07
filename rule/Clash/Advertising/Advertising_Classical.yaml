@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-07 02:06:48
-# DOMAIN: 20809
+# UPDATED: 2021-07-08 02:06:57
+# DOMAIN: 20803
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 47999
 # IP-CIDR: 241
 # IP-CIDR6: 1
-# TOTAL: 69138
+# TOTAL: 69132
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -279,7 +279,6 @@ payload:
   - DOMAIN,3dviolet.com
   - DOMAIN,3gimg.qq.com
   - DOMAIN,3henterprise.com
-  - DOMAIN,3waynetworks.com
   - DOMAIN,3weekdiet.com
   - DOMAIN,3xindiansex.com
   - DOMAIN,3xtraffic.com
@@ -2756,7 +2755,6 @@ payload:
   - DOMAIN,ambulanciaslazaro.com
   - DOMAIN,amc.actonsoftware.com
   - DOMAIN,amecargo.com
-  - DOMAIN,amerarani.com
   - DOMAIN,american-prize-center.com
   - DOMAIN,americanfriendsofreuth.org
   - DOMAIN,americash.com
@@ -4701,7 +4699,6 @@ payload:
   - DOMAIN,capablecows.com
   - DOMAIN,capacitatec.net
   - DOMAIN,capi.connatix.com
-  - DOMAIN,capillaseleden.com
   - DOMAIN,capitalonetradeonline.com
   - DOMAIN,capliman.com
   - DOMAIN,caprofatcatering.com
@@ -5276,7 +5273,6 @@ payload:
   - DOMAIN,christopherwhull.com
   - DOMAIN,chron.stats.com
   - DOMAIN,chronfamily.org
-  - DOMAIN,chronic.com.hk
   - DOMAIN,chronicexpress.com
   - DOMAIN,chuckdaarsonist.net
   - DOMAIN,chuckfaganco.com
@@ -5792,7 +5788,6 @@ payload:
   - DOMAIN,community.unbounce.com
   - DOMAIN,community2.clickability.com
   - DOMAIN,compactbanner.com
-  - DOMAIN,companies-catalog.com
   - DOMAIN,compassenergyservices.com
   - DOMAIN,compfil.000webhostapp.com
   - DOMAIN,compitte.com
@@ -9363,7 +9358,6 @@ payload:
   - DOMAIN,gumuscorap.com
   - DOMAIN,gumuskumyapi.com
   - DOMAIN,gun.vrfitnesscoach.com
-  - DOMAIN,gundamfactory.com
   - DOMAIN,gundersons.com
   - DOMAIN,guowaidiaocha.com
   - DOMAIN,guppymedia.com
@@ -12128,6 +12122,7 @@ payload:
   - DOMAIN,mayaorganization.org
   - DOMAIN,mayasexe.net
   - DOMAIN,mayday-fitness.com
+  - DOMAIN,maylasia.com
   - DOMAIN,mayradecor.com
   - DOMAIN,mayukefile.com
   - DOMAIN,mazda.georgewkohn.com
@@ -13270,6 +13265,7 @@ payload:
   - DOMAIN,nexage.akadns.net
   - DOMAIN,nexcontech.com
   - DOMAIN,nexerciser.org
+  - DOMAIN,nexi-sicurezza.com
   - DOMAIN,nexprice.com
   - DOMAIN,nextdoor.com
   - DOMAIN,nextgenstats.com
@@ -13711,7 +13707,6 @@ payload:
   - DOMAIN,onlyfiles.net
   - DOMAIN,onlyfind.net
   - DOMAIN,onlygadgets.net
-  - DOMAIN,onlyrealhacks.com
   - DOMAIN,onlysix.co.uk
   - DOMAIN,onlywoman.org
   - DOMAIN,onmobile.com
@@ -14962,7 +14957,6 @@ payload:
   - DOMAIN,pussl16.com
   - DOMAIN,pussl18.com
   - DOMAIN,pussl26.com
-  - DOMAIN,pussl41.com
   - DOMAIN,pussysaga.com
   - DOMAIN,pussyspace.com
   - DOMAIN,putlockermovie.net
@@ -16162,6 +16156,7 @@ payload:
   - DOMAIN,services.wigzopush.com
   - DOMAIN,serviceswellness.com
   - DOMAIN,servicioclientepant8.com
+  - DOMAIN,serviciosguru.com
   - DOMAIN,serviowa.sytes.net
   - DOMAIN,servserv.generals.ea.com
   - DOMAIN,sesilgavignon.com
@@ -19863,7 +19858,6 @@ payload:
   - DOMAIN,wordbankads.com
   - DOMAIN,wordkeyhelper.com
   - DOMAIN,wordpresscom.skimlinks.com
-  - DOMAIN,wordpresscore.com
   - DOMAIN,wordseach.com
   - DOMAIN,wordsmart.inq.com
   - DOMAIN,wordsmart.touchcommerce.com

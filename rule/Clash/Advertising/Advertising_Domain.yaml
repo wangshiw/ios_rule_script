@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-07 02:06:48
-# DOMAIN: 20809
+# UPDATED: 2021-07-08 02:06:57
+# DOMAIN: 20803
 # DOMAIN-KEYWORD: 88
 # DOMAIN-SUFFIX: 47999
 # IP-CIDR: 241
 # IP-CIDR6: 1
-# TOTAL: 69138
+# TOTAL: 69132
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -279,7 +279,6 @@ payload:
   - '3dviolet.com'
   - '3gimg.qq.com'
   - '3henterprise.com'
-  - '3waynetworks.com'
   - '3weekdiet.com'
   - '3xindiansex.com'
   - '3xtraffic.com'
@@ -2756,7 +2755,6 @@ payload:
   - 'ambulanciaslazaro.com'
   - 'amc.actonsoftware.com'
   - 'amecargo.com'
-  - 'amerarani.com'
   - 'american-prize-center.com'
   - 'americanfriendsofreuth.org'
   - 'americash.com'
@@ -4701,7 +4699,6 @@ payload:
   - 'capablecows.com'
   - 'capacitatec.net'
   - 'capi.connatix.com'
-  - 'capillaseleden.com'
   - 'capitalonetradeonline.com'
   - 'capliman.com'
   - 'caprofatcatering.com'
@@ -5276,7 +5273,6 @@ payload:
   - 'christopherwhull.com'
   - 'chron.stats.com'
   - 'chronfamily.org'
-  - 'chronic.com.hk'
   - 'chronicexpress.com'
   - 'chuckdaarsonist.net'
   - 'chuckfaganco.com'
@@ -5792,7 +5788,6 @@ payload:
   - 'community.unbounce.com'
   - 'community2.clickability.com'
   - 'compactbanner.com'
-  - 'companies-catalog.com'
   - 'compassenergyservices.com'
   - 'compfil.000webhostapp.com'
   - 'compitte.com'
@@ -9363,7 +9358,6 @@ payload:
   - 'gumuscorap.com'
   - 'gumuskumyapi.com'
   - 'gun.vrfitnesscoach.com'
-  - 'gundamfactory.com'
   - 'gundersons.com'
   - 'guowaidiaocha.com'
   - 'guppymedia.com'
@@ -12128,6 +12122,7 @@ payload:
   - 'mayaorganization.org'
   - 'mayasexe.net'
   - 'mayday-fitness.com'
+  - 'maylasia.com'
   - 'mayradecor.com'
   - 'mayukefile.com'
   - 'mazda.georgewkohn.com'
@@ -13270,6 +13265,7 @@ payload:
   - 'nexage.akadns.net'
   - 'nexcontech.com'
   - 'nexerciser.org'
+  - 'nexi-sicurezza.com'
   - 'nexprice.com'
   - 'nextdoor.com'
   - 'nextgenstats.com'
@@ -13711,7 +13707,6 @@ payload:
   - 'onlyfiles.net'
   - 'onlyfind.net'
   - 'onlygadgets.net'
-  - 'onlyrealhacks.com'
   - 'onlysix.co.uk'
   - 'onlywoman.org'
   - 'onmobile.com'
@@ -14962,7 +14957,6 @@ payload:
   - 'pussl16.com'
   - 'pussl18.com'
   - 'pussl26.com'
-  - 'pussl41.com'
   - 'pussysaga.com'
   - 'pussyspace.com'
   - 'putlockermovie.net'
@@ -16162,6 +16156,7 @@ payload:
   - 'services.wigzopush.com'
   - 'serviceswellness.com'
   - 'servicioclientepant8.com'
+  - 'serviciosguru.com'
   - 'serviowa.sytes.net'
   - 'servserv.generals.ea.com'
   - 'sesilgavignon.com'
@@ -19863,7 +19858,6 @@ payload:
   - 'wordbankads.com'
   - 'wordkeyhelper.com'
   - 'wordpresscom.skimlinks.com'
-  - 'wordpresscore.com'
   - 'wordseach.com'
   - 'wordsmart.inq.com'
   - 'wordsmart.touchcommerce.com'

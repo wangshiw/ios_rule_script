@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-07 02:06:48
-# DOMAIN: 14588
+# UPDATED: 2021-07-08 02:06:57
+# DOMAIN: 14582
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12712
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27487
+# TOTAL: 27481
 payload:
   - '0.up.qingdaonews.com'
   - '00-gov.cn'
@@ -616,7 +616,6 @@ payload:
   - '9ead.com'
   - '9eb10b7a3d04a.com'
   - '9ehy8a8u6b.com'
-  - '9llm.com'
   - '9nl.eu'
   - '9ts3tpia.com'
   - '9utwbj08.top'
@@ -1044,7 +1043,6 @@ payload:
   - 'adhostingsolutions.com'
   - 'adhslx.com'
   - 'adicate.com'
-  - 'adigniter.org'
   - 'adikteev.com'
   - 'adimise.com'
   - 'adimmix.com'
@@ -2452,7 +2450,6 @@ payload:
   - 'bam-x.com'
   - 'ban-host.ru'
   - 'banana-splash.com'
-  - 'bananaflippy.com'
   - 'banclip.com'
   - 'bandborder.com'
   - 'bandelcot.com'
@@ -3877,7 +3874,6 @@ payload:
   - 'cpalead.com'
   - 'cpalock.com'
   - 'cpamatik.com'
-  - 'cpasmrttds.info'
   - 'cpaway.com'
   - 'cpayard.com'
   - 'cpays.com'
@@ -5276,6 +5272,7 @@ payload:
   - 'exogripper.com'
   - 'exomonyf.com'
   - 'exoticads.com'
+  - 'exovueplatform.com'
   - 'exp.360in.com'
   - 'experianmarketingservices.digital'
   - 'explorads.com'
@@ -6459,7 +6456,6 @@ payload:
   - 'hoverr.co'
   - 'hoverr.media'
   - 'howsmyssl.com'
-  - 'howtodoblog.com'
   - 'hplose.de'
   - 'hpplay.cn'
   - 'hprofits.com'
@@ -6521,7 +6517,6 @@ payload:
   - 'hunt-leads.com'
   - 'huodong.mobilem.360.cn'
   - 'hupsouft.net'
-  - 'hupuzhibo.cn'
   - 'hurdleyreer.info'
   - 'hurra.com'
   - 'husky.sogou.com'
@@ -9801,7 +9796,6 @@ payload:
   - 'porndroids.com'
   - 'pornearn.com'
   - 'pornglee.com'
-  - 'porngraph.com'
   - 'porngray.com'
   - 'pornkings.com'
   - 'pornleep.com'
@@ -10292,7 +10286,6 @@ payload:
   - 'qpljfpwdpk.com'
   - 'qq167.com'
   - 'qq4g.cn'
-  - 'qqwlfm.cn'
   - 'qrius.me'
   - 'qrlsx.com'
   - 'qservz.com'
@@ -10813,7 +10806,6 @@ payload:
   - 'rutarget.ru'
   - 'ruthlessdegree.com'
   - 'ruuwkftrtegqj.com'
-  - 'rvnc72k.com'
   - 'rwlfznyvivh.com'
   - 'rwpads.com'
   - 'rxthdr.com'
@@ -12018,6 +12010,7 @@ payload:
   - 'stupendoussleet.com'
   - 'styld-by.com'
   - 'style-eyes.eu'
+  - 'styleszelife.com'
   - 'styleui.ru'
   - 'sub.avgle.com'
   - 'sub.ykimg.com'
@@ -12071,7 +12064,6 @@ payload:
   - 'superfish.com'
   - 'superinterstitial.com'
   - 'superippo.com'
-  - 'superloofy.com'
   - 'superonclick.com'
   - 'superstat.info'
   - 'superstats.com'
@@ -13193,6 +13185,7 @@ payload:
   - 'uuaajohul.com'
   - 'uufbvpidyn.com'
   - 'uujdthyg.com'
+  - 'uulvtpbx.com'
   - 'uunak.cn'
   - 'uux79.com'
   - 'uuxnwoevyb.com'
@@ -13217,6 +13210,7 @@ payload:
   - 'v.sixiuwl.cn'
   - 'v.tf.360.cn'
   - 'v.u22l.cc'
+  - 'v.xi666.com'
   - 'v.xinshide.cn'
   - 'v11media.com'
   - 'v12group.com'
@@ -13440,6 +13434,7 @@ payload:
   - 'vmhzvqzx.com'
   - 'vmindhls.tc.qq.com'
   - 'vmm-satellite1.com'
+  - 'vmmpxl.com'
   - 'vmraahnmspzy.com'
   - 'vnet.cn'
   - 'vnrherdsxr.com'
@@ -13839,6 +13834,7 @@ payload:
   - 'wos.lv'
   - 'wouvista.com'
   - 'wowanalytics.co.uk'
+  - 'woymebsi.com'
   - 'wp-monero-miner.de'
   - 'wp9.ru'
   - 'wpadsx.com'
@@ -13899,7 +13895,6 @@ payload:
   - 'www.7ldou.com'
   - 'www.83692.com'
   - 'www.8jzw.com'
-  - 'www.9llm.com'
   - 'www.aabbttuu.com'
   - 'www.actiagroup.com'
   - 'www.adm668.com'
@@ -14226,7 +14221,6 @@ payload:
   - 'xpx7heciz9.com'
   - 'xpywzbxjwbxafv.com'
   - 'xpyyrkwpcpwf.com'
-  - 'xqbervetkiq.com'
   - 'xref.io'
   - 'xs.mochiads.com'
   - 'xsapp.cdn.bcebos.com'
