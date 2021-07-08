@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-08 02:06:57
+# UPDATED: 2021-07-09 02:07:02
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14582
+# DOMAIN: 14557
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12712
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 295
-# TOTAL: 27776
+# TOTAL: 27751
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -20,7 +20,6 @@
 012.tw
 0123kjz.com
 012469af389a1d1246d.com
-020wujin.cn
 02aa19117f396e9.com
 033.com
 039ad0897e6da.com
@@ -87,7 +86,6 @@
 116b.com
 118114.cn
 1188.com
-118aa629a7968e75e.com
 11hrcnll.com
 11nux.com
 1221e236c3f8703.com
@@ -134,7 +132,6 @@
 18naked.com
 19869.com
 198game.com
-19b45a16170729.com
 19beda38dc2ce42.com
 19d12dd9de1.com
 1b6a637cbe7bb65ac.com
@@ -252,7 +249,6 @@
 31xiaoshuo.org
 321tui.cn
 321tui.com
-32979c00fcc59b5.com
 32a79e2833309ebe.com
 3324.cn
 3381e74f70adfb59.com
@@ -278,7 +274,6 @@
 36500.com
 36500.net
 365sbaffiliates.com
-367e8bed2a847.com
 3761fcd24ef9281f5.com
 3798.com
 37signals.com
@@ -288,9 +283,7 @@
 3a8c9b0ca405b5.com
 3ac901bf5793b0fccff.com
 3alian.net
-3c0012ab95c132f.com
 3ca28642b714623b2.com
-3cd99930e27056f89.com
 3d0da2373af57.com
 3d55eccf56053ff2e8.com
 3d643f542787c62a7.com
@@ -325,7 +318,6 @@
 43d6f284d10bfbbb3.com
 44-trk-srv.com
 442d9f2ac50ca502.com
-4465ef53c8ffded.com
 45f2373b26b8e2.com
 45i73jv6.com
 4702fb341ddf276d.com
@@ -383,7 +375,6 @@
 55803.net
 55labs.com
 565882.com
-56bc7e3668e952c.com
 56bfc388bf12.com
 56yk.com
 5726303d87522d05.com
@@ -391,7 +382,6 @@
 5755ac539651fe8f366.com
 57e3ascxh1.com
 57fd2911f09b76.com
-58b14921719ec.com
 58b291f917728a2.com
 59519.com
 59cn7.com
@@ -440,7 +430,6 @@
 65xps.com
 66.zx1234.com
 6604.org
-660a755deb8829fe.com
 668559.com
 66ce98158e4f402.com
 67126e4413a.com
@@ -480,7 +469,6 @@
 73c6c063b238097.com
 743e6b34be13fb105e0.com
 746fyw2v.com
-74d382def7b08.com
 758c824671f4fc0.com
 7676.com
 76bae64469159dfa58.com
@@ -511,9 +499,9 @@
 7cjsh.cn
 7db0b2a0ee95f557904.com
 7dee28afeb8c939d8.com
+7dlm.cn
 7e625f490775b155.com
 7eer.net
-7f011d5e07db.com
 7f8e91975bdc9c5f1c.com
 7fkm2r4pzi.com
 7hor9gul4s.com
@@ -528,7 +516,6 @@
 7x4.fr
 7x5.fr
 8.jrj.com.cn
-800d24d61daea3c.com
 8020solutions.net
 80579.net
 8080i.com
@@ -585,7 +572,6 @@
 91mobiles.com
 91p20.space
 924e60106cd9d0e.com
-927a8dd1afec73.com
 92caijing.com
 9376ec23d50b1.com
 93ta.cn
@@ -624,7 +610,6 @@
 9xu.com
 a-ads.com
 a-cast.jp
-a-counter.com.ua
 a-counter.kiev.ua
 a-counters.com
 a-pagerank.net
@@ -663,7 +648,6 @@ a15256378569ec595.com
 a157ad075fcb34c.com
 a15c5009bcbe272.com
 a1b1ea8f418ca02ad4e.com
-a1d62657ec88.com
 a22f0d8201ade09fa3.com
 a258c3523a5c4a47bda.com
 a26d31d5d6986cbe.com
@@ -715,7 +699,6 @@ ab11s.com
 ab4tn.com
 ab913aa797e78b3.com
 abakys.ru
-abb963a46029eb.com
 abbeyblog.me
 abbp1.pw
 abc.hearst.co.uk
@@ -2981,7 +2964,6 @@ btpnav.com
 btrll.com
 btserve.com
 btstatic.com
-bttbgroup.com
 btttag.com
 bubblesmedia.ru
 bubblestat.com
@@ -3091,9 +3073,7 @@ c4tracking01.com
 c63d72a4022.com
 c753738.r38.cf2.rackcdn.com
 c75b9ac5103e5d125b8.com
-c7d470df880b1d0.com
 c8.net.ua
-c92a198b4e0a.com
 ca4ec6874a33a13.com
 ca72472d7aee.com
 caanalytics.com
@@ -3352,6 +3332,7 @@ chersoat.com
 chiasephim.xyz
 chiliadv.com
 china-netwave.com
+chinaxiedu.cn
 chinesean.com
 chipleader.com
 chiptionics.co
@@ -3975,6 +3956,7 @@ csaimall.com
 csdata1.com
 csiasvapqrccq.com
 css.asitend.com
+cssrvsync.com
 cstmedia.com.cn
 cswilliamsburg.com
 cszz.ru
@@ -4085,7 +4067,6 @@ d18mealirgdbbz.cloudfront.net
 d18p8z0ptb8qab.cloudfront.net
 d18xeipe1243h6.cloudfront.net
 d191y0yd6d0jy4.cloudfront.net
-d194f913ee63.com
 d1aezk8tun0dhm.cloudfront.net
 d1aqvw7cn4ydzo.cloudfront.net
 d1bxkgbbc428vi.cloudfront.net
@@ -4206,7 +4187,6 @@ d2xgf76oeu9pbh.cloudfront.net
 d2ykons4g8jre6.cloudfront.net
 d2z51a9spn09cw.cloudfront.net
 d2zcblk8m9mzq5.cloudfront.net
-d31ea41705818c9.com
 d31mxuhvwrofft.cloudfront.net
 d31vxm9ubutrmw.cloudfront.net
 d32hwlnfiv2gyn.cloudfront.net
@@ -4519,6 +4499,7 @@ diagnosis.ad.xiaomi.com
 dialogtech.com
 diamondtraff.com
 dian500.com
+dian5000.com
 dianepiette.co.uk
 dianomi.com
 dianomioffers.co.uk
@@ -4899,7 +4880,6 @@ e6916adeb7e46a883.com
 e77lmzbqou0n-a.akamaihd.net
 e7e776c1a8bf677.com
 e85440ec98f04725.com
-e8934fbbed0495.com
 e8dcdcd1ddcb352b.com
 e9976b21f1b2775b.com
 e9mlrvy1.com
@@ -5321,7 +5301,6 @@ f4906b7c15ba.com
 f5080f5cee5a00.com
 f5v1x3kgv5.com
 f8260adbf8558d6.com
-f8316b45436f.com
 f92j5.com
 f9918c3545cc7b.com
 fabricww.com
@@ -5401,7 +5380,6 @@ fd7qz88ckd.com
 fdc.my0511.com
 fderty.com
 fdf4.com
-fdkjt.cn
 fdxstats.xyz
 fe95a992e6afb.com
 feathr.co
@@ -7307,7 +7285,6 @@ kickass.vc
 kids-fashion.dk
 kieden.com
 kiees.com
-kikuzip.com
 killerwebstats.com
 kilometrix.de
 king-oak.cn
@@ -7609,7 +7586,6 @@ linksynergy.com
 linkvans.com
 linkwash.de
 linkwelove.com
-linkwelove.it
 linkwi.se
 linkwithin.com
 linkworth.com
@@ -10507,7 +10483,6 @@ registration.presonus.com
 reichelcormier.bid
 reimburs.co
 reinvigorate.net
-reiqwxxd.com
 reiseeget.com
 reishus.de
 reitb.com
@@ -11247,6 +11222,7 @@ shake.f.360.cn
 shalleda.com
 shalseey.com
 shangjiabiao.com
+shangmiss.wap.xsbiquge.com
 share-server.com
 share.gree.jp
 share.itraffic.su
@@ -12102,7 +12078,6 @@ svlu.net
 svr-prc-01.com
 svtrd.com
 svyksa.info
-sw1block.com
 sw2block.com
 swan-swan-goose.com
 swarmjam.com

@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-08 02:06:57
-# DOMAIN: 14582
+# UPDATED: 2021-07-09 02:07:03
+# DOMAIN: 14557
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12712
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27481
+# TOTAL: 27456
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -19,7 +19,6 @@ payload:
   - DOMAIN,012.tw
   - DOMAIN,0123kjz.com
   - DOMAIN,012469af389a1d1246d.com
-  - DOMAIN,020wujin.cn
   - DOMAIN,02aa19117f396e9.com
   - DOMAIN,033.com
   - DOMAIN,039ad0897e6da.com
@@ -86,7 +85,6 @@ payload:
   - DOMAIN,116b.com
   - DOMAIN,118114.cn
   - DOMAIN,1188.com
-  - DOMAIN,118aa629a7968e75e.com
   - DOMAIN,11hrcnll.com
   - DOMAIN,11nux.com
   - DOMAIN,1221e236c3f8703.com
@@ -133,7 +131,6 @@ payload:
   - DOMAIN,18naked.com
   - DOMAIN,19869.com
   - DOMAIN,198game.com
-  - DOMAIN,19b45a16170729.com
   - DOMAIN,19beda38dc2ce42.com
   - DOMAIN,19d12dd9de1.com
   - DOMAIN,1b6a637cbe7bb65ac.com
@@ -251,7 +248,6 @@ payload:
   - DOMAIN,31xiaoshuo.org
   - DOMAIN,321tui.cn
   - DOMAIN,321tui.com
-  - DOMAIN,32979c00fcc59b5.com
   - DOMAIN,32a79e2833309ebe.com
   - DOMAIN,3324.cn
   - DOMAIN,3381e74f70adfb59.com
@@ -277,7 +273,6 @@ payload:
   - DOMAIN,36500.com
   - DOMAIN,36500.net
   - DOMAIN,365sbaffiliates.com
-  - DOMAIN,367e8bed2a847.com
   - DOMAIN,3761fcd24ef9281f5.com
   - DOMAIN,3798.com
   - DOMAIN,37signals.com
@@ -287,9 +282,7 @@ payload:
   - DOMAIN,3a8c9b0ca405b5.com
   - DOMAIN,3ac901bf5793b0fccff.com
   - DOMAIN,3alian.net
-  - DOMAIN,3c0012ab95c132f.com
   - DOMAIN,3ca28642b714623b2.com
-  - DOMAIN,3cd99930e27056f89.com
   - DOMAIN,3d0da2373af57.com
   - DOMAIN,3d55eccf56053ff2e8.com
   - DOMAIN,3d643f542787c62a7.com
@@ -324,7 +317,6 @@ payload:
   - DOMAIN,43d6f284d10bfbbb3.com
   - DOMAIN,44-trk-srv.com
   - DOMAIN,442d9f2ac50ca502.com
-  - DOMAIN,4465ef53c8ffded.com
   - DOMAIN,45f2373b26b8e2.com
   - DOMAIN,45i73jv6.com
   - DOMAIN,4702fb341ddf276d.com
@@ -382,7 +374,6 @@ payload:
   - DOMAIN,55803.net
   - DOMAIN,55labs.com
   - DOMAIN,565882.com
-  - DOMAIN,56bc7e3668e952c.com
   - DOMAIN,56bfc388bf12.com
   - DOMAIN,56yk.com
   - DOMAIN,5726303d87522d05.com
@@ -390,7 +381,6 @@ payload:
   - DOMAIN,5755ac539651fe8f366.com
   - DOMAIN,57e3ascxh1.com
   - DOMAIN,57fd2911f09b76.com
-  - DOMAIN,58b14921719ec.com
   - DOMAIN,58b291f917728a2.com
   - DOMAIN,59519.com
   - DOMAIN,59cn7.com
@@ -439,7 +429,6 @@ payload:
   - DOMAIN,65xps.com
   - DOMAIN,66.zx1234.com
   - DOMAIN,6604.org
-  - DOMAIN,660a755deb8829fe.com
   - DOMAIN,668559.com
   - DOMAIN,66ce98158e4f402.com
   - DOMAIN,67126e4413a.com
@@ -479,7 +468,6 @@ payload:
   - DOMAIN,73c6c063b238097.com
   - DOMAIN,743e6b34be13fb105e0.com
   - DOMAIN,746fyw2v.com
-  - DOMAIN,74d382def7b08.com
   - DOMAIN,758c824671f4fc0.com
   - DOMAIN,7676.com
   - DOMAIN,76bae64469159dfa58.com
@@ -510,9 +498,9 @@ payload:
   - DOMAIN,7cjsh.cn
   - DOMAIN,7db0b2a0ee95f557904.com
   - DOMAIN,7dee28afeb8c939d8.com
+  - DOMAIN,7dlm.cn
   - DOMAIN,7e625f490775b155.com
   - DOMAIN,7eer.net
-  - DOMAIN,7f011d5e07db.com
   - DOMAIN,7f8e91975bdc9c5f1c.com
   - DOMAIN,7fkm2r4pzi.com
   - DOMAIN,7hor9gul4s.com
@@ -527,7 +515,6 @@ payload:
   - DOMAIN,7x4.fr
   - DOMAIN,7x5.fr
   - DOMAIN,8.jrj.com.cn
-  - DOMAIN,800d24d61daea3c.com
   - DOMAIN,8020solutions.net
   - DOMAIN,80579.net
   - DOMAIN,8080i.com
@@ -584,7 +571,6 @@ payload:
   - DOMAIN,91mobiles.com
   - DOMAIN,91p20.space
   - DOMAIN,924e60106cd9d0e.com
-  - DOMAIN,927a8dd1afec73.com
   - DOMAIN,92caijing.com
   - DOMAIN,9376ec23d50b1.com
   - DOMAIN,93ta.cn
@@ -623,7 +609,6 @@ payload:
   - DOMAIN,9xu.com
   - DOMAIN,a-ads.com
   - DOMAIN,a-cast.jp
-  - DOMAIN,a-counter.com.ua
   - DOMAIN,a-counter.kiev.ua
   - DOMAIN,a-counters.com
   - DOMAIN,a-pagerank.net
@@ -662,7 +647,6 @@ payload:
   - DOMAIN,a157ad075fcb34c.com
   - DOMAIN,a15c5009bcbe272.com
   - DOMAIN,a1b1ea8f418ca02ad4e.com
-  - DOMAIN,a1d62657ec88.com
   - DOMAIN,a22f0d8201ade09fa3.com
   - DOMAIN,a258c3523a5c4a47bda.com
   - DOMAIN,a26d31d5d6986cbe.com
@@ -714,7 +698,6 @@ payload:
   - DOMAIN,ab4tn.com
   - DOMAIN,ab913aa797e78b3.com
   - DOMAIN,abakys.ru
-  - DOMAIN,abb963a46029eb.com
   - DOMAIN,abbeyblog.me
   - DOMAIN,abbp1.pw
   - DOMAIN,abc.hearst.co.uk
@@ -2980,7 +2963,6 @@ payload:
   - DOMAIN,btrll.com
   - DOMAIN,btserve.com
   - DOMAIN,btstatic.com
-  - DOMAIN,bttbgroup.com
   - DOMAIN,btttag.com
   - DOMAIN,bubblesmedia.ru
   - DOMAIN,bubblestat.com
@@ -3090,9 +3072,7 @@ payload:
   - DOMAIN,c63d72a4022.com
   - DOMAIN,c753738.r38.cf2.rackcdn.com
   - DOMAIN,c75b9ac5103e5d125b8.com
-  - DOMAIN,c7d470df880b1d0.com
   - DOMAIN,c8.net.ua
-  - DOMAIN,c92a198b4e0a.com
   - DOMAIN,ca4ec6874a33a13.com
   - DOMAIN,ca72472d7aee.com
   - DOMAIN,caanalytics.com
@@ -3351,6 +3331,7 @@ payload:
   - DOMAIN,chiasephim.xyz
   - DOMAIN,chiliadv.com
   - DOMAIN,china-netwave.com
+  - DOMAIN,chinaxiedu.cn
   - DOMAIN,chinesean.com
   - DOMAIN,chipleader.com
   - DOMAIN,chiptionics.co
@@ -3974,6 +3955,7 @@ payload:
   - DOMAIN,csdata1.com
   - DOMAIN,csiasvapqrccq.com
   - DOMAIN,css.asitend.com
+  - DOMAIN,cssrvsync.com
   - DOMAIN,cstmedia.com.cn
   - DOMAIN,cswilliamsburg.com
   - DOMAIN,cszz.ru
@@ -4084,7 +4066,6 @@ payload:
   - DOMAIN,d18p8z0ptb8qab.cloudfront.net
   - DOMAIN,d18xeipe1243h6.cloudfront.net
   - DOMAIN,d191y0yd6d0jy4.cloudfront.net
-  - DOMAIN,d194f913ee63.com
   - DOMAIN,d1aezk8tun0dhm.cloudfront.net
   - DOMAIN,d1aqvw7cn4ydzo.cloudfront.net
   - DOMAIN,d1bxkgbbc428vi.cloudfront.net
@@ -4205,7 +4186,6 @@ payload:
   - DOMAIN,d2ykons4g8jre6.cloudfront.net
   - DOMAIN,d2z51a9spn09cw.cloudfront.net
   - DOMAIN,d2zcblk8m9mzq5.cloudfront.net
-  - DOMAIN,d31ea41705818c9.com
   - DOMAIN,d31mxuhvwrofft.cloudfront.net
   - DOMAIN,d31vxm9ubutrmw.cloudfront.net
   - DOMAIN,d32hwlnfiv2gyn.cloudfront.net
@@ -4518,6 +4498,7 @@ payload:
   - DOMAIN,dialogtech.com
   - DOMAIN,diamondtraff.com
   - DOMAIN,dian500.com
+  - DOMAIN,dian5000.com
   - DOMAIN,dianepiette.co.uk
   - DOMAIN,dianomi.com
   - DOMAIN,dianomioffers.co.uk
@@ -4898,7 +4879,6 @@ payload:
   - DOMAIN,e77lmzbqou0n-a.akamaihd.net
   - DOMAIN,e7e776c1a8bf677.com
   - DOMAIN,e85440ec98f04725.com
-  - DOMAIN,e8934fbbed0495.com
   - DOMAIN,e8dcdcd1ddcb352b.com
   - DOMAIN,e9976b21f1b2775b.com
   - DOMAIN,e9mlrvy1.com
@@ -5320,7 +5300,6 @@ payload:
   - DOMAIN,f5080f5cee5a00.com
   - DOMAIN,f5v1x3kgv5.com
   - DOMAIN,f8260adbf8558d6.com
-  - DOMAIN,f8316b45436f.com
   - DOMAIN,f92j5.com
   - DOMAIN,f9918c3545cc7b.com
   - DOMAIN,fabricww.com
@@ -5400,7 +5379,6 @@ payload:
   - DOMAIN,fdc.my0511.com
   - DOMAIN,fderty.com
   - DOMAIN,fdf4.com
-  - DOMAIN,fdkjt.cn
   - DOMAIN,fdxstats.xyz
   - DOMAIN,fe95a992e6afb.com
   - DOMAIN,feathr.co
@@ -7306,7 +7284,6 @@ payload:
   - DOMAIN,kids-fashion.dk
   - DOMAIN,kieden.com
   - DOMAIN,kiees.com
-  - DOMAIN,kikuzip.com
   - DOMAIN,killerwebstats.com
   - DOMAIN,kilometrix.de
   - DOMAIN,king-oak.cn
@@ -7608,7 +7585,6 @@ payload:
   - DOMAIN,linkvans.com
   - DOMAIN,linkwash.de
   - DOMAIN,linkwelove.com
-  - DOMAIN,linkwelove.it
   - DOMAIN,linkwi.se
   - DOMAIN,linkwithin.com
   - DOMAIN,linkworth.com
@@ -10506,7 +10482,6 @@ payload:
   - DOMAIN,reichelcormier.bid
   - DOMAIN,reimburs.co
   - DOMAIN,reinvigorate.net
-  - DOMAIN,reiqwxxd.com
   - DOMAIN,reiseeget.com
   - DOMAIN,reishus.de
   - DOMAIN,reitb.com
@@ -11246,6 +11221,7 @@ payload:
   - DOMAIN,shalleda.com
   - DOMAIN,shalseey.com
   - DOMAIN,shangjiabiao.com
+  - DOMAIN,shangmiss.wap.xsbiquge.com
   - DOMAIN,share-server.com
   - DOMAIN,share.gree.jp
   - DOMAIN,share.itraffic.su
@@ -12101,7 +12077,6 @@ payload:
   - DOMAIN,svr-prc-01.com
   - DOMAIN,svtrd.com
   - DOMAIN,svyksa.info
-  - DOMAIN,sw1block.com
   - DOMAIN,sw2block.com
   - DOMAIN,swan-swan-goose.com
   - DOMAIN,swarmjam.com
