@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-09 02:07:03
-# DOMAIN: 20801
+# UPDATED: 2021-07-09 15:47:29
+# DOMAIN: 20795
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 48112
+# DOMAIN-SUFFIX: 48111
 # IP-CIDR: 241
 # IP-CIDR6: 1
-# TOTAL: 69243
+# TOTAL: 69236
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -4649,6 +4649,7 @@ payload:
   - DOMAIN,calculatingcircle.com
   - DOMAIN,calculatingtoothbrush.com
   - DOMAIN,calculatorcamera.com
+  - DOMAIN,calhacks.org
   - DOMAIN,calicutmis.com
   - DOMAIN,californiaroaddream.com
   - DOMAIN,californiastateparks.com
@@ -6515,6 +6516,7 @@ payload:
   - DOMAIN,deadpantruck.com
   - DOMAIN,deal.maabm.com
   - DOMAIN,dealdotcom.com
+  - DOMAIN,dealermobilhondajakarta.com
   - DOMAIN,dealertoyotabaru.com
   - DOMAIN,deals.bullguard.com
   - DOMAIN,dealspicks.com
@@ -9147,7 +9149,6 @@ payload:
   - DOMAIN,goodphpprogrammer.com
   - DOMAIN,googcapital.com
   - DOMAIN,google-analitics.com
-  - DOMAIN,google-analytlcs.com
   - DOMAIN,google-docs.org
   - DOMAIN,google-pagerank.net
   - DOMAIN,google.tucows.com
@@ -9176,7 +9177,6 @@ payload:
   - DOMAIN,gotgamecheats.net
   - DOMAIN,goto.trafficmultiplier.com
   - DOMAIN,gotoplaymillion.com
-  - DOMAIN,gotoredr.com
   - DOMAIN,gotraffic.net
   - DOMAIN,gotsprouts.com
   - DOMAIN,gottagofishinginkeywest.com
@@ -10318,7 +10318,6 @@ payload:
   - DOMAIN,inbergmotors.net
   - DOMAIN,inboxdollars.com
   - DOMAIN,incapsafrica.com
-  - DOMAIN,incestland.com
   - DOMAIN,inclusivediversity.co.uk
   - DOMAIN,incoctel.cl
   - DOMAIN,incognitosearches.com
@@ -10415,7 +10414,6 @@ payload:
   - DOMAIN,insta-hack.com
   - DOMAIN,instagam.org
   - DOMAIN,instagfollows.com
-  - DOMAIN,instagramdeliver.com
   - DOMAIN,instagramhack.com
   - DOMAIN,install.365-stream.com
   - DOMAIN,install.myvideotab.com
@@ -11023,6 +11021,7 @@ payload:
   - DOMAIN,keciorenkoltukyikama.net
   - DOMAIN,kedaidurianmedan.com
   - DOMAIN,keecompany.com
+  - DOMAIN,keephide.com
   - DOMAIN,keepingbusinesslocal.com
   - DOMAIN,keepvacom.com
   - DOMAIN,keitaro1.cityads.com
@@ -11047,7 +11046,6 @@ payload:
   - DOMAIN,keybinary.com
   - DOMAIN,keyboardz.net
   - DOMAIN,keygen-steam.com
-  - DOMAIN,keygen4u.com
   - DOMAIN,keygenallgame.com
   - DOMAIN,keygens-and-cheat.com
   - DOMAIN,keygensforgames.org
@@ -13108,7 +13106,6 @@ payload:
   - DOMAIN,nav.browser.miui.com
   - DOMAIN,nav.cn.ronghub.com
   - DOMAIN,naviblue-team.com
-  - DOMAIN,nb-huaheng.com
   - DOMAIN,nba-center.org
   - DOMAIN,nba2k14.dlcodes.com
   - DOMAIN,nba2k14.sharezips.net
@@ -13760,6 +13757,7 @@ payload:
   - DOMAIN,opertrans.org
   - DOMAIN,opienetwork.com
   - DOMAIN,opiopiopi.000webhostapp.com
+  - DOMAIN,oprahsearch.com
   - DOMAIN,ops.zibov.com
   - DOMAIN,opsen.dolphin-browser.com
   - DOMAIN,opswiki.inq.com
@@ -15133,7 +15131,6 @@ payload:
   - DOMAIN,rarbgunblocked.org
   - DOMAIN,rarekeygencentral.com
   - DOMAIN,rarshare.com
-  - DOMAIN,ras.infynetz.com
   - DOMAIN,rasahack.com
   - DOMAIN,rasdabase.com
   - DOMAIN,rashtrahit.org
@@ -16849,7 +16846,6 @@ payload:
   - DOMAIN,spinbox.versiontracker.com
   - DOMAIN,spirebaboon.com
   - DOMAIN,spirittrucking.com
-  - DOMAIN,spkinobe.com
   - DOMAIN,splash.appsgeyser.com
   - DOMAIN,splicky.com
   - DOMAIN,splitter.ndsplitter.com
@@ -17960,7 +17956,6 @@ payload:
   - DOMAIN,therapistla.com
   - DOMAIN,therealryanralph.com
   - DOMAIN,therenewalchurch.org
-  - DOMAIN,therichkids.com
   - DOMAIN,thermasteelinc.com
   - DOMAIN,thermopista.com
   - DOMAIN,theroamingjew.com
@@ -18139,7 +18134,6 @@ payload:
   - DOMAIN,tomatoartschool.com
   - DOMAIN,tommysbookmarks.com
   - DOMAIN,tommysbookmarks.net
-  - DOMAIN,tomorrownewstoday.com
   - DOMAIN,tomscheats.com
   - DOMAIN,tomstravels.com
   - DOMAIN,tonikasia.com
@@ -20319,7 +20313,6 @@ payload:
   - DOMAIN,xhqsysp.com
   - DOMAIN,xhvhisywkvha.com
   - DOMAIN,xiamenoa.com
-  - DOMAIN,xiamiss.wap.xsbiquge.com
   - DOMAIN,xianyicao.net
   - DOMAIN,xiaocen.com
   - DOMAIN,xiaojinqipai.com
@@ -20532,6 +20525,7 @@ payload:
   - DOMAIN,youcanlosefat.com
   - DOMAIN,youcanoptout.com
   - DOMAIN,youfa72.com
+  - DOMAIN,youfiling.com
   - DOMAIN,yougube.com
   - DOMAIN,youlikehacks.com
   - DOMAIN,youndoo.com
@@ -54179,7 +54173,6 @@ payload:
   - DOMAIN-SUFFIX,pv.ltn.com.tw
   - DOMAIN-SUFFIX,pv.pjtsu.com
   - DOMAIN-SUFFIX,pv.sogou.com
-  - DOMAIN-SUFFIX,pv.sohu.com
   - DOMAIN-SUFFIX,pv.udn.com
   - DOMAIN-SUFFIX,pv.xcar.com.cn
   - DOMAIN-SUFFIX,pv.zdnet.com.cn

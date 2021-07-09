@@ -1,11 +1,11 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-05 02:06:00
+# UPDATED: 2021-07-09 15:47:29
 # DOMAIN: 19
-# DOMAIN-SUFFIX: 9518
+# DOMAIN-SUFFIX: 9517
 # IP-CIDR: 6
-# TOTAL: 9543
+# TOTAL: 9542
 payload:
   - DOMAIN,hm.baidu.com
   - DOMAIN,hmma.baidu.com
@@ -6046,7 +6046,6 @@ payload:
   - DOMAIN-SUFFIX,pv.hd.sohu.com
   - DOMAIN-SUFFIX,pv.ltn.com.tw
   - DOMAIN-SUFFIX,pv.pjtsu.com
-  - DOMAIN-SUFFIX,pv.sohu.com
   - DOMAIN-SUFFIX,pv.udn.com
   - DOMAIN-SUFFIX,pv.xcar.com.cn
   - DOMAIN-SUFFIX,pvstat.china.cn

@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-09 02:07:02
-# HOST: 14557
+# UPDATED: 2021-07-09 15:47:28
+# HOST: 14556
 # HOST-KEYWORD: 28
 # HOST-SUFFIX: 12712
 # IP-CIDR: 158
 # IP6-CIDR: 1
-# TOTAL: 27456
+# TOTAL: 27455
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -2491,6 +2491,7 @@ HOST,barilliance.net,AdvertisingLite
 HOST,baronsoffers.com,AdvertisingLite
 HOST,barrister.org.cn,AdvertisingLite
 HOST,basebanner.com,AdvertisingLite
+HOST,baseniao.com.cn,AdvertisingLite
 HOST,basepush.com,AdvertisingLite
 HOST,basicstat.com,AdvertisingLite
 HOST,basilic.io,AdvertisingLite
@@ -3108,7 +3109,6 @@ HOST,callreports.com,AdvertisingLite
 HOST,calltrackingmetrics.com,AdvertisingLite
 HOST,calltracks.com,AdvertisingLite
 HOST,calltrk.com,AdvertisingLite
-HOST,calotag.com,AdvertisingLite
 HOST,caltat.com,AdvertisingLite
 HOST,cam-lolita.net,AdvertisingLite
 HOST,cam4flat.com,AdvertisingLite
@@ -7235,6 +7235,7 @@ HOST,kaplay.com,AdvertisingLite
 HOST,kargo.com,AdvertisingLite
 HOST,kassabravo.com,AdvertisingLite
 HOST,kattepush.com,AdvertisingLite
+HOST,katurars.com,AdvertisingLite
 HOST,kaubapsy.com,AdvertisingLite
 HOST,kavanga.ru,AdvertisingLite
 HOST,kavijaseuranta.fi,AdvertisingLite
@@ -7548,7 +7549,6 @@ HOST,likemore-go.imgsmail.ru,AdvertisingLite
 HOST,lilangdianqi.cn,AdvertisingLite
 HOST,limbik.io,AdvertisingLite
 HOST,limkokwing-edu.cn,AdvertisingLite
-HOST,lindawei.cn,AdvertisingLite
 HOST,lindon-pool.win,AdvertisingLite
 HOST,linglong.supersuer.com,AdvertisingLite
 HOST,linicom.co.il,AdvertisingLite
@@ -8697,7 +8697,6 @@ HOST,nehersheteen.pro,AdvertisingLite
 HOST,neighborlywatch.com,AdvertisingLite
 HOST,neki.org,AdvertisingLite
 HOST,nenrk.us,AdvertisingLite
-HOST,neo-neo-xeo.com,AdvertisingLite
 HOST,neobux.com,AdvertisingLite
 HOST,neodatagroup.com,AdvertisingLite
 HOST,neoebiz.co.kr,AdvertisingLite
@@ -8881,6 +8880,7 @@ HOST,noretia.com,AdvertisingLite
 HOST,norma-external-collect.meizu.com,AdvertisingLite
 HOST,normkela.com,AdvertisingLite
 HOST,norteevu.com,AdvertisingLite
+HOST,northmay.com,AdvertisingLite
 HOST,northstartravelmedia.com,AdvertisingLite
 HOST,nortonfire.co.uk,AdvertisingLite
 HOST,notebookservisru.161.com1.ru,AdvertisingLite
@@ -9178,6 +9178,7 @@ HOST,opinionbar.com,AdvertisingLite
 HOST,opinionstage.com,AdvertisingLite
 HOST,oplo.org,AdvertisingLite
 HOST,opmnstr.com,AdvertisingLite
+HOST,oprahsearch.com,AdvertisingLite
 HOST,oproi.com,AdvertisingLite
 HOST,opsivesh.net,AdvertisingLite
 HOST,opsooque.com,AdvertisingLite
@@ -9573,7 +9574,6 @@ HOST,pingclock.net,AdvertisingLite
 HOST,pingil.com,AdvertisingLite
 HOST,pingomatic.com,AdvertisingLite
 HOST,pingtas.qq.com,AdvertisingLite
-HOST,pinpinnet.net,AdvertisingLite
 HOST,pinpoll.com,AdvertisingLite
 HOST,pip-pip-pop.com,AdvertisingLite
 HOST,pipeaota.com,AdvertisingLite
@@ -10007,6 +10007,7 @@ HOST,ptengine.cn,AdvertisingLite
 HOST,ptengine.com,AdvertisingLite
 HOST,ptengine.jp,AdvertisingLite
 HOST,ptewh.iptvdeals.com,AdvertisingLite
+HOST,pthejzb.com,AdvertisingLite
 HOST,ptmind.com,AdvertisingLite
 HOST,ptmzr.com,AdvertisingLite
 HOST,pto-slb-09.com,AdvertisingLite
@@ -12434,7 +12435,6 @@ HOST,tkickhhylnvm.com,AdvertisingLite
 HOST,tkn.fux.com,AdvertisingLite
 HOST,tkqlhce.com,AdvertisingLite
 HOST,tl813.com,AdvertisingLite
-HOST,tlafu.space,AdvertisingLite
 HOST,tlootas.org,AdvertisingLite
 HOST,tlvmedia.com,AdvertisingLite
 HOST,tm-core.net,AdvertisingLite
@@ -14141,7 +14141,6 @@ HOST,xgrwjbui.top,AdvertisingLite
 HOST,xhamstercams.com,AdvertisingLite
 HOST,xhit.com,AdvertisingLite
 HOST,xi9p.com,AdvertisingLite
-HOST,xiamiss.wap.xsbiquge.com,AdvertisingLite
 HOST,xiaoyida.com,AdvertisingLite
 HOST,xidx.org,AdvertisingLite
 HOST,xigeweb.com,AdvertisingLite

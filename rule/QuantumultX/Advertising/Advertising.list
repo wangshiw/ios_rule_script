@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-09 02:07:02
-# HOST: 20801
+# UPDATED: 2021-07-09 15:47:28
+# HOST: 20795
 # HOST-KEYWORD: 88
-# HOST-SUFFIX: 48112
+# HOST-SUFFIX: 48111
 # IP-CIDR: 241
 # IP6-CIDR: 1
-# TOTAL: 69243
+# TOTAL: 69236
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -4648,6 +4648,7 @@ HOST,calcomsec.com,Advertising
 HOST,calculatingcircle.com,Advertising
 HOST,calculatingtoothbrush.com,Advertising
 HOST,calculatorcamera.com,Advertising
+HOST,calhacks.org,Advertising
 HOST,calicutmis.com,Advertising
 HOST,californiaroaddream.com,Advertising
 HOST,californiastateparks.com,Advertising
@@ -6514,6 +6515,7 @@ HOST,de.unbounce.com,Advertising
 HOST,deadpantruck.com,Advertising
 HOST,deal.maabm.com,Advertising
 HOST,dealdotcom.com,Advertising
+HOST,dealermobilhondajakarta.com,Advertising
 HOST,dealertoyotabaru.com,Advertising
 HOST,deals.bullguard.com,Advertising
 HOST,dealspicks.com,Advertising
@@ -9146,7 +9148,6 @@ HOST,goodmenonthego.com,Advertising
 HOST,goodphpprogrammer.com,Advertising
 HOST,googcapital.com,Advertising
 HOST,google-analitics.com,Advertising
-HOST,google-analytlcs.com,Advertising
 HOST,google-docs.org,Advertising
 HOST,google-pagerank.net,Advertising
 HOST,google.tucows.com,Advertising
@@ -9175,7 +9176,6 @@ HOST,got2goshop.com,Advertising
 HOST,gotgamecheats.net,Advertising
 HOST,goto.trafficmultiplier.com,Advertising
 HOST,gotoplaymillion.com,Advertising
-HOST,gotoredr.com,Advertising
 HOST,gotraffic.net,Advertising
 HOST,gotsprouts.com,Advertising
 HOST,gottagofishinginkeywest.com,Advertising
@@ -10317,7 +10317,6 @@ HOST,inaccused.com,Advertising
 HOST,inbergmotors.net,Advertising
 HOST,inboxdollars.com,Advertising
 HOST,incapsafrica.com,Advertising
-HOST,incestland.com,Advertising
 HOST,inclusivediversity.co.uk,Advertising
 HOST,incoctel.cl,Advertising
 HOST,incognitosearches.com,Advertising
@@ -10414,7 +10413,6 @@ HOST,inspiretodance.com,Advertising
 HOST,insta-hack.com,Advertising
 HOST,instagam.org,Advertising
 HOST,instagfollows.com,Advertising
-HOST,instagramdeliver.com,Advertising
 HOST,instagramhack.com,Advertising
 HOST,install.365-stream.com,Advertising
 HOST,install.myvideotab.com,Advertising
@@ -11022,6 +11020,7 @@ HOST,kebavkbeev.com,Advertising
 HOST,keciorenkoltukyikama.net,Advertising
 HOST,kedaidurianmedan.com,Advertising
 HOST,keecompany.com,Advertising
+HOST,keephide.com,Advertising
 HOST,keepingbusinesslocal.com,Advertising
 HOST,keepvacom.com,Advertising
 HOST,keitaro1.cityads.com,Advertising
@@ -11046,7 +11045,6 @@ HOST,kevinandhowlin.com,Advertising
 HOST,keybinary.com,Advertising
 HOST,keyboardz.net,Advertising
 HOST,keygen-steam.com,Advertising
-HOST,keygen4u.com,Advertising
 HOST,keygenallgame.com,Advertising
 HOST,keygens-and-cheat.com,Advertising
 HOST,keygensforgames.org,Advertising
@@ -13107,7 +13105,6 @@ HOST,naughtyadserve.com,Advertising
 HOST,nav.browser.miui.com,Advertising
 HOST,nav.cn.ronghub.com,Advertising
 HOST,naviblue-team.com,Advertising
-HOST,nb-huaheng.com,Advertising
 HOST,nba-center.org,Advertising
 HOST,nba2k14.dlcodes.com,Advertising
 HOST,nba2k14.sharezips.net,Advertising
@@ -13759,6 +13756,7 @@ HOST,operationkettle.com,Advertising
 HOST,opertrans.org,Advertising
 HOST,opienetwork.com,Advertising
 HOST,opiopiopi.000webhostapp.com,Advertising
+HOST,oprahsearch.com,Advertising
 HOST,ops.zibov.com,Advertising
 HOST,opsen.dolphin-browser.com,Advertising
 HOST,opswiki.inq.com,Advertising
@@ -15132,7 +15130,6 @@ HOST,raquelalves.com,Advertising
 HOST,rarbgunblocked.org,Advertising
 HOST,rarekeygencentral.com,Advertising
 HOST,rarshare.com,Advertising
-HOST,ras.infynetz.com,Advertising
 HOST,rasahack.com,Advertising
 HOST,rasdabase.com,Advertising
 HOST,rashtrahit.org,Advertising
@@ -16848,7 +16845,6 @@ HOST,spinbox.techtracker.com,Advertising
 HOST,spinbox.versiontracker.com,Advertising
 HOST,spirebaboon.com,Advertising
 HOST,spirittrucking.com,Advertising
-HOST,spkinobe.com,Advertising
 HOST,splash.appsgeyser.com,Advertising
 HOST,splicky.com,Advertising
 HOST,splitter.ndsplitter.com,Advertising
@@ -17959,7 +17955,6 @@ HOST,therapeuterelationdaide.com,Advertising
 HOST,therapistla.com,Advertising
 HOST,therealryanralph.com,Advertising
 HOST,therenewalchurch.org,Advertising
-HOST,therichkids.com,Advertising
 HOST,thermasteelinc.com,Advertising
 HOST,thermopista.com,Advertising
 HOST,theroamingjew.com,Advertising
@@ -18138,7 +18133,6 @@ HOST,tomalinoalambres.com.ar,Advertising
 HOST,tomatoartschool.com,Advertising
 HOST,tommysbookmarks.com,Advertising
 HOST,tommysbookmarks.net,Advertising
-HOST,tomorrownewstoday.com,Advertising
 HOST,tomscheats.com,Advertising
 HOST,tomstravels.com,Advertising
 HOST,tonikasia.com,Advertising
@@ -20318,7 +20312,6 @@ HOST,xhamstertube.com,Advertising
 HOST,xhqsysp.com,Advertising
 HOST,xhvhisywkvha.com,Advertising
 HOST,xiamenoa.com,Advertising
-HOST,xiamiss.wap.xsbiquge.com,Advertising
 HOST,xianyicao.net,Advertising
 HOST,xiaocen.com,Advertising
 HOST,xiaojinqipai.com,Advertising
@@ -20531,6 +20524,7 @@ HOST,youbet8.com,Advertising
 HOST,youcanlosefat.com,Advertising
 HOST,youcanoptout.com,Advertising
 HOST,youfa72.com,Advertising
+HOST,youfiling.com,Advertising
 HOST,yougube.com,Advertising
 HOST,youlikehacks.com,Advertising
 HOST,youndoo.com,Advertising
@@ -54178,7 +54172,6 @@ HOST-SUFFIX,pv.hd.sohu.com,Advertising
 HOST-SUFFIX,pv.ltn.com.tw,Advertising
 HOST-SUFFIX,pv.pjtsu.com,Advertising
 HOST-SUFFIX,pv.sogou.com,Advertising
-HOST-SUFFIX,pv.sohu.com,Advertising
 HOST-SUFFIX,pv.udn.com,Advertising
 HOST-SUFFIX,pv.xcar.com.cn,Advertising
 HOST-SUFFIX,pv.zdnet.com.cn,Advertising

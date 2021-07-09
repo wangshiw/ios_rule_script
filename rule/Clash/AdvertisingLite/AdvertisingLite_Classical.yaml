@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-09 02:07:03
-# DOMAIN: 14557
+# UPDATED: 2021-07-09 15:47:29
+# DOMAIN: 14556
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12712
 # IP-CIDR: 158
 # IP-CIDR6: 1
-# TOTAL: 27456
+# TOTAL: 27455
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
@@ -2492,6 +2492,7 @@ payload:
   - DOMAIN,baronsoffers.com
   - DOMAIN,barrister.org.cn
   - DOMAIN,basebanner.com
+  - DOMAIN,baseniao.com.cn
   - DOMAIN,basepush.com
   - DOMAIN,basicstat.com
   - DOMAIN,basilic.io
@@ -3109,7 +3110,6 @@ payload:
   - DOMAIN,calltrackingmetrics.com
   - DOMAIN,calltracks.com
   - DOMAIN,calltrk.com
-  - DOMAIN,calotag.com
   - DOMAIN,caltat.com
   - DOMAIN,cam-lolita.net
   - DOMAIN,cam4flat.com
@@ -7236,6 +7236,7 @@ payload:
   - DOMAIN,kargo.com
   - DOMAIN,kassabravo.com
   - DOMAIN,kattepush.com
+  - DOMAIN,katurars.com
   - DOMAIN,kaubapsy.com
   - DOMAIN,kavanga.ru
   - DOMAIN,kavijaseuranta.fi
@@ -7549,7 +7550,6 @@ payload:
   - DOMAIN,lilangdianqi.cn
   - DOMAIN,limbik.io
   - DOMAIN,limkokwing-edu.cn
-  - DOMAIN,lindawei.cn
   - DOMAIN,lindon-pool.win
   - DOMAIN,linglong.supersuer.com
   - DOMAIN,linicom.co.il
@@ -8698,7 +8698,6 @@ payload:
   - DOMAIN,neighborlywatch.com
   - DOMAIN,neki.org
   - DOMAIN,nenrk.us
-  - DOMAIN,neo-neo-xeo.com
   - DOMAIN,neobux.com
   - DOMAIN,neodatagroup.com
   - DOMAIN,neoebiz.co.kr
@@ -8882,6 +8881,7 @@ payload:
   - DOMAIN,norma-external-collect.meizu.com
   - DOMAIN,normkela.com
   - DOMAIN,norteevu.com
+  - DOMAIN,northmay.com
   - DOMAIN,northstartravelmedia.com
   - DOMAIN,nortonfire.co.uk
   - DOMAIN,notebookservisru.161.com1.ru
@@ -9179,6 +9179,7 @@ payload:
   - DOMAIN,opinionstage.com
   - DOMAIN,oplo.org
   - DOMAIN,opmnstr.com
+  - DOMAIN,oprahsearch.com
   - DOMAIN,oproi.com
   - DOMAIN,opsivesh.net
   - DOMAIN,opsooque.com
@@ -9574,7 +9575,6 @@ payload:
   - DOMAIN,pingil.com
   - DOMAIN,pingomatic.com
   - DOMAIN,pingtas.qq.com
-  - DOMAIN,pinpinnet.net
   - DOMAIN,pinpoll.com
   - DOMAIN,pip-pip-pop.com
   - DOMAIN,pipeaota.com
@@ -10008,6 +10008,7 @@ payload:
   - DOMAIN,ptengine.com
   - DOMAIN,ptengine.jp
   - DOMAIN,ptewh.iptvdeals.com
+  - DOMAIN,pthejzb.com
   - DOMAIN,ptmind.com
   - DOMAIN,ptmzr.com
   - DOMAIN,pto-slb-09.com
@@ -12435,7 +12436,6 @@ payload:
   - DOMAIN,tkn.fux.com
   - DOMAIN,tkqlhce.com
   - DOMAIN,tl813.com
-  - DOMAIN,tlafu.space
   - DOMAIN,tlootas.org
   - DOMAIN,tlvmedia.com
   - DOMAIN,tm-core.net
@@ -14142,7 +14142,6 @@ payload:
   - DOMAIN,xhamstercams.com
   - DOMAIN,xhit.com
   - DOMAIN,xi9p.com
-  - DOMAIN,xiamiss.wap.xsbiquge.com
   - DOMAIN,xiaoyida.com
   - DOMAIN,xidx.org
   - DOMAIN,xigeweb.com

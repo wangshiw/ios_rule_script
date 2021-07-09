@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-09 02:07:01
+# UPDATED: 2021-07-09 15:47:27
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14557
+# DOMAIN: 14556
 # DOMAIN-KEYWORD: 28
 # DOMAIN-SUFFIX: 12712
 # IP-CIDR: 158
 # IP-CIDR6: 1
 # URL-REGEX: 295
-# TOTAL: 27751
+# TOTAL: 27750
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -2493,6 +2493,7 @@ barilliance.net
 baronsoffers.com
 barrister.org.cn
 basebanner.com
+baseniao.com.cn
 basepush.com
 basicstat.com
 basilic.io
@@ -3110,7 +3111,6 @@ callreports.com
 calltrackingmetrics.com
 calltracks.com
 calltrk.com
-calotag.com
 caltat.com
 cam-lolita.net
 cam4flat.com
@@ -7237,6 +7237,7 @@ kaplay.com
 kargo.com
 kassabravo.com
 kattepush.com
+katurars.com
 kaubapsy.com
 kavanga.ru
 kavijaseuranta.fi
@@ -7550,7 +7551,6 @@ likemore-go.imgsmail.ru
 lilangdianqi.cn
 limbik.io
 limkokwing-edu.cn
-lindawei.cn
 lindon-pool.win
 linglong.supersuer.com
 linicom.co.il
@@ -8699,7 +8699,6 @@ nehersheteen.pro
 neighborlywatch.com
 neki.org
 nenrk.us
-neo-neo-xeo.com
 neobux.com
 neodatagroup.com
 neoebiz.co.kr
@@ -8883,6 +8882,7 @@ noretia.com
 norma-external-collect.meizu.com
 normkela.com
 norteevu.com
+northmay.com
 northstartravelmedia.com
 nortonfire.co.uk
 notebookservisru.161.com1.ru
@@ -9180,6 +9180,7 @@ opinionbar.com
 opinionstage.com
 oplo.org
 opmnstr.com
+oprahsearch.com
 oproi.com
 opsivesh.net
 opsooque.com
@@ -9575,7 +9576,6 @@ pingclock.net
 pingil.com
 pingomatic.com
 pingtas.qq.com
-pinpinnet.net
 pinpoll.com
 pip-pip-pop.com
 pipeaota.com
@@ -10009,6 +10009,7 @@ ptengine.cn
 ptengine.com
 ptengine.jp
 ptewh.iptvdeals.com
+pthejzb.com
 ptmind.com
 ptmzr.com
 pto-slb-09.com
@@ -12436,7 +12437,6 @@ tkickhhylnvm.com
 tkn.fux.com
 tkqlhce.com
 tl813.com
-tlafu.space
 tlootas.org
 tlvmedia.com
 tm-core.net
@@ -14143,7 +14143,6 @@ xgrwjbui.top
 xhamstercams.com
 xhit.com
 xi9p.com
-xiamiss.wap.xsbiquge.com
 xiaoyida.com
 xidx.org
 xigeweb.com

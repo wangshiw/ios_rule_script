@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-07-09 02:07:03
-# DOMAIN: 20801
+# UPDATED: 2021-07-09 15:47:29
+# DOMAIN: 20795
 # DOMAIN-KEYWORD: 88
-# DOMAIN-SUFFIX: 48112
+# DOMAIN-SUFFIX: 48111
 # IP-CIDR: 241
 # IP-CIDR6: 1
-# TOTAL: 69243
+# TOTAL: 69236
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -4649,6 +4649,7 @@ payload:
   - 'calculatingcircle.com'
   - 'calculatingtoothbrush.com'
   - 'calculatorcamera.com'
+  - 'calhacks.org'
   - 'calicutmis.com'
   - 'californiaroaddream.com'
   - 'californiastateparks.com'
@@ -6515,6 +6516,7 @@ payload:
   - 'deadpantruck.com'
   - 'deal.maabm.com'
   - 'dealdotcom.com'
+  - 'dealermobilhondajakarta.com'
   - 'dealertoyotabaru.com'
   - 'deals.bullguard.com'
   - 'dealspicks.com'
@@ -9147,7 +9149,6 @@ payload:
   - 'goodphpprogrammer.com'
   - 'googcapital.com'
   - 'google-analitics.com'
-  - 'google-analytlcs.com'
   - 'google-docs.org'
   - 'google-pagerank.net'
   - 'google.tucows.com'
@@ -9176,7 +9177,6 @@ payload:
   - 'gotgamecheats.net'
   - 'goto.trafficmultiplier.com'
   - 'gotoplaymillion.com'
-  - 'gotoredr.com'
   - 'gotraffic.net'
   - 'gotsprouts.com'
   - 'gottagofishinginkeywest.com'
@@ -10318,7 +10318,6 @@ payload:
   - 'inbergmotors.net'
   - 'inboxdollars.com'
   - 'incapsafrica.com'
-  - 'incestland.com'
   - 'inclusivediversity.co.uk'
   - 'incoctel.cl'
   - 'incognitosearches.com'
@@ -10415,7 +10414,6 @@ payload:
   - 'insta-hack.com'
   - 'instagam.org'
   - 'instagfollows.com'
-  - 'instagramdeliver.com'
   - 'instagramhack.com'
   - 'install.365-stream.com'
   - 'install.myvideotab.com'
@@ -11023,6 +11021,7 @@ payload:
   - 'keciorenkoltukyikama.net'
   - 'kedaidurianmedan.com'
   - 'keecompany.com'
+  - 'keephide.com'
   - 'keepingbusinesslocal.com'
   - 'keepvacom.com'
   - 'keitaro1.cityads.com'
@@ -11047,7 +11046,6 @@ payload:
   - 'keybinary.com'
   - 'keyboardz.net'
   - 'keygen-steam.com'
-  - 'keygen4u.com'
   - 'keygenallgame.com'
   - 'keygens-and-cheat.com'
   - 'keygensforgames.org'
@@ -13108,7 +13106,6 @@ payload:
   - 'nav.browser.miui.com'
   - 'nav.cn.ronghub.com'
   - 'naviblue-team.com'
-  - 'nb-huaheng.com'
   - 'nba-center.org'
   - 'nba2k14.dlcodes.com'
   - 'nba2k14.sharezips.net'
@@ -13760,6 +13757,7 @@ payload:
   - 'opertrans.org'
   - 'opienetwork.com'
   - 'opiopiopi.000webhostapp.com'
+  - 'oprahsearch.com'
   - 'ops.zibov.com'
   - 'opsen.dolphin-browser.com'
   - 'opswiki.inq.com'
@@ -15133,7 +15131,6 @@ payload:
   - 'rarbgunblocked.org'
   - 'rarekeygencentral.com'
   - 'rarshare.com'
-  - 'ras.infynetz.com'
   - 'rasahack.com'
   - 'rasdabase.com'
   - 'rashtrahit.org'
@@ -16849,7 +16846,6 @@ payload:
   - 'spinbox.versiontracker.com'
   - 'spirebaboon.com'
   - 'spirittrucking.com'
-  - 'spkinobe.com'
   - 'splash.appsgeyser.com'
   - 'splicky.com'
   - 'splitter.ndsplitter.com'
@@ -17960,7 +17956,6 @@ payload:
   - 'therapistla.com'
   - 'therealryanralph.com'
   - 'therenewalchurch.org'
-  - 'therichkids.com'
   - 'thermasteelinc.com'
   - 'thermopista.com'
   - 'theroamingjew.com'
@@ -18139,7 +18134,6 @@ payload:
   - 'tomatoartschool.com'
   - 'tommysbookmarks.com'
   - 'tommysbookmarks.net'
-  - 'tomorrownewstoday.com'
   - 'tomscheats.com'
   - 'tomstravels.com'
   - 'tonikasia.com'
@@ -20319,7 +20313,6 @@ payload:
   - 'xhqsysp.com'
   - 'xhvhisywkvha.com'
   - 'xiamenoa.com'
-  - 'xiamiss.wap.xsbiquge.com'
   - 'xianyicao.net'
   - 'xiaocen.com'
   - 'xiaojinqipai.com'
@@ -20532,6 +20525,7 @@ payload:
   - 'youcanlosefat.com'
   - 'youcanoptout.com'
   - 'youfa72.com'
+  - 'youfiling.com'
   - 'yougube.com'
   - 'youlikehacks.com'
   - 'youndoo.com'
@@ -54179,7 +54173,6 @@ payload:
   - '.pv.ltn.com.tw'
   - '.pv.pjtsu.com'
   - '.pv.sogou.com'
-  - '.pv.sohu.com'
   - '.pv.udn.com'
   - '.pv.xcar.com.cn'
   - '.pv.zdnet.com.cn'
